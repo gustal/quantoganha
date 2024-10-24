@@ -1,10 +1,11 @@
 """Curate RAIS data."""
 
-from sqlalchemy import create_engine
+from sqlalchemy.dialects.sqlite import INTEGER, TEXT, FLOAT, BOOLEAN
+from sqlalchemy import Table, Column, MetaData
+from sqlalchemy import create_engine, inspect
 from utils import curate
 from tqdm import tqdm
 import pandas as pd
-import unicodedata
 import re
 import os
 
@@ -14,6 +15,43 @@ os.chdir(CW_PATH)
 
 # Create engine
 ENGINE = create_engine('sqlite:///rais.db')
+
+# Models
+metadata = MetaData()
+
+# Pandas datatypes to SQLite
+datatype_dict = {
+    'int': INTEGER,
+    'float': FLOAT,
+    'str': TEXT,
+    'bool': BOOLEAN
+}
+
+# Create a list of SQLAlchemy Column objects based on the column names
+columns = [
+    Column(name, datatype_dict.get(datatype))
+    for name, datatype
+    in curate.table_schema['rais'].items()
+]
+
+# Table name
+table_name = 'rais_teste'
+
+# Define the table with the columns, including an auto-increment ID if needed
+rais = Table(
+    table_name,
+    metadata,
+    Column('id', INTEGER, primary_key=True, autoincrement=True),
+    Column('year', INTEGER),
+    *columns
+)
+
+# Initialize the inspector to query the database schema
+inspector = inspect(ENGINE)
+
+# Create table if it doesn't exist
+if not (table_name in inspector.get_table_names()):
+    metadata.create_all(ENGINE)
 
 # Products
 products = ['RAIS']
@@ -59,7 +97,7 @@ for product in products:
                             index=False,
                             if_exists='append',
                             chunksize=16000,
-                            name=product.lower() + '_bronze'
+                            name=table_name # product.lower() + '_bronze'
                         )
 
                     # Write log
