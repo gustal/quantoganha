@@ -1,0 +1,16 @@
+﻿admission_type,admission_type_code
+Não Admitido Ano,00
+Primeiro Emprego,01
+Reemprego,02
+Transferência com Ônus,03
+Transferência sem Ônus,04
+Reintegração,06
+Recondução,07
+Reversão,08
+Requisição,09
+Exercício provisório ou exercício descentralizado de servidor oriundo do mesmo órgão/entidade ou de outro órgão/entidade,10
+Readaptação (específico para servidor público),11
+Redistribuição (específico para servidor público),12
+Exercício descentralizado de servidor oriundo do mesmo órgão/entidade ou de outro órgão/entidade,13
+Remoção (específico para servidor público),14
+IGNORADO,-1

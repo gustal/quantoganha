@@ -1,0 +1,2423 @@
+﻿cnae_name,cnae_formated_code,cnae_category,cnae_code
+"AGRICULTURA, PECUÁRIA, PRODUÇÃO FLORESTAL, PESCA E AQUICULTURA",A,section,A
+"AGRICULTURA, PECUÁRIA E SERVIÇOS RELACIONADOS",01,division,01
+Produção de lavouras temporárias,01.1,group,011
+Cultivo de cereais,01.11-3,class,01113
+Cultivo de arroz,0111-3/01,subclass,0111301
+Cultivo de milho,0111-3/02,subclass,0111302
+Cultivo de trigo,0111-3/03,subclass,0111303
+Cultivo de outros cereais não especificados anteriormente,0111-3/99,subclass,0111399
+Cultivo de algodão herbáceo e de outras fibras de lavoura temporária,01.12-1,class,01121
+Cultivo de algodão herbáceo,0112-1/01,subclass,0112101
+Cultivo de juta,0112-1/02,subclass,0112102
+Cultivo de outras fibras de lavoura temporária não especificadas anteriormente,0112-1/99,subclass,0112199
+Cultivo de cana-de-açúcar,01.13-0,class,01130
+Cultivo de cana-de-açúcar,0113-0/00,subclass,0113000
+Cultivo de fumo,01.14-8,class,01148
+Cultivo de fumo,0114-8/00,subclass,0114800
+Cultivo de soja,01.15-6,class,01156
+Cultivo de soja,0115-6/00,subclass,0115600
+"Cultivo de oleaginosas de lavoura temporária, exceto soja",01.16-4,class,01164
+Cultivo de amendoim,0116-4/01,subclass,0116401
+Cultivo de girassol,0116-4/02,subclass,0116402
+Cultivo de mamona,0116-4/03,subclass,0116403
+Cultivo de outras oleaginosas de lavoura temporária não especificadas anteriormente,0116-4/99,subclass,0116499
+Cultivo de plantas de lavoura temporária não especificadas anteriormente,01.19-9,class,01199
+Cultivo de abacaxi,0119-9/01,subclass,0119901
+Cultivo de alho,0119-9/02,subclass,0119902
+Cultivo de batata-inglesa,0119-9/03,subclass,0119903
+Cultivo de cebola,0119-9/04,subclass,0119904
+Cultivo de feijão,0119-9/05,subclass,0119905
+Cultivo de mandioca,0119-9/06,subclass,0119906
+Cultivo de melão,0119-9/07,subclass,0119907
+Cultivo de melancia,0119-9/08,subclass,0119908
+Cultivo de tomate rasteiro,0119-9/09,subclass,0119909
+Cultivo de outras plantas de lavoura temporária não especificadas anteriormente,0119-9/99,subclass,0119999
+Horticultura e floricultura,01.2,group,012
+Horticultura,01.21-1,class,01211
+"Horticultura, exceto morango",0121-1/01,subclass,0121101
+Cultivo de morango,0121-1/02,subclass,0121102
+Cultivo de flores e plantas ornamentais,01.22-9,class,01229
+Cultivo de flores e plantas ornamentais,0122-9/00,subclass,0122900
+Produção de lavouras permanentes,01.3,group,013
+Cultivo de laranja,01.31-8,class,01318
+Cultivo de laranja,0131-8/00,subclass,0131800
+Cultivo de uva,01.32-6,class,01326
+Cultivo de uva,0132-6/00,subclass,0132600
+"Cultivo de frutas de lavoura permanente, exceto laranja e uva",01.33-4,class,01334
+Cultivo de açaí,0133-4/01,subclass,0133401
+Cultivo de banana,0133-4/02,subclass,0133402
+Cultivo de caju,0133-4/03,subclass,0133403
+"Cultivo de cítricos, exceto laranja",0133-4/04,subclass,0133404
+Cultivo de coco-da-baía,0133-4/05,subclass,0133405
+Cultivo de guaraná,0133-4/06,subclass,0133406
+Cultivo de maçã,0133-4/07,subclass,0133407
+Cultivo de mamão,0133-4/08,subclass,0133408
+Cultivo de maracujá,0133-4/09,subclass,0133409
+Cultivo de manga,0133-4/10,subclass,0133410
+Cultivo de pêssego,0133-4/11,subclass,0133411
+Cultivo de frutas de lavoura permanente não especificadas anteriormente,0133-4/99,subclass,0133499
+Cultivo de café,01.34-2,class,01342
+Cultivo de café,0134-2/00,subclass,0134200
+Cultivo de cacau,01.35-1,class,01351
+Cultivo de cacau,0135-1/00,subclass,0135100
+Cultivo de plantas de lavoura permanente não especificadas anteriormente,01.39-3,class,01393
+Cultivo de chá-da-índia,0139-3/01,subclass,0139301
+Cultivo de erva-mate,0139-3/02,subclass,0139302
+Cultivo de pimenta-do-reino,0139-3/03,subclass,0139303
+"Cultivo de plantas para condimento, exceto pimenta-do-reino",0139-3/04,subclass,0139304
+Cultivo de dendê,0139-3/05,subclass,0139305
+Cultivo de seringueira,0139-3/06,subclass,0139306
+Cultivo de outras plantas de lavoura permanente não especificadas anteriormente,0139-3/99,subclass,0139399
+Produção de sementes e mudas certificadas,01.4,group,014
+Produção de sementes certificadas,01.41-5,class,01415
+"Produção de sementes certificadas, exceto de forrageiras para pasto",0141-5/01,subclass,0141501
+Produção de sementes certificadas de forrageiras para formação de pasto,0141-5/02,subclass,0141502
+"Produção de mudas e outras formas de propagação vegetal, certificadas",01.42-3,class,01423
+"Produção de mudas e outras formas de propagação vegetal, certificadas",0142-3/00,subclass,0142300
+Pecuária,01.5,group,015
+Criação de bovinos,01.51-2,class,01512
+Criação de bovinos para corte,0151-2/01,subclass,0151201
+Criação de bovinos para leite,0151-2/02,subclass,0151202
+"Criação de bovinos, exceto para corte e leite",0151-2/03,subclass,0151203
+Criação de outros animais de grande porte,01.52-1,class,01521
+Criação de bufalinos,0152-1/01,subclass,0152101
+Criação de equinos,0152-1/02,subclass,0152102
+Criação de asininos e muares,0152-1/03,subclass,0152103
+Criação de caprinos e ovinos,01.53-9,class,01539
+Criação de caprinos,0153-9/01,subclass,0153901
+"Criação de ovinos, inclusive para produção de lã",0153-9/02,subclass,0153902
+Criação de suínos,01.54-7,class,01547
+Criação de suínos,0154-7/00,subclass,0154700
+Criação de aves,01.55-5,class,01555
+Criação de frangos para corte,0155-5/01,subclass,0155501
+Produção de pintos de um dia,0155-5/02,subclass,0155502
+"Criação de outros galináceos, exceto para corte",0155-5/03,subclass,0155503
+"Criação de aves, exceto galináceos",0155-5/04,subclass,0155504
+Produção de ovos,0155-5/05,subclass,0155505
+Criação de animais não especificados anteriormente,01.59-8,class,01598
+Apicultura,0159-8/01,subclass,0159801
+Criação de animais de estimação,0159-8/02,subclass,0159802
+Criação de escargô,0159-8/03,subclass,0159803
+Criação de bicho-da-seda,0159-8/04,subclass,0159804
+Criação de outros animais não especificados anteriormente,0159-8/99,subclass,0159899
+"Atividades de apoio à agricultura e à pecuária; atividades de
+pós-colheita",01.6,group,016
+Atividades de apoio à agricultura,01.61-0,class,01610
+Serviço de pulverização e controle de pragas agrícolas,0161-0/01,subclass,0161001
+Serviço de poda de árvores para lavouras,0161-0/02,subclass,0161002
+"Serviço de preparação de terreno, cultivo e colheita",0161-0/03,subclass,0161003
+Atividades de apoio à agricultura não especificadas anteriormente,0161-0/99,subclass,0161099
+Atividades de apoio à pecuária,01.62-8,class,01628
+Serviço de inseminação artificial em animais,0162-8/01,subclass,0162801
+Serviço de tosquiamento de ovinos,0162-8/02,subclass,0162802
+Serviço de manejo de animais,0162-8/03,subclass,0162803
+Atividades de apoio à pecuária não especificadas anteriormente,0162-8/99,subclass,0162899
+Atividades de pós-colheita,01.63-6,class,01636
+Atividades de pós-colheita,0163-6/00,subclass,0163600
+Caça e serviços relacionados,01.7,group,017
+Caça e serviços relacionados,01.70-9,class,01709
+Caça e serviços relacionados,0170-9/00,subclass,0170900
+PRODUÇÃO FLORESTAL,02,division,02
+Produção florestal - florestas plantadas,02.1,group,021
+Produção florestal - florestas plantadas,02.10-1,class,02101
+Cultivo de eucalipto,0210-1/01,subclass,0210101
+Cultivo de acácia-negra,0210-1/02,subclass,0210102
+Cultivo de pinus,0210-1/03,subclass,0210103
+Cultivo de teca,0210-1/04,subclass,0210104
+"Cultivo de espécies madeireiras, exceto eucalipto, acácia-negra, pinus e teca",0210-1/05,subclass,0210105
+Cultivo de mudas em viveiros florestais,0210-1/06,subclass,0210106
+Extração de madeira em florestas plantadas,0210-1/07,subclass,0210107
+Produção de carvão vegetal - florestas plantadas,0210-1/08,subclass,0210108
+Produção de casca de acácia-negra - florestas plantadas,0210-1/09,subclass,0210109
+Produção de produtos não madeireiros não especificados anteriormente em florestas plantadas,0210-1/99,subclass,0210199
+Produção florestal - florestas nativas,02.2,group,022
+Produção florestal - florestas nativas,02.20-9,class,02209
+Extração de madeira em florestas nativas,0220-9/01,subclass,0220901
+Produção de carvão vegetal - florestas nativas,0220-9/02,subclass,0220902
+Coleta de castanha-do-pará em florestas nativas,0220-9/03,subclass,0220903
+Coleta de látex em florestas nativas,0220-9/04,subclass,0220904
+Coleta de palmito em florestas nativas,0220-9/05,subclass,0220905
+Conservação de florestas nativas,0220-9/06,subclass,0220906
+Coleta de produtos não madeireiros não especificados anteriormente em florestas nativas,0220-9/99,subclass,0220999
+Atividades de apoio à produção florestal,02.3,group,023
+Atividades de apoio à produção florestal,02.30-6,class,02306
+Atividades de apoio à produção florestal,0230-6/00,subclass,0230600
+PESCA E AQÜICULTURA,03,division,03
+Pesca,03.1,group,031
+Pesca em água salgada,03.11-6,class,03116
+Pesca de peixes em água salgada,0311-6/01,subclass,0311601
+Pesca de crustáceos e moluscos em água salgada,0311-6/02,subclass,0311602
+Coleta de outros produtos marinhos,0311-6/03,subclass,0311603
+Atividades de apoio à pesca em água salgada,0311-6/04,subclass,0311604
+Pesca em água doce,03.12-4,class,03124
+Pesca de peixes em água doce,0312-4/01,subclass,0312401
+Pesca de crustáceos e moluscos em água doce,0312-4/02,subclass,0312402
+Coleta de outros produtos aquáticos de água doce,0312-4/03,subclass,0312403
+Atividades de apoio à pesca em água doce,0312-4/04,subclass,0312404
+Aquicultura,03.2,group,032
+Aquicultura em água salgada e salobra,03.21-3,class,03213
+Criação de peixes em água salgada e salobra,0321-3/01,subclass,0321301
+Criação de camarões em água salgada e salobra,0321-3/02,subclass,0321302
+Criação de ostras e mexilhões em água salgada e salobra,0321-3/03,subclass,0321303
+Criação de peixes ornamentais em água salgada e salobra,0321-3/04,subclass,0321304
+Atividades de apoio à aquicultura em água salgada e salobra,0321-3/05,subclass,0321305
+Cultivos e semicultivos da aquicultura em água salgada e salobra não especificados anteriormente,0321-3/99,subclass,0321399
+Aquicultura em água doce,03.22-1,class,03221
+Criação de peixes em água doce,0322-1/01,subclass,0322101
+Criação de camarões em água doce,0322-1/02,subclass,0322102
+Criação de ostras e mexilhões em água doce,0322-1/03,subclass,0322103
+Criação de peixes ornamentais em água doce,0322-1/04,subclass,0322104
+Ranicultura,0322-1/05,subclass,0322105
+Criação de jacaré,0322-1/06,subclass,0322106
+Atividades de apoio à aquicultura em água doce,0322-1/07,subclass,0322107
+Cultivos e semicultivos da aquicultura em água doce não especificados anteriormente,0322-1/99,subclass,0322199
+INDÚSTRIAS EXTRATIVAS,B,section,B
+EXTRAÇÃO DE CARVÃO MINERAL,05,division,05
+Extração de carvão mineral,05.0,group,050
+Extração de carvão mineral,05.00-3,class,05003
+Extração de carvão mineral,0500-3/01,subclass,0500301
+Beneficiamento de carvão mineral,0500-3/02,subclass,0500302
+EXTRAÇÃO DE PETRÓLEO E GÁS NATURAL,06,division,06
+Extração de petróleo e gás natural,06.0,group,060
+Extração de petróleo e gás natural,06.00-0,class,06000
+Extração de petróleo e gás natural,0600-0/01,subclass,0600001
+Extração e beneficiamento de xisto,0600-0/02,subclass,0600002
+Extração e beneficiamento de areias betuminosas,0600-0/03,subclass,0600003
+EXTRAÇÃO DE MINERAIS METÁLICOS,07,division,07
+Extração de minério de ferro,07.1,group,071
+Extração de minério de ferro,07.10-3,class,07103
+Extração de minério de ferro,0710-3/01,subclass,0710301
+"Pelotização, sinterização e outros beneficiamentos de minério de ferro",0710-3/02,subclass,0710302
+Extração de minerais metálicos não ferrosos,07.2,group,072
+Extração de minério de alumínio,07.21-9,class,07219
+Extração de minério de alumínio,0721-9/01,subclass,0721901
+Beneficiamento de minério de alumínio,0721-9/02,subclass,0721902
+Extração de minério de estanho,07.22-7,class,07227
+Extração de minério de estanho,0722-7/01,subclass,0722701
+Beneficiamento de minério de estanho,0722-7/02,subclass,0722702
+Extração de minério de manganês,07.23-5,class,07235
+Extração de minério de manganês,0723-5/01,subclass,0723501
+Beneficiamento de minério de manganês,0723-5/02,subclass,0723502
+Extração de minério de metais preciosos,07.24-3,class,07243
+Extração de minério de metais preciosos,0724-3/01,subclass,0724301
+Beneficiamento de minério de metais preciosos,0724-3/02,subclass,0724302
+Extração de minerais radioativos,07.25-1,class,07251
+Extração de minerais radioativos,0725-1/00,subclass,0725100
+Extração de minerais metálicos não ferrosos não especificados anteriormente,07.29-4,class,07294
+Extração de minérios de nióbio e titânio,0729-4/01,subclass,0729401
+Extração de minério de tungstênio,0729-4/02,subclass,0729402
+Extração de minério de níquel,0729-4/03,subclass,0729403
+"Extração de minérios de cobre, chumbo, zinco e outros minerais metálicos não ferrosos não especificados anteriormente",0729-4/04,subclass,0729404
+"Beneficiamento de minérios de cobre, chumbo, zinco e outros minerais metálicos não ferrosos não especificados anteriormente",0729-4/05,subclass,0729405
+EXTRAÇÃO DE MINERAIS NÃO METÁLICOS,08,division,08
+"Extração de pedra, areia e argila",08.1,group,081
+"Extração de pedra, areia e argila",08.10-0,class,08100
+Extração de ardósia e beneficiamento associado,0810-0/01,subclass,0810001
+Extração de granito e beneficiamento associado,0810-0/02,subclass,0810002
+Extração de mármore e beneficiamento associado,0810-0/03,subclass,0810003
+Extração de calcário e dolomita e beneficiamento associado,0810-0/04,subclass,0810004
+Extração de gesso e caulim,0810-0/05,subclass,0810005
+"Extração de areia, cascalho ou pedregulho e beneficiamento associado",0810-0/06,subclass,0810006
+Extração de argila e beneficiamento associado,0810-0/07,subclass,0810007
+Extração de saibro e beneficiamento associado,0810-0/08,subclass,0810008
+Extração de basalto e beneficiamento associado,0810-0/09,subclass,0810009
+Beneficiamento de gesso e caulim associado à extração,0810-0/10,subclass,0810010
+Extração e britamento de pedras e outros materiais para construção e beneficiamento associado,0810-0/99,subclass,0810099
+Extração de outros minerais não metálicos,08.9,group,089
+"Extração de minerais para fabricação de adubos, fertilizantes e outros produtos químicos",08.91-6,class,08916
+"Extração de minerais para fabricação de adubos, fertilizantes e outros produtos químicos",0891-6/00,subclass,0891600
+Extração e refino de sal marinho e sal-gema,08.92-4,class,08924
+Extração de sal marinho,0892-4/01,subclass,0892401
+Extração de sal-gema,0892-4/02,subclass,0892402
+Refino e outros tratamentos do sal,0892-4/03,subclass,0892403
+Extração de gemas (pedras preciosas e semipreciosas),08.93-2,class,08932
+Extração de gemas (pedras preciosas e semipreciosas),0893-2/00,subclass,0893200
+Extração de minerais não metálicos não especificados anteriormente,08.99-1,class,08991
+Extração de grafita,0899-1/01,subclass,0899101
+Extração de quartzo,0899-1/02,subclass,0899102
+Extração de amianto,0899-1/03,subclass,0899103
+Extração de outros minerais não metálicos não especificados anteriormente,0899-1/99,subclass,0899199
+ATIVIDADES DE APOIO À EXTRAÇÃO DE MINERAIS,09,division,09
+Atividades de apoio à extração de petróleo e gás natural,09.1,group,091
+Atividades de apoio à extração de petróleo e gás natural,09.10-6,class,09106
+Atividades de apoio à extração de petróleo e gás natural,0910-6/00,subclass,0910600
+"Atividades de apoio à extração de minerais, exceto petróleo e gás natural",09.9,group,099
+"Atividades de apoio à extração de minerais, exceto petróleo e gás natural",09.90-4,class,09904
+Atividades de apoio à extração de minério de ferro,0990-4/01,subclass,0990401
+Atividades de apoio à extração de minerais metálicos não ferrosos,0990-4/02,subclass,0990402
+Atividades de apoio à extração de minerais não metálicos,0990-4/03,subclass,0990403
+INDÚSTRIAS DE TRANSFORMAÇÃO,C,section,C
+FABRICAÇÃO DE PRODUTOS ALIMENTÍCIOS,10,division,10
+Abate e fabricação de produtos de carne,10.1,group,101
+"Abate de reses, exceto suínos",10.11-2,class,10112
+Frigorífico - abate de bovinos,1011-2/01,subclass,1011201
+Frigorífico - abate de equinos,1011-2/02,subclass,1011202
+Frigorífico - abate de ovinos e caprinos,1011-2/03,subclass,1011203
+Frigorífico - abate de bufalinos,1011-2/04,subclass,1011204
+"Matadouro - abate de reses sob contrato, exceto abate de suínos",1011-2/05,subclass,1011205
+"Abate de suínos, aves e outros pequenos animais",10.12-1,class,10121
+Abate de aves,1012-1/01,subclass,1012101
+Abate de pequenos animais,1012-1/02,subclass,1012102
+Frigorífico - abate de suínos,1012-1/03,subclass,1012103
+Matadouro - abate de suínos sob contrato,1012-1/04,subclass,1012104
+Fabricação de produtos de carne,10.13-9,class,10139
+Fabricação de produtos de carne,1013-9/01,subclass,1013901
+Preparação de subprodutos do abate,1013-9/02,subclass,1013902
+Preservação do pescado e fabricação de produtos do pescado,10.2,group,102
+Preservação do pescado e fabricação de produtos do pescado,10.20-1,class,10201
+"Preservação de peixes, crustáceos e moluscos",1020-1/01,subclass,1020101
+"Fabricação de conservas de peixes, crustáceos e moluscos",1020-1/02,subclass,1020102
+"Fabricação de conservas de frutas, legumes e outros vegetais",10.3,group,103
+Fabricação de conservas de frutas,10.31-7,class,10317
+Fabricação de conservas de frutas,1031-7/00,subclass,1031700
+Fabricação de conservas de legumes e outros vegetais,10.32-5,class,10325
+Fabricação de conservas de palmito,1032-5/01,subclass,1032501
+"Fabricação de conservas de legumes e outros vegetais, exceto palmito",1032-5/99,subclass,1032599
+"Fabricação de sucos de frutas, hortaliças e legumes",10.33-3,class,10333
+"Fabricação de sucos concentrados de frutas, hortaliças e legumes",1033-3/01,subclass,1033301
+"Fabricação de sucos de frutas, hortaliças e legumes, exceto concentrados",1033-3/02,subclass,1033302
+Fabricação de óleos e gorduras vegetais e animais,10.4,group,104
+"Fabricação de óleos vegetais em bruto, exceto óleo de milho",10.41-4,class,10414
+"Fabricação de óleos vegetais em bruto, exceto óleo de milho",1041-4/00,subclass,1041400
+"Fabricação de óleos vegetais refinados, exceto óleo de milho",10.42-2,class,10422
+"Fabricação de óleos vegetais refinados, exceto óleo de milho",1042-2/00,subclass,1042200
+Fabricação de margarina e outras gorduras vegetais e de óleos não comestíveis de animais,10.43-1,class,10431
+Fabricação de margarina e outras gorduras vegetais e de óleos não comestíveis de animais,1043-1/00,subclass,1043100
+Laticínios,10.5,group,105
+Preparação do leite,10.51-1,class,10511
+Preparação do leite,1051-1/00,subclass,1051100
+Fabricação de laticínios,10.52-0,class,10520
+Fabricação de laticínios,1052-0/00,subclass,1052000
+Fabricação de sorvetes e outros gelados comestíveis,10.53-8,class,10538
+Fabricação de sorvetes e outros gelados comestíveis,1053-8/00,subclass,1053800
+"Moagem, fabricação de produtos amiláceos e de alimentos para animais",10.6,group,106
+Beneficiamento de arroz e fabricação de produtos do arroz,10.61-9,class,10619
+Beneficiamento de arroz,1061-9/01,subclass,1061901
+Fabricação de produtos do arroz,1061-9/02,subclass,1061902
+Moagem de trigo e fabricação de derivados,10.62-7,class,10627
+Moagem de trigo e fabricação de derivados,1062-7/00,subclass,1062700
+Fabricação de farinha de mandioca e derivados,10.63-5,class,10635
+Fabricação de farinha de mandioca e derivados,1063-5/00,subclass,1063500
+"Fabricação de farinha de milho e derivados, exceto óleos de milho",10.64-3,class,10643
+"Fabricação de farinha de milho e derivados, exceto óleos de milho",1064-3/00,subclass,1064300
+Fabricação de amidos e féculas de vegetais e de óleos de milho,10.65-1,class,10651
+Fabricação de amidos e féculas de vegetais,1065-1/01,subclass,1065101
+Fabricação de óleo de milho em bruto,1065-1/02,subclass,1065102
+Fabricação de óleo de milho refinado,1065-1/03,subclass,1065103
+Fabricação de alimentos para animais,10.66-0,class,10660
+Fabricação de alimentos para animais,1066-0/00,subclass,1066000
+Moagem e fabricação de produtos de origem vegetal não especificados anteriormente,10.69-4,class,10694
+Moagem e fabricação de produtos de origem vegetal não especificados anteriormente,1069-4/00,subclass,1069400
+Fabricação e refino de açúcar,10.7,group,107
+Fabricação de açúcar em bruto,10.71-6,class,10716
+Fabricação de açúcar em bruto,1071-6/00,subclass,1071600
+Fabricação de açúcar refinado,10.72-4,class,10724
+Fabricação de açúcar de cana refinado,1072-4/01,subclass,1072401
+Fabricação de açúcar de cereais (dextrose) e de beterraba,1072-4/02,subclass,1072402
+Torrefação e moagem de café,10.8,group,108
+Torrefação e moagem de café,10.81-3,class,10813
+Beneficiamento de café,1081-3/01,subclass,1081301
+Torrefação e moagem de café,1081-3/02,subclass,1081302
+Fabricação de produtos à base de café,10.82-1,class,10821
+Fabricação de produtos à base de café,1082-1/00,subclass,1082100
+Fabricação de outros produtos alimentícios,10.9,group,109
+Fabricação de produtos de panificação,10.91-1,class,10911
+Fabricação de produtos de panificação industrial,1091-1/01,subclass,1091101
+Fabricação de produtos de padaria e confeitaria com predominância de produção própria,1091-1/02,subclass,1091102
+Fabricação de biscoitos e bolachas,10.92-9,class,10929
+Fabricação de biscoitos e bolachas,1092-9/00,subclass,1092900
+"Fabricação de produtos derivados do cacau, de chocolates e confeitos",10.93-7,class,10937
+Fabricação de produtos derivados do cacau e de chocolates,1093-7/01,subclass,1093701
+"Fabricação de frutas cristalizadas, balas e semelhantes",1093-7/02,subclass,1093702
+Fabricação de massas alimentícias,10.94-5,class,10945
+Fabricação de massas alimentícias,1094-5/00,subclass,1094500
+"Fabricação de especiarias, molhos, temperos e condimentos",10.95-3,class,10953
+"Fabricação de especiarias, molhos, temperos e condimentos",1095-3/00,subclass,1095300
+Fabricação de alimentos e pratos prontos,10.96-1,class,10961
+Fabricação de alimentos e pratos prontos,1096-1/00,subclass,1096100
+Fabricação de produtos alimentícios não especificados anteriormente,10.99-6,class,10996
+Fabricação de vinagres,1099-6/01,subclass,1099601
+Fabricação de pós-alimentícios,1099-6/02,subclass,1099602
+Fabricação de fermentos e leveduras,1099-6/03,subclass,1099603
+Fabricação de gelo comum,1099-6/04,subclass,1099604
+"Fabricação de produtos para infusão (chá, mate, etc.)",1099-6/05,subclass,1099605
+Fabricação de adoçantes naturais e artificiais,1099-6/06,subclass,1099606
+Fabricação de alimentos dietéticos e complementos alimentares,1099-6/07,subclass,1099607
+Fabricação de outros produtos alimentícios não especificados anteriormente,1099-6/99,subclass,1099699
+FABRICAÇÃO DE BEBIDAS,11,division,11
+Fabricação de bebidas alcoólicas,11.1,group,111
+Fabricação de aguardentes e outras bebidas destiladas,11.11-9,class,11119
+Fabricação de aguardente de cana-de-açúcar,1111-9/01,subclass,1111901
+Fabricação de outras aguardentes e bebidas destiladas,1111-9/02,subclass,1111902
+Fabricação de vinho,11.12-7,class,11127
+Fabricação de vinho,1112-7/00,subclass,1112700
+"Fabricação de malte, cervejas e chopes",11.13-5,class,11135
+"Fabricação de malte, inclusive malte uísque",1113-5/01,subclass,1113501
+Fabricação de cervejas e chopes,1113-5/02,subclass,1113502
+Fabricação de bebidas não alcoólicas,11.2,group,112
+Fabricação de águas envasadas,11.21-6,class,11216
+Fabricação de águas envasadas,1121-6/00,subclass,1121600
+Fabricação de refrigerantes e de outras bebidas não alcoólicas,11.22-4,class,11224
+Fabricação de refrigerantes,1122-4/01,subclass,1122401
+Fabricação de chá mate e outros chás prontos para consumo,1122-4/02,subclass,1122402
+"Fabricação de refrescos, xaropes e pós para refrescos, exceto refrescos de frutas",1122-4/03,subclass,1122403
+Fabricação de bebidas isotônicas,1122-4/04,subclass,1122404
+Fabricação de outras bebidas não alcoólicas não especificadas anteriormente,1122-4/99,subclass,1122499
+FABRICAÇÃO DE PRODUTOS DO FUMO,12,division,12
+Processamento industrial do fumo,12.1,group,121
+Processamento industrial do fumo,12.10-7,class,12107
+Processamento industrial do fumo,1210-7/00,subclass,1210700
+Fabricação de produtos do fumo,12.2,group,122
+Fabricação de produtos do fumo,12.20-4,class,12204
+Fabricação de cigarros,1220-4/01,subclass,1220401
+Fabricação de cigarrilhas e charutos,1220-4/02,subclass,1220402
+Fabricação de filtros para cigarros,1220-4/03,subclass,1220403
+"Fabricação de outros produtos do fumo, exceto cigarros, cigarrilhas e charutos",1220-4/99,subclass,1220499
+FABRICAÇÃO DE PRODUTOS TÊXTEIS,13,division,13
+Preparação e fiação de fibras têxteis,13.1,group,131
+Preparação e fiação de fibras de algodão,13.11-1,class,13111
+Preparação e fiação de fibras de algodão,1311-1/00,subclass,1311100
+"Preparação e fiação de fibras têxteis naturais, exceto algodão",13.12-0,class,13120
+"Preparação e fiação de fibras têxteis naturais, exceto algodão",1312-0/00,subclass,1312000
+Fiação de fibras artificiais e sintéticas,13.13-8,class,13138
+Fiação de fibras artificiais e sintéticas,1313-8/00,subclass,1313800
+Fabricação de linhas para costurar e bordar,13.14-6,class,13146
+Fabricação de linhas para costurar e bordar,1314-6/00,subclass,1314600
+"Tecelagem, exceto malha",13.2,group,132
+Tecelagem de fios de algodão,13.21-9,class,13219
+Tecelagem de fios de algodão,1321-9/00,subclass,1321900
+"Tecelagem de fios de fibras têxteis naturais, exceto algodão",13.22-7,class,13227
+"Tecelagem de fios de fibras têxteis naturais, exceto algodão",1322-7/00,subclass,1322700
+Tecelagem de fios de fibras artificiais e sintéticas,13.23-5,class,13235
+Tecelagem de fios de fibras artificiais e sintéticas,1323-5/00,subclass,1323500
+Fabricação de tecidos de malha,13.3,group,133
+Fabricação de tecidos de malha,13.30-8,class,13308
+Fabricação de tecidos de malha,1330-8/00,subclass,1330800
+"Acabamentos em fios, tecidos e artefatos têxteis",13.4,group,134
+"Acabamentos em fios, tecidos e artefatos têxteis",13.40-5,class,13405
+"Estamparia e texturização em fios, tecidos, artefatos têxteis e peças do vestuário",1340-5/01,subclass,1340501
+"Alvejamento, tingimento e torção em fios, tecidos, artefatos têxteis e peças do vestuário",1340-5/02,subclass,1340502
+"Outros serviços de acabamento em fios, tecidos, artefatos têxteis e peças do vestuário",1340-5/99,subclass,1340599
+"Fabricação de artefatos têxteis, exceto vestuário",13.5,group,135
+Fabricação de artefatos têxteis para uso doméstico,13.51-1,class,13511
+Fabricação de artefatos têxteis para uso doméstico,1351-1/00,subclass,1351100
+Fabricação de artefatos de tapeçaria,13.52-9,class,13529
+Fabricação de artefatos de tapeçaria,1352-9/00,subclass,1352900
+Fabricação de artefatos de cordoaria,13.53-7,class,13537
+Fabricação de artefatos de cordoaria,1353-7/00,subclass,1353700
+"Fabricação de tecidos especiais, inclusive artefatos",13.54-5,class,13545
+"Fabricação de tecidos especiais, inclusive artefatos",1354-5/00,subclass,1354500
+Fabricação de outros produtos têxteis não especificados anteriormente,13.59-6,class,13596
+Fabricação de outros produtos têxteis não especificados anteriormente,1359-6/00,subclass,1359600
+CONFECÇÃO DE ARTIGOS DO VESTUÁRIO E ACESSÓRIOS,14,division,14
+Confecção de artigos do vestuário e acessórios,14.1,group,141
+Confecção de roupas íntimas,14.11-8,class,14118
+Confecção de roupas íntimas,1411-8/01,subclass,1411801
+Facção de roupas íntimas,1411-8/02,subclass,1411802
+"Confecção de peças do vestuário, exceto roupas íntimas",14.12-6,class,14126
+"Confecção de peças do vestuário, exceto roupas íntimas e as confeccionadas sob medida",1412-6/01,subclass,1412601
+"Confecção, sob medida, de peças do vestuário, exceto roupas íntimas",1412-6/02,subclass,1412602
+"Facção de peças do vestuário, exceto roupas íntimas",1412-6/03,subclass,1412603
+Confecção de roupas profissionais,14.13-4,class,14134
+"Confecção de roupas profissionais, exceto sob medida",1413-4/01,subclass,1413401
+"Confecção, sob medida, de roupas profissionais",1413-4/02,subclass,1413402
+Facção de roupas profissionais,1413-4/03,subclass,1413403
+"Fabricação de acessórios do vestuário, exceto para segurança e proteção",14.14-2,class,14142
+"Fabricação de acessórios do vestuário, exceto para segurança e proteção",1414-2/00,subclass,1414200
+Fabricação de artigos de malharia e tricotagem,14.2,group,142
+Fabricação de meias,14.21-5,class,14215
+Fabricação de meias,1421-5/00,subclass,1421500
+"Fabricação de artigos do vestuário, produzidos em malharias e tricotagens, exceto meias",14.22-3,class,14223
+"Fabricação de artigos do vestuário, produzidos em malharias e tricotagens, exceto meias",1422-3/00,subclass,1422300
+"PREPARAÇÃO DE COUROS E FABRICAÇÃO DE ARTEFATOS DE COURO, ARTIGOS PARA VIAGEM E CALÇADOS",15,division,15
+Curtimento e outras preparações de couro,15.1,group,151
+Curtimento e outras preparações de couro,15.10-6,class,15106
+Curtimento e outras preparações de couro,1510-6/00,subclass,1510600
+Fabricação de artigos para viagem e de artefatos diversos de couro,15.2,group,152
+"Fabricação de artigos para viagem, bolsas e semelhantes de qualquer material",15.21-1,class,15211
+"Fabricação de artigos para viagem, bolsas e semelhantes de qualquer material",1521-1/00,subclass,1521100
+Fabricação de artefatos de couro não especificados anteriormente,15.29-7,class,15297
+Fabricação de artefatos de couro não especificados anteriormente,1529-7/00,subclass,1529700
+Fabricação de calçados,15.3,group,153
+Fabricação de calçados de couro,15.31-9,class,15319
+Fabricação de calçados de couro,1531-9/01,subclass,1531901
+Acabamento de calçados de couro sob contrato,1531-9/02,subclass,1531902
+Fabricação de tênis de qualquer material,15.32-7,class,15327
+Fabricação de tênis de qualquer material,1532-7/00,subclass,1532700
+Fabricação de calçados de material sintético,15.33-5,class,15335
+Fabricação de calçados de material sintético,1533-5/00,subclass,1533500
+Fabricação de calçados de materiais não especificados anteriormente,15.39-4,class,15394
+"Fabricação de calçados de materiais não especificados
+anteriormente",1539-4/00,subclass,1539400
+"Fabricação de partes para calçados, de qualquer material",15.4,group,154
+"Fabricação de partes para calçados, de qualquer material",15.40-8,class,15408
+"Fabricação de partes para calçados, de qualquer material",1540-8/00,subclass,1540800
+FABRICAÇÃO DE PRODUTOS DE MADEIRA,16,division,16
+Desdobramento de madeira,16.1,group,161
+Desdobramento de madeira,16.10-2,class,16102
+Serrarias com desdobramento de madeira em bruto,1610-2/03,subclass,1610203
+Serrarias sem desdobramento de madeira em bruto - Resseragem,1610-2/04,subclass,1610204
+Serviço de tratamento de madeira realizado sob contrato,1610-2/05,subclass,1610205
+"Fabricação de produtos de madeira, cortiça e material trançado, exceto móveis",16.2,group,162
+"Fabricação de madeira laminada e de chapas de madeira compensada, prensada e aglomerada",16.21-8,class,16218
+"Fabricação de madeira laminada e de chapas de madeira compensada, prensada e aglomerada",1621-8/00,subclass,1621800
+Fabricação de estruturas de madeira e de artigos de carpintaria para construção,16.22-6,class,16226
+Fabricação de casas de madeira pré-fabricadas,1622-6/01,subclass,1622601
+Fabricação de esquadrias de madeira e de peças de madeira para instalações industriais e comerciais,1622-6/02,subclass,1622602
+Fabricação de outros artigos de carpintaria para construção,1622-6/99,subclass,1622699
+Fabricação de artefatos de tanoaria e de embalagens de madeira,16.23-4,class,16234
+Fabricação de artefatos de tanoaria e de embalagens de madeira,1623-4/00,subclass,1623400
+"Fabricação de artefatos de madeira, palha, cortiça, vime e material trançado não especificados anteriormente, exceto
+móveis",16.29-3,class,16293
+"Fabricação de artefatos diversos de madeira, exceto móveis",1629-3/01,subclass,1629301
+"Fabricação de artefatos diversos de cortiça, bambu, palha, vime e outros materiais trançados, exceto móveis",1629-3/02,subclass,1629302
+"FABRICAÇÃO DE CELULOSE, PAPEL E PRODUTOS DE PAPEL",17,division,17
+Fabricação de celulose e outras pastas para a fabricação de papel,17.1,group,171
+Fabricação de celulose e outras pastas para a fabricação de papel,17.10-9,class,17109
+Fabricação de celulose e outras pastas para a fabricação de papel,1710-9/00,subclass,1710900
+"Fabricação de papel, cartolina e papel-cartão",17.2,group,172
+Fabricação de papel,17.21-4,class,17214
+Fabricação de papel,1721-4/00,subclass,1721400
+Fabricação de cartolina e papel-cartão,17.22-2,class,17222
+Fabricação de cartolina e papel-cartão,1722-2/00,subclass,1722200
+"Fabricação de embalagens de papel, cartolina, papel-cartão e papelão ondulado",17.3,group,173
+Fabricação de embalagens de papel,17.31-1,class,17311
+Fabricação de embalagens de papel,1731-1/00,subclass,1731100
+Fabricação de embalagens de cartolina e papel-cartão,17.32-0,class,17320
+Fabricação de embalagens de cartolina e papel-cartão,1732-0/00,subclass,1732000
+Fabricação de chapas e de embalagens de papelão ondulado,17.33-8,class,17338
+Fabricação de chapas e de embalagens de papelão ondulado,1733-8/00,subclass,1733800
+"Fabricação de produtos diversos de papel, cartolina, papel-cartão e papelão ondulado",17.4,group,174
+"Fabricação de produtos de papel, cartolina, papel-cartão e papelão ondulado para uso comercial e de escritório",17.41-9,class,17419
+Fabricação de formulários contínuos,1741-9/01,subclass,1741901
+"Fabricação de produtos de papel, cartolina, papel-cartão e papelão ondulado para uso comercial e de escritório",1741-9/02,subclass,1741902
+Fabricação de produtos de papel para usos doméstico e higiênico-sanitário,17.42-7,class,17427
+Fabricação de fraldas descartáveis,1742-7/01,subclass,1742701
+Fabricação de absorventes higiênicos,1742-7/02,subclass,1742702
+Fabricação de produtos de papel para uso doméstico e higiênico-sanitário não especificados anteriormente,1742-7/99,subclass,1742799
+"Fabricação de produtos de pastas celulósicas, papel, cartolina, papel-cartão e papelão ondulado não especificados anteriormente",17.49-4,class,17494
+"Fabricação de produtos de pastas celulósicas, papel, cartolina, papel-cartão e papelão ondulado não especificados anteriormente",1749-4/00,subclass,1749400
+IMPRESSÃO E REPRODUÇÃO DE GRAVAÇÕES,18,division,18
+Atividade de impressão,18.1,group,181
+"Impressão de jornais, livros, revistas e outras publicações periódicas",18.11-3,class,18113
+Impressão de jornais,1811-3/01,subclass,1811301
+"Impressão de livros, revistas e outras publicações periódicas",1811-3/02,subclass,1811302
+Impressão de material de segurança,18.12-1,class,18121
+Impressão de material de segurança,1812-1/00,subclass,1812100
+Impressão de materiais para outros usos,18.13-0,class,18130
+Impressão de material para uso publicitário,1813-0/01,subclass,1813001
+Impressão de material para outros usos,1813-0/99,subclass,1813099
+Serviços de pré-impressão e acabamentos gráficos,18.2,group,182
+Serviços de pré-impressão,18.21-1,class,18211
+Serviços de pré-impressão,1821-1/00,subclass,1821100
+Serviços de acabamentos gráficos,18.22-9,class,18229
+Serviços de encadernação e plastificação,1822-9/01,subclass,1822901
+"Serviços de acabamentos gráficos, exceto encadernação e plastificação",1822-9/99,subclass,1822999
+Reprodução de materiais gravados em qualquer suporte,18.3,group,183
+Reprodução de materiais gravados em qualquer suporte,18.30-0,class,18300
+Reprodução de som em qualquer suporte,1830-0/01,subclass,1830001
+Reprodução de vídeo em qualquer suporte,1830-0/02,subclass,1830002
+Reprodução de software em qualquer suporte,1830-0/03,subclass,1830003
+"FABRICAÇÃO DE COQUE, DE PRODUTOS DERIVADOS DO PETRÓLEO E DE BIOCOMBUSTÍVEIS",19,division,19
+Coquerias,19.1,group,191
+Coquerias,19.10-1,class,19101
+Coquerias,1910-1/00,subclass,1910100
+Fabricação de produtos derivados do petróleo,19.2,group,192
+Fabricação de produtos do refino de petróleo,19.21-7,class,19217
+Fabricação de produtos do refino de petróleo,1921-7/00,subclass,1921700
+"Fabricação de produtos derivados do petróleo, exceto produtos do refino",19.22-5,class,19225
+Formulação de combustíveis,1922-5/01,subclass,1922501
+Rerrefino de óleos lubrificantes,1922-5/02,subclass,1922502
+"Fabricação de outros produtos derivados do petróleo, exceto produtos do refino",1922-5/99,subclass,1922599
+Fabricação de biocombustíveis,19.3,group,193
+Fabricação de álcool,19.31-4,class,19314
+Fabricação de álcool,1931-4/00,subclass,1931400
+"Fabricação de biocombustíveis, exceto álcool",19.32-2,class,19322
+"Fabricação de biocombustíveis, exceto álcool",1932-2/00,subclass,1932200
+FABRICAÇÃO DE PRODUTOS QUÍMICOS,20,division,20
+Fabricação de produtos químicos inorgânicos,20.1,group,201
+Fabricação de cloro e álcalis,20.11-8,class,20118
+Fabricação de cloro e álcalis,2011-8/00,subclass,2011800
+Fabricação de intermediários para fertilizantes,20.12-6,class,20126
+Fabricação de intermediários para fertilizantes,2012-6/00,subclass,2012600
+Fabricação de adubos e fertilizantes,20.13-4,class,20134
+Fabricação de adubos e fertilizantes organo-minerais,2013-4/01,subclass,2013401
+"Fabricação de adubos e fertilizantes, exceto organo-minerais",2013-4/02,subclass,2013402
+Fabricação de gases industriais,20.14-2,class,20142
+Fabricação de gases industriais,2014-2/00,subclass,2014200
+Fabricação de produtos químicos inorgânicos não especificados anteriormente,20.19-3,class,20193
+Elaboração de combustíveis nucleares,2019-3/01,subclass,2019301
+Fabricação de outros produtos químicos inorgânicos não especificados anteriormente,2019-3/99,subclass,2019399
+Fabricação de produtos químicos orgânicos,20.2,group,202
+Fabricação de produtos petroquímicos básicos,20.21-5,class,20215
+Fabricação de produtos petroquímicos básicos,2021-5/00,subclass,2021500
+"Fabricação de intermediários para plastificantes, resinas e fibras",20.22-3,class,20223
+"Fabricação de intermediários para plastificantes, resinas e fibras",2022-3/00,subclass,2022300
+Fabricação de produtos químicos orgânicos não especificados anteriormente,20.29-1,class,20291
+Fabricação de produtos químicos orgânicos não especificados anteriormente,2029-1/00,subclass,2029100
+Fabricação de resinas e elastômeros,20.3,group,203
+Fabricação de resinas termoplásticas,20.31-2,class,20312
+Fabricação de resinas termoplásticas,2031-2/00,subclass,2031200
+Fabricação de resinas termofixas,20.32-1,class,20321
+Fabricação de resinas termofixas,2032-1/00,subclass,2032100
+Fabricação de elastômeros,20.33-9,class,20339
+Fabricação de elastômeros,2033-9/00,subclass,2033900
+Fabricação de fibras artificiais e sintéticas,20.4,group,204
+Fabricação de fibras artificiais e sintéticas,20.40-1,class,20401
+Fabricação de fibras artificiais e sintéticas,2040-1/00,subclass,2040100
+Fabricação de defensivos agrícolas e desinfestantes domissanitários,20.5,group,205
+Fabricação de defensivos agrícolas,20.51-7,class,20517
+Fabricação de defensivos agrícolas,2051-7/00,subclass,2051700
+Fabricação de desinfestantes domissanitários,20.52-5,class,20525
+Fabricação de desinfestantes domissanitários,2052-5/00,subclass,2052500
+"Fabricação de sabões, detergentes, produtos de limpeza, cosméticos, produtos de perfumaria e de higiene pessoal",20.6,group,206
+Fabricação de sabões e detergentes sintéticos,20.61-4,class,20614
+Fabricação de sabões e detergentes sintéticos,2061-4/00,subclass,2061400
+Fabricação de produtos de limpeza e polimento,20.62-2,class,20622
+Fabricação de produtos de limpeza e polimento,2062-2/00,subclass,2062200
+"Fabricação de cosméticos, produtos de perfumaria e de higiene pessoal",20.63-1,class,20631
+"Fabricação de cosméticos, produtos de perfumaria e de higiene pessoal",2063-1/00,subclass,2063100
+"Fabricação de tintas, vernizes, esmaltes, lacas e produtos afins",20.7,group,207
+"Fabricação de tintas, vernizes, esmaltes e lacas",20.71-1,class,20711
+"Fabricação de tintas, vernizes, esmaltes e lacas",2071-1/00,subclass,2071100
+Fabricação de tintas de impressão,20.72-0,class,20720
+Fabricação de tintas de impressão,2072-0/00,subclass,2072000
+"Fabricação de impermeabilizantes, solventes e produtos afins",20.73-8,class,20738
+"Fabricação de impermeabilizantes, solventes e produtos afins",2073-8/00,subclass,2073800
+Fabricação de produtos e preparados químicos diversos,20.9,group,209
+Fabricação de adesivos e selantes,20.91-6,class,20916
+Fabricação de adesivos e selantes,2091-6/00,subclass,2091600
+Fabricação de explosivos,20.92-4,class,20924
+"Fabricação de pólvoras, explosivos e detonantes",2092-4/01,subclass,2092401
+Fabricação de artigos pirotécnicos,2092-4/02,subclass,2092402
+Fabricação de fósforos de segurança,2092-4/03,subclass,2092403
+Fabricação de aditivos de uso industrial,20.93-2,class,20932
+Fabricação de aditivos de uso industrial,2093-2/00,subclass,2093200
+Fabricação de catalisadores,20.94-1,class,20941
+Fabricação de catalisadores,2094-1/00,subclass,2094100
+Fabricação de produtos químicos não especificados anteriormente,20.99-1,class,20991
+"Fabricação de chapas, filmes, papéis e outros materiais e produtos químicos para fotografia",2099-1/01,subclass,2099101
+Fabricação de outros produtos químicos não especificados anteriormente,2099-1/99,subclass,2099199
+FABRICAÇÃO DE PRODUTOS FARMOQUÍMICOS E FARMACÊUTICOS,21,division,21
+Fabricação de produtos farmoquímicos,21.1,group,211
+Fabricação de produtos farmoquímicos,21.10-6,class,21106
+Fabricação de produtos farmoquímicos,2110-6/00,subclass,2110600
+Fabricação de produtos farmacêuticos,21.2,group,212
+Fabricação de medicamentos para uso humano,21.21-1,class,21211
+Fabricação de medicamentos alopáticos para uso humano,2121-1/01,subclass,2121101
+Fabricação de medicamentos homeopáticos para uso humano,2121-1/02,subclass,2121102
+Fabricação de medicamentos fitoterápicos para uso humano,2121-1/03,subclass,2121103
+Fabricação de medicamentos para uso veterinário,21.22-0,class,21220
+Fabricação de medicamentos para uso veterinário,2122-0/00,subclass,2122000
+Fabricação de preparações farmacêuticas,21.23-8,class,21238
+Fabricação de preparações farmacêuticas,2123-8/00,subclass,2123800
+FABRICAÇÃO DE PRODUTOS DE BORRACHA E DE MATERIAL PLÁSTICO,22,division,22
+Fabricação de produtos de borracha,22.1,group,221
+Fabricação de pneumáticos e de câmaras-de-ar,22.11-1,class,22111
+Fabricação de pneumáticos e de câmaras-de-ar,2211-1/00,subclass,2211100
+Reforma de pneumáticos usados,22.12-9,class,22129
+Reforma de pneumáticos usados,2212-9/00,subclass,2212900
+Fabricação de artefatos de borracha não especificados anteriormente,22.19-6,class,22196
+"Fabricação de artefatos de borracha não especificados 
+anteriormente",2219-6/00,subclass,2219600
+Fabricação de produtos de material plástico,22.2,group,222
+Fabricação de laminados planos e tubulares de material plástico,22.21-8,class,22218
+Fabricação de laminados planos e tubulares de material plástico,2221-8/00,subclass,2221800
+Fabricação de embalagens de material plástico,22.22-6,class,22226
+Fabricação de embalagens de material plástico,2222-6/00,subclass,2222600
+Fabricação de tubos e acessórios de material plástico para uso na construção,22.23-4,class,22234
+Fabricação de tubos e acessórios de material plástico para uso na construção,2223-4/00,subclass,2223400
+Fabricação de artefatos de material plástico não especificados anteriormente,22.29-3,class,22293
+Fabricação de artefatos de material plástico para uso pessoal e doméstico,2229-3/01,subclass,2229301
+Fabricação de artefatos de material plástico para usos industriais,2229-3/02,subclass,2229302
+"Fabricação de artefatos de material plástico para uso na construção, exceto tubos e acessórios",2229-3/03,subclass,2229303
+Fabricação de artefatos de material plástico para outros usos não especificados anteriormente,2229-3/99,subclass,2229399
+FABRICAÇÃO DE PRODUTOS DE MINERAIS NÃO METÁLICOS,23,division,23
+Fabricação de vidro e de produtos do vidro,23.1,group,231
+Fabricação de vidro plano e de segurança,23.11-7,class,23117
+Fabricação de vidro plano e de segurança,2311-7/00,subclass,2311700
+Fabricação de embalagens de vidro,23.12-5,class,23125
+Fabricação de embalagens de vidro,2312-5/00,subclass,2312500
+Fabricação de artigos de vidro,23.19-2,class,23192
+Fabricação de artigos de vidro,2319-2/00,subclass,2319200
+Fabricação de cimento,23.2,group,232
+Fabricação de cimento,23.20-6,class,23206
+Fabricação de cimento,2320-6/00,subclass,2320600
+"Fabricação de artefatos de concreto, cimento, fibrocimento, gesso e materiais semelhantes",23.3,group,233
+"Fabricação de artefatos de concreto, cimento, fibrocimento, gesso e materiais semelhantes",23.30-3,class,23303
+"Fabricação de estruturas pré-moldadas de concreto armado, em série e sob encomenda",2330-3/01,subclass,2330301
+Fabricação de artefatos de cimento para uso na construção,2330-3/02,subclass,2330302
+Fabricação de artefatos de fibrocimento para uso na construção,2330-3/03,subclass,2330303
+Fabricação de casas pré-moldadas de concreto,2330-3/04,subclass,2330304
+Preparação de massa de concreto e argamassa para construção,2330-3/05,subclass,2330305
+"Fabricação de outros artefatos e produtos de concreto, cimento, fibrocimento, gesso e materiais semelhantes",2330-3/99,subclass,2330399
+Fabricação de produtos cerâmicos,23.4,group,234
+Fabricação de produtos cerâmicos refratários,23.41-9,class,23419
+Fabricação de produtos cerâmicos refratários,2341-9/00,subclass,2341900
+Fabricação de produtos cerâmicos não refratários para uso estrutural na construção,23.42-7,class,23427
+Fabricação de azulejos e pisos,2342-7/01,subclass,2342701
+"Fabricação de artefatos de cerâmica e barro cozido para uso na construção, exceto azulejos e pisos",2342-7/02,subclass,2342702
+Fabricação de produtos cerâmicos não refratários não especificados anteriormente,23.49-4,class,23494
+Fabricação de material sanitário de cerâmica,2349-4/01,subclass,2349401
+Fabricação de produtos cerâmicos não refratários não especificados anteriormente,2349-4/99,subclass,2349499
+Aparelhamento de pedras e fabricação de outros produtos de minerais não metálicos,23.9,group,239
+Aparelhamento e outros trabalhos em pedras,23.91-5,class,23915
+"Britamento de pedras, exceto associado à extração",2391-5/01,subclass,2391501
+"Aparelhamento de pedras para construção, exceto associado à extração",2391-5/02,subclass,2391502
+"Aparelhamento de placas e execução de trabalhos em mármore, granito, ardósia e outras pedras",2391-5/03,subclass,2391503
+Fabricação de cal e gesso,23.92-3,class,23923
+Fabricação de cal e gesso,2392-3/00,subclass,2392300
+Fabricação de produtos de minerais não metálicos não especificados anteriormente,23.99-1,class,23991
+"Decoração, lapidação, gravação, vitrificação e outros trabalhos em cerâmica, louça, vidro e cristal",2399-1/01,subclass,2399101
+Fabricação de abrasivos,2399-1/02,subclass,2399102
+Fabricação de outros produtos de minerais não metálicos não especificados anteriormente,2399-1/99,subclass,2399199
+METALURGIA,24,division,24
+Produção de ferro-gusa e de ferroligas,24.1,group,241
+Produção de ferro-gusa,24.11-3,class,24113
+Produção de ferro-gusa,2411-3/00,subclass,2411300
+Produção de ferroligas,24.12-1,class,24121
+Produção de ferroligas,2412-1/00,subclass,2412100
+Siderurgia,24.2,group,242
+Produção de semiacabados de aço,24.21-1,class,24211
+Produção de semiacabados de aço,2421-1/00,subclass,2421100
+Produção de laminados planos de aço,24.22-9,class,24229
+"Produção de laminados planos de aço ao carbono, revestidos ou não",2422-9/01,subclass,2422901
+Produção de laminados planos de aços especiais,2422-9/02,subclass,2422902
+Produção de laminados longos de aço,24.23-7,class,24237
+Produção de tubos de aço sem costura,2423-7/01,subclass,2423701
+"Produção de laminados longos de aço, exceto tubos",2423-7/02,subclass,2423702
+"Produção de relaminados, trefilados e perfilados de aço",24.24-5,class,24245
+Produção de arames de aço,2424-5/01,subclass,2424501
+"Produção de relaminados, trefilados e perfilados de aço, exceto arames",2424-5/02,subclass,2424502
+"Produção de tubos de aço, exceto tubos sem costura",24.3,group,243
+Produção de tubos de aço com costura,24.31-8,class,24318
+Produção de tubos de aço com costura,2431-8/00,subclass,2431800
+Produção de outros tubos de ferro e aço,24.39-3,class,24393
+Produção de outros tubos de ferro e aço,2439-3/00,subclass,2439300
+Metalurgia dos metais não ferrosos,24.4,group,244
+Metalurgia do alumínio e suas ligas,24.41-5,class,24415
+Produção de alumínio e suas ligas em formas primárias,2441-5/01,subclass,2441501
+Produção de laminados de alumínio,2441-5/02,subclass,2441502
+Metalurgia dos metais preciosos,24.42-3,class,24423
+Metalurgia dos metais preciosos,2442-3/00,subclass,2442300
+Metalurgia do cobre,24.43-1,class,24431
+Metalurgia do cobre,2443-1/00,subclass,2443100
+Metalurgia dos metais não ferrosos e suas ligas não especificados anteriormente,24.49-1,class,24491
+Produção de zinco em formas primárias,2449-1/01,subclass,2449101
+Produção de laminados de zinco,2449-1/02,subclass,2449102
+Fabricação de ânodos para galvanoplastia,2449-1/03,subclass,2449103
+Metalurgia de outros metais não ferrosos e suas ligas não especificados anteriormente,2449-1/99,subclass,2449199
+Fundição,24.5,group,245
+Fundição de ferro e aço,24.51-2,class,24512
+Fundição de ferro e aço,2451-2/00,subclass,2451200
+Fundição de metais não ferrosos e suas ligas,24.52-1,class,24521
+Fundição de metais não ferrosos e suas ligas,2452-1/00,subclass,2452100
+"FABRICAÇÃO DE PRODUTOS DE METAL, EXCETO MÁQUINAS
+E EQUIPAMENTOS",25,division,25
+"Fabricação de estruturas metálicas e obras de caldeiraria
+pesada",25.1,group,251
+Fabricação de estruturas metálicas,25.11-0,class,25110
+Fabricação de estruturas metálicas,2511-0/00,subclass,2511000
+Fabricação de esquadrias de metal,25.12-8,class,25128
+Fabricação de esquadrias de metal,2512-8/00,subclass,2512800
+Fabricação de obras de caldeiraria pesada,25.13-6,class,25136
+Fabricação de obras de caldeiraria pesada,2513-6/00,subclass,2513600
+"Fabricação de tanques, reservatórios metálicos e caldeiras",25.2,group,252
+"Fabricação de tanques, reservatórios metálicos e caldeiras para aquecimento central",25.21-7,class,25217
+"Fabricação de tanques, reservatórios metálicos e caldeiras para aquecimento central",2521-7/00,subclass,2521700
+"Fabricação de caldeiras geradoras de vapor, exceto para aquecimento central e para veículos",25.22-5,class,25225
+"Fabricação de caldeiras geradoras de vapor, exceto para aquecimento central e para veículos",2522-5/00,subclass,2522500
+"Forjaria, estamparia, metalurgia do pó e serviços de tratamento de metais",25.3,group,253
+Produção de forjados de aço e de metais não ferrosos e suas ligas,25.31-4,class,25314
+Produção de forjados de aço,2531-4/01,subclass,2531401
+Produção de forjados de metais não ferrosos e suas ligas,2531-4/02,subclass,2531402
+Produção de artefatos estampados de metal; metalurgia do pó,25.32-2,class,25322
+Produção de artefatos estampados de metal,2532-2/01,subclass,2532201
+Metalurgia do pó,2532-2/02,subclass,2532202
+"Serviços de usinagem, solda, tratamento e revestimento em metais",25.39-0,class,25390
+"Serviços de usinagem, torneiria e solda",2539-0/01,subclass,2539001
+Serviços de tratamento e revestimento em metais,2539-0/02,subclass,2539002
+"Fabricação de artigos de cutelaria, de serralheria e ferramentas",25.4,group,254
+Fabricação de artigos de cutelaria,25.41-1,class,25411
+Fabricação de artigos de cutelaria,2541-1/00,subclass,2541100
+"Fabricação de artigos de serralheria, exceto esquadrias",25.42-0,class,25420
+"Fabricação de artigos de serralheria, exceto esquadrias",2542-0/00,subclass,2542000
+Fabricação de ferramentas,25.43-8,class,25438
+Fabricação de ferramentas,2543-8/00,subclass,2543800
+"Fabricação de equipamento bélico pesado, armas e munições",25.5,group,255
+"Fabricação de equipamento bélico pesado, armas de fogo e munições",25.50-1,class,25501
+"Fabricação de equipamento bélico pesado, exceto veículos militares de combate",2550-1/01,subclass,2550101
+"Fabricação de armas de fogo, outras armas e munições",2550-1/02,subclass,2550102
+Fabricação de produtos de metal não especificados anteriormente,25.9,group,259
+Fabricação de embalagens metálicas,25.91-8,class,25918
+Fabricação de embalagens metálicas,2591-8/00,subclass,2591800
+Fabricação de produtos de trefilados de metal,25.92-6,class,25926
+Fabricação de produtos de trefilados de metal padronizados,2592-6/01,subclass,2592601
+"Fabricação de produtos de trefilados de metal, exceto padronizados",2592-6/02,subclass,2592602
+Fabricação de artigos de metal para uso doméstico e pessoal,25.93-4,class,25934
+Fabricação de artigos de metal para uso doméstico e pessoal,2593-4/00,subclass,2593400
+Fabricação de produtos de metal não especificados anteriormente,25.99-3,class,25993
+Serviços de confecção de armações metálicas para a construção,2599-3/01,subclass,2599301
+Serviço de corte e dobra de metais,2599-3/02,subclass,2599302
+Fabricação de outros produtos de metal não especificados anteriormente,2599-3/99,subclass,2599399
+"FABRICAÇÃO DE EQUIPAMENTOS DE INFORMÁTICA, PRODUTOS ELETRÔNICOS E ÓPTICOS",26,division,26
+Fabricação de componentes eletrônicos,26.1,group,261
+Fabricação de componentes eletrônicos,26.10-8,class,26108
+Fabricação de componentes eletrônicos,2610-8/00,subclass,2610800
+Fabricação de equipamentos de informática e periféricos,26.2,group,262
+Fabricação de equipamentos de informática,26.21-3,class,26213
+Fabricação de equipamentos de informática,2621-3/00,subclass,2621300
+Fabricação de periféricos para equipamentos de informática,26.22-1,class,26221
+Fabricação de periféricos para equipamentos de informática,2622-1/00,subclass,2622100
+Fabricação de equipamentos de comunicação,26.3,group,263
+Fabricação de equipamentos transmissores de comunicação,26.31-1,class,26311
+"Fabricação de equipamentos transmissores de comunicação, peças e acessórios",2631-1/00,subclass,2631100
+Fabricação de aparelhos telefônicos e de outros equipamentos de comunicação,26.32-9,class,26329
+"Fabricação de aparelhos telefônicos e de outros equipamentos de comunicação, peças e acessórios",2632-9/00,subclass,2632900
+"Fabricação de aparelhos de recepção, reprodução, gravação e amplificação de áudio e vídeo",26.4,group,264
+"Fabricação de aparelhos de recepção, reprodução, gravação e amplificação de áudio e vídeo",26.40-0,class,26400
+"Fabricação de aparelhos de recepção, reprodução, gravação e amplificação de áudio e vídeo",2640-0/00,subclass,2640000
+"Fabricação de aparelhos e instrumentos de medida, teste e controle; cronômetros e relógios",26.5,group,265
+"Fabricação de aparelhos e equipamentos de medida, teste e
+controle",26.51-5,class,26515
+"Fabricação de aparelhos e equipamentos de medida, teste e controle",2651-5/00,subclass,2651500
+Fabricação de cronômetros e relógios,26.52-3,class,26523
+Fabricação de cronômetros e relógios,2652-3/00,subclass,2652300
+Fabricação de aparelhos eletromédicos e eletroterapêuticos e equipamentos de irradiação,26.6,group,266
+Fabricação de aparelhos eletromédicos e eletroterapêuticos e equipamentos de irradiação,26.60-4,class,26604
+Fabricação de aparelhos eletromédicos e eletroterapêuticos e equipamentos de irradiação,2660-4/00,subclass,2660400
+"Fabricação de equipamentos e instrumentos ópticos, fotográficos e cinematográficos",26.7,group,267
+"Fabricação de equipamentos e instrumentos ópticos, fotográficos e cinematográficos",26.70-1,class,26701
+"Fabricação de equipamentos e instrumentos ópticos, peças e acessórios",2670-1/01,subclass,2670101
+"Fabricação de aparelhos fotográficos e cinematográficos, peças e acessórios",2670-1/02,subclass,2670102
+"Fabricação de mídias virgens, magnéticas e ópticas",26.8,group,268
+"Fabricação de mídias virgens, magnéticas e ópticas",26.80-9,class,26809
+"Fabricação de mídias virgens, magnéticas e ópticas",2680-9/00,subclass,2680900
+"FABRICAÇÃO DE MÁQUINAS, APARELHOS E MATERIAIS ELÉTRICOS",27,division,27
+"Fabricação de geradores, transformadores e motores elétricos",27.1,group,271
+"Fabricação de geradores, transformadores e motores elétricos",27.10-4,class,27104
+"Fabricação de geradores de corrente contínua e alternada, peças e acessórios",2710-4/01,subclass,2710401
+"Fabricação de transformadores, indutores, conversores, sincronizadores e semelhantes, peças e acessórios",2710-4/02,subclass,2710402
+"Fabricação de motores elétricos, peças e acessórios",2710-4/03,subclass,2710403
+"Fabricação de pilhas, baterias e acumuladores elétricos",27.2,group,272
+"Fabricação de pilhas, baterias e acumuladores elétricos, exceto para veículos automotores",27.21-0,class,27210
+"Fabricação de pilhas, baterias e acumuladores elétricos, exceto para veículos automotores",2721-0/00,subclass,2721000
+Fabricação de baterias e acumuladores para veículos automotores,27.22-8,class,27228
+Fabricação de baterias e acumuladores para veículos automotores,2722-8/01,subclass,2722801
+Recondicionamento de baterias e acumuladores para veículos automotores,2722-8/02,subclass,2722802
+Fabricação de equipamentos para distribuição e controle de energia elétrica,27.3,group,273
+Fabricação de aparelhos e equipamentos para distribuição e controle de energia elétrica,27.31-7,class,27317
+Fabricação de aparelhos e equipamentos para distribuição e controle de energia elétrica,2731-7/00,subclass,2731700
+Fabricação de material elétrico para instalações em circuito de consumo,27.32-5,class,27325
+Fabricação de material elétrico para instalações em circuito de consumo,2732-5/00,subclass,2732500
+"Fabricação de fios, cabos e condutores elétricos isolados",27.33-3,class,27333
+"Fabricação de fios, cabos e condutores elétricos isolados",2733-3/00,subclass,2733300
+Fabricação de lâmpadas e outros equipamentos de iluminação,27.4,group,274
+Fabricação de lâmpadas e outros equipamentos de iluminação,27.40-6,class,27406
+Fabricação de lâmpadas,2740-6/01,subclass,2740601
+Fabricação de luminárias e outros equipamentos de iluminação,2740-6/02,subclass,2740602
+Fabricação de eletrodomésticos,27.5,group,275
+"Fabricação de fogões, refrigeradores e máquinas de lavar e secar para uso doméstico",27.51-1,class,27511
+"Fabricação de fogões, refrigeradores e máquinas de lavar e secar para uso doméstico, peças e acessórios",2751-1/00,subclass,2751100
+Fabricação de aparelhos eletrodomésticos não especificados anteriormente,27.59-7,class,27597
+"Fabricação de aparelhos elétricos de uso pessoal, peças e acessórios",2759-7/01,subclass,2759701
+"Fabricação de outros aparelhos eletrodomésticos não especificados anteriormente, peças e acessórios",2759-7/99,subclass,2759799
+Fabricação de equipamentos e aparelhos elétricos não especificados anteriormente,27.9,group,279
+Fabricação de equipamentos e aparelhos elétricos não especificados anteriormente,27.90-2,class,27902
+"Fabricação de eletrodos, contatos e outros artigos de carvão e grafita para uso elétrico, eletroímãs e isoladores",2790-2/01,subclass,2790201
+Fabricação de equipamentos para sinalização e alarme,2790-2/02,subclass,2790202
+Fabricação de outros equipamentos e aparelhos elétricos não especificados anteriormente,2790-2/99,subclass,2790299
+FABRICAÇÃO DE MÁQUINAS E EQUIPAMENTOS,28,division,28
+"Fabricação de motores, bombas, compressores e equipamentos de transmissão",28.1,group,281
+"Fabricação de motores e turbinas, exceto para aviões e veículos rodoviários",28.11-9,class,28119
+"Fabricação de motores e turbinas, peças e acessórios, exceto para aviões e veículos rodoviários",2811-9/00,subclass,2811900
+"Fabricação de equipamentos hidráulicos e pneumáticos, exceto válvulas",28.12-7,class,28127
+"Fabricação de equipamentos hidráulicos e pneumáticos, peças e acessórios, exceto válvulas",2812-7/00,subclass,2812700
+"Fabricação de válvulas, registros e dispositivos semelhantes",28.13-5,class,28135
+"Fabricação de válvulas, registros e dispositivos semelhantes, peças e acessórios",2813-5/00,subclass,2813500
+Fabricação de compressores,28.14-3,class,28143
+"Fabricação de compressores para uso industrial, peças e acessórios",2814-3/01,subclass,2814301
+"Fabricação de compressores para uso não industrial, peças e acessórios",2814-3/02,subclass,2814302
+Fabricação de equipamentos de transmissão para fins industriais,28.15-1,class,28151
+Fabricação de rolamentos para fins industriais,2815-1/01,subclass,2815101
+"Fabricação de equipamentos de transmissão para fins industriais, exceto rolamentos",2815-1/02,subclass,2815102
+Fabricação de máquinas e equipamentos de uso geral,28.2,group,282
+Fabricação de aparelhos e equipamentos para instalações térmicas,28.21-6,class,28216
+"Fabricação de fornos industriais, aparelhos e equipamentos não elétricos para instalações térmicas, peças e acessórios",2821-6/01,subclass,2821601
+"Fabricação de estufas e fornos elétricos para fins industriais, peças e acessórios",2821-6/02,subclass,2821602
+"Fabricação de máquinas, equipamentos e aparelhos para transporte e elevação de cargas e pessoas",28.22-4,class,28224
+"Fabricação de máquinas, equipamentos e aparelhos para transporte e elevação de pessoas, peças e acessórios",2822-4/01,subclass,2822401
+"Fabricação de máquinas, equipamentos e aparelhos para transporte e elevação de cargas, peças e acessórios",2822-4/02,subclass,2822402
+Fabricação de máquinas e aparelhos de refrigeração e ventilação para uso industrial e comercial,28.23-2,class,28232
+"Fabricação de máquinas e aparelhos de refrigeração e ventilação para uso industrial e comercial, peças e acessórios",2823-2/00,subclass,2823200
+Fabricação de aparelhos e equipamentos de ar condicionado,28.24-1,class,28241
+Fabricação de aparelhos e equipamentos de ar condicionado para uso industrial,2824-1/01,subclass,2824101
+Fabricação de aparelhos e equipamentos de ar condicionado para uso não industrial,2824-1/02,subclass,2824102
+Fabricação de máquinas e equipamentos para saneamento básico e ambiental,28.25-9,class,28259
+"Fabricação de máquinas e equipamentos para saneamento básico e ambiental, peças e acessórios",2825-9/00,subclass,2825900
+Fabricação de máquinas e equipamentos de uso geral não especificados anteriormente,28.29-1,class,28291
+"Fabricação de máquinas de escrever, calcular e outros equipamentos não eletrônicos para escritório, peças e acessórios",2829-1/01,subclass,2829101
+"Fabricação de outras máquinas e equipamentos de uso geral não especificados anteriormente, peças e acessórios",2829-1/99,subclass,2829199
+Fabricação de tratores e de máquinas e equipamentos para a agricultura e pecuária,28.3,group,283
+Fabricação de tratores agrícolas,28.31-3,class,28313
+"Fabricação de tratores agrícolas, peças e acessórios",2831-3/00,subclass,2831300
+Fabricação de equipamentos para irrigação agrícola,28.32-1,class,28321
+"Fabricação de equipamentos para irrigação agrícola, peças e acessórios",2832-1/00,subclass,2832100
+"Fabricação de máquinas e equipamentos para a agricultura e pecuária, exceto para irrigação",28.33-0,class,28330
+"Fabricação de máquinas e equipamentos para a agricultura e pecuária, peças e acessórios, exceto para irrigação",2833-0/00,subclass,2833000
+Fabricação de máquinas-ferramenta,28.4,group,284
+Fabricação de máquinas-ferramenta,28.40-2,class,28402
+"Fabricação de máquinas-ferramenta, peças e acessórios",2840-2/00,subclass,2840200
+Fabricação de máquinas e equipamentos de uso na extração mineral e na construção,28.5,group,285
+Fabricação de máquinas e equipamentos para a prospecção e extração de petróleo,28.51-8,class,28518
+"Fabricação de máquinas e equipamentos para a prospecção e extração de petróleo, peças e acessórios",2851-8/00,subclass,2851800
+"Fabricação de outras máquinas e equipamentos para uso na extração mineral, exceto na extração de petróleo",28.52-6,class,28526
+"Fabricação de outras máquinas e equipamentos para uso na extração mineral, peças e acessórios, exceto na extração de petróleo",2852-6/00,subclass,2852600
+"Fabricação de tratores, exceto agrícolas",28.53-4,class,28534
+"Fabricação de tratores, peças e acessórios, exceto agrícolas",2853-4/00,subclass,2853400
+"Fabricação de máquinas e equipamentos para terraplenagem, pavimentação e construção, exceto tratores",28.54-2,class,28542
+"Fabricação de máquinas e equipamentos para terraplenagem, pavimentação e construção, peças e acessórios, exceto tratores",2854-2/00,subclass,2854200
+Fabricação de máquinas e equipamentos de uso industrial específico,28.6,group,286
+"Fabricação de máquinas para a indústria metalúrgica, exceto máquinas-ferramenta",28.61-5,class,28615
+"Fabricação de máquinas para a indústria metalúrgica, peças e acessórios, exceto máquinas-ferramenta",2861-5/00,subclass,2861500
+"Fabricação de máquinas e equipamentos para as indústrias de alimentos, bebidas e fumo",28.62-3,class,28623
+"Fabricação de máquinas e equipamentos para as indústrias de alimentos, bebidas e fumo, peças e acessórios",2862-3/00,subclass,2862300
+Fabricação de máquinas e equipamentos para a indústria têxtil,28.63-1,class,28631
+"Fabricação de máquinas e equipamentos para a indústria têxtil, peças e acessórios",2863-1/00,subclass,2863100
+"Fabricação de máquinas e equipamentos para as indústrias do vestuário, do couro e de calçados",28.64-0,class,28640
+"Fabricação de máquinas e equipamentos para as indústrias do vestuário, do couro e de calçados, peças e acessórios",2864-0/00,subclass,2864000
+"Fabricação de máquinas e equipamentos para as indústrias de celulose, papel e papelão e artefatos",28.65-8,class,28658
+"Fabricação de máquinas e equipamentos para as indústrias de celulose, papel e papelão e artefatos, peças e acessórios",2865-8/00,subclass,2865800
+Fabricação de máquinas e equipamentos para a indústria do plástico,28.66-6,class,28666
+"Fabricação de máquinas e equipamentos para a indústria do plástico, peças e acessórios",2866-6/00,subclass,2866600
+Fabricação de máquinas e equipamentos para uso industrial específico não especificados anteriormente,28.69-1,class,28691
+"Fabricação de máquinas e equipamentos para uso industrial específico não especificados anteriormente, peças e acessórios",2869-1/00,subclass,2869100
+"FABRICAÇÃO DE VEÍCULOS AUTOMOTORES, REBOQUES E CARROCERIAS",29,division,29
+"Fabricação de automóveis, camionetas e utilitários",29.1,group,291
+"Fabricação de automóveis, camionetas e utilitários",29.10-7,class,29107
+"Fabricação de automóveis, camionetas e utilitários",2910-7/01,subclass,2910701
+"Fabricação de chassis com motor para automóveis, camionetas e utilitários",2910-7/02,subclass,2910702
+"Fabricação de motores para automóveis, camionetas e utilitários",2910-7/03,subclass,2910703
+Fabricação de caminhões e ônibus,29.2,group,292
+Fabricação de caminhões e ônibus,29.20-4,class,29204
+Fabricação de caminhões e ônibus,2920-4/01,subclass,2920401
+Fabricação de motores para caminhões e ônibus,2920-4/02,subclass,2920402
+"Fabricação de cabines, carrocerias e reboques para veículos automotores",29.3,group,293
+"Fabricação de cabines, carrocerias e reboques para veículos automotores",29.30-1,class,29301
+"Fabricação de cabines, carrocerias e reboques para caminhões",2930-1/01,subclass,2930101
+Fabricação de carrocerias para ônibus,2930-1/02,subclass,2930102
+"Fabricação de cabines, carrocerias e reboques para outros veículos automotores, exceto caminhões e ônibus",2930-1/03,subclass,2930103
+Fabricação de peças e acessórios para veículos automotores,29.4,group,294
+Fabricação de peças e acessórios para o sistema motor de veículos automotores,29.41-7,class,29417
+Fabricação de peças e acessórios para o sistema motor de veículos automotores,2941-7/00,subclass,2941700
+Fabricação de peças e acessórios para os sistemas de marcha e transmissão de veículos automotores,29.42-5,class,29425
+Fabricação de peças e acessórios para os sistemas de marcha e transmissão de veículos automotores,2942-5/00,subclass,2942500
+Fabricação de peças e acessórios para o sistema de freios de veículos automotores,29.43-3,class,29433
+Fabricação de peças e acessórios para o sistema de freios de veículos automotores,2943-3/00,subclass,2943300
+Fabricação de peças e acessórios para o sistema de direção e suspensão de veículos automotores,29.44-1,class,29441
+Fabricação de peças e acessórios para o sistema de direção e suspensão de veículos automotores,2944-1/00,subclass,2944100
+"Fabricação de material elétrico e eletrônico para veículos automotores, exceto baterias",29.45-0,class,29450
+"Fabricação de material elétrico e eletrônico para veículos automotores, exceto baterias",2945-0/00,subclass,2945000
+Fabricação de peças e acessórios para veículos automotores não especificados anteriormente,29.49-2,class,29492
+Fabricação de bancos e estofados para veículos automotores,2949-2/01,subclass,2949201
+Fabricação de outras peças e acessórios para veículos automotores não especificadas anteriormente,2949-2/99,subclass,2949299
+Recondicionamento e recuperação de motores para veículos automotores,29.5,group,295
+Recondicionamento e recuperação de motores para veículos automotores,29.50-6,class,29506
+Recondicionamento e recuperação de motores para veículos automotores,2950-6/00,subclass,2950600
+"FABRICAÇÃO DE OUTROS EQUIPAMENTOS DE TRANSPORTE, EXCETO VEÍCULOS AUTOMOTORES",30,division,30
+Construção de embarcações,30.1,group,301
+Construção de embarcações e estruturas flutuantes,30.11-3,class,30113
+Construção de embarcações de grande porte,3011-3/01,subclass,3011301
+"Construção de embarcações para uso comercial e para usos especiais, exceto de grande porte",3011-3/02,subclass,3011302
+Construção de embarcações para esporte e lazer,30.12-1,class,30121
+Construção de embarcações para esporte e lazer,3012-1/00,subclass,3012100
+Fabricação de veículos ferroviários,30.3,group,303
+"Fabricação de locomotivas, vagões e outros materiais rodantes",30.31-8,class,30318
+"Fabricação de locomotivas, vagões e outros materiais rodantes",3031-8/00,subclass,3031800
+Fabricação de peças e acessórios para veículos ferroviários,30.32-6,class,30326
+Fabricação de peças e acessórios para veículos ferroviários,3032-6/00,subclass,3032600
+Fabricação de aeronaves,30.4,group,304
+Fabricação de aeronaves,30.41-5,class,30415
+Fabricação de aeronaves,3041-5/00,subclass,3041500
+"Fabricação de turbinas, motores e outros componentes e peças para aeronaves",30.42-3,class,30423
+"Fabricação de turbinas, motores e outros componentes e peças para aeronaves",3042-3/00,subclass,3042300
+Fabricação de veículos militares de combate,30.5,group,305
+Fabricação de veículos militares de combate,30.50-4,class,30504
+Fabricação de veículos militares de combate,3050-4/00,subclass,3050400
+Fabricação de equipamentos de transporte não especificados anteriormente,30.9,group,309
+Fabricação de motocicletas,30.91-1,class,30911
+Fabricação de motocicletas,3091-1/01,subclass,3091101
+Fabricação de peças e acessórios para motocicletas,3091-1/02,subclass,3091102
+Fabricação de bicicletas e triciclos não motorizados,30.92-0,class,30920
+"Fabricação de bicicletas e triciclos não motorizados, peças e acessórios",3092-0/00,subclass,3092000
+Fabricação de equipamentos de transporte não especificados anteriormente,30.99-7,class,30997
+Fabricação de equipamentos de transporte não especificados anteriormente,3099-7/00,subclass,3099700
+FABRICAÇÃO DE MÓVEIS,31,division,31
+Fabricação de móveis,31.0,group,310
+Fabricação de móveis com predominância de madeira,31.01-2,class,31012
+Fabricação de móveis com predominância de madeira,3101-2/00,subclass,3101200
+Fabricação de móveis com predominância de metal,31.02-1,class,31021
+Fabricação de móveis com predominância de metal,3102-1/00,subclass,3102100
+"Fabricação de móveis de outros materiais, exceto madeira e metal",31.03-9,class,31039
+"Fabricação de móveis de outros materiais, exceto madeira e metal",3103-9/00,subclass,3103900
+Fabricação de colchões,31.04-7,class,31047
+Fabricação de colchões,3104-7/00,subclass,3104700
+FABRICAÇÃO DE PRODUTOS DIVERSOS,32,division,32
+"Fabricação de artigos de joalheria, bijuteria e semelhantes",32.1,group,321
+Lapidação de gemas e fabricação de artefatos de ourivesaria e joalheria,32.11-6,class,32116
+Lapidação de gemas,3211-6/01,subclass,3211601
+Fabricação de artefatos de joalheria e ourivesaria,3211-6/02,subclass,3211602
+Cunhagem de moedas e medalhas,3211-6/03,subclass,3211603
+Fabricação de bijuterias e artefatos semelhantes,32.12-4,class,32124
+Fabricação de bijuterias e artefatos semelhantes,3212-4/00,subclass,3212400
+Fabricação de instrumentos musicais,32.2,group,322
+Fabricação de instrumentos musicais,32.20-5,class,32205
+"Fabricação de instrumentos musicais, peças e acessórios",3220-5/00,subclass,3220500
+Fabricação de artefatos para pesca e esporte,32.3,group,323
+Fabricação de artefatos para pesca e esporte,32.30-2,class,32302
+Fabricação de artefatos para pesca e esporte,3230-2/00,subclass,3230200
+Fabricação de brinquedos e jogos recreativos,32.4,group,324
+Fabricação de brinquedos e jogos recreativos,32.40-0,class,32400
+Fabricação de jogos eletrônicos,3240-0/01,subclass,3240001
+"Fabricação de mesas de bilhar, de sinuca e acessórios não associada à locação",3240-0/02,subclass,3240002
+"Fabricação de mesas de bilhar, de sinuca e acessórios associada à locação",3240-0/03,subclass,3240003
+Fabricação de outros brinquedos e jogos recreativos não especificados anteriormente,3240-0/99,subclass,3240099
+Fabricação de instrumentos e materiais para uso médico e odontológico e de artigos ópticos,32.5,group,325
+Fabricação de instrumentos e materiais para uso médico e odontológico e de artigos ópticos,32.50-7,class,32507
+"Fabricação de instrumentos não eletrônicos e utensílios para uso médico, cirúrgico, odontológico e de laboratório",3250-7/01,subclass,3250701
+"Fabricação de mobiliário para uso médico, cirúrgico, odontológico e de laboratório",3250-7/02,subclass,3250702
+Fabricação de aparelhos e utensílios para correção de defeitos físicos e aparelhos ortopédicos em geral sob encomenda,3250-7/03,subclass,3250703
+"Fabricação de aparelhos e utensílios para correção de defeitos físicos e aparelhos ortopédicos em geral, exceto sob encomenda",3250-7/04,subclass,3250704
+Fabricação de materiais para medicina e odontologia,3250-7/05,subclass,3250705
+Serviços de prótese dentária,3250-7/06,subclass,3250706
+Fabricação de artigos ópticos,3250-7/07,subclass,3250707
+Serviço de laboratório óptico,3250-7/09,subclass,3250709
+Fabricação de produtos diversos,32.9,group,329
+"Fabricação de escovas, pincéis e vassouras",32.91-4,class,32914
+"Fabricação de escovas, pincéis e vassouras",3291-4/00,subclass,3291400
+Fabricação de equipamentos e acessórios para segurança e proteção pessoal e profissional,32.92-2,class,32922
+Fabricação de roupas de proteção e segurança e resistentes a fogo,3292-2/01,subclass,3292201
+Fabricação de equipamentos e acessórios para segurança pessoal e profissional,3292-2/02,subclass,3292202
+Fabricação de produtos diversos não especificados anteriormente,32.99-0,class,32990
+Fabricação de guarda-chuvas e similares,3299-0/01,subclass,3299001
+"Fabricação de canetas, lápis e outros artigos para escritório",3299-0/02,subclass,3299002
+"Fabricação de letras, letreiros e placas de qualquer material, exceto luminosos",3299-0/03,subclass,3299003
+Fabricação de painéis e letreiros luminosos,3299-0/04,subclass,3299004
+Fabricação de aviamentos para costura,3299-0/05,subclass,3299005
+"Fabricação de velas, inclusive decorativas",3299-0/06,subclass,3299006
+Fabricação de produtos diversos não especificados anteriormente,3299-0/99,subclass,3299099
+"MANUTENÇÃO, REPARAÇÃO E INSTALAÇÃO DE MÁQUINAS E EQUIPAMENTOS",33,division,33
+Manutenção e reparação de máquinas e equipamentos,33.1,group,331
+"Manutenção e reparação de tanques, reservatórios metálicos e caldeiras, exceto para veículos",33.11-2,class,33112
+"Manutenção e reparação de tanques, reservatórios metálicos e caldeiras, exceto para veículos",3311-2/00,subclass,3311200
+Manutenção e reparação de equipamentos eletrônicos e ópticos,33.12-1,class,33121
+"Manutenção e reparação de aparelhos e instrumentos de medida, teste e controle",3312-1/02,subclass,3312102
+Manutenção e reparação de aparelhos eletromédicos e eletroterapêuticos e equipamentos de irradiação,3312-1/03,subclass,3312103
+Manutenção e reparação de equipamentos e instrumentos ópticos,3312-1/04,subclass,3312104
+Manutenção e reparação de máquinas e equipamentos elétricos,33.13-9,class,33139
+"Manutenção e reparação de geradores, transformadores e motores elétricos",3313-9/01,subclass,3313901
+"Manutenção e reparação de baterias e acumuladores elétricos, exceto para veículos",3313-9/02,subclass,3313902
+"Manutenção e reparação de máquinas, aparelhos e materiais elétricos não especificados anteriormente",3313-9/99,subclass,3313999
+Manutenção e reparação de máquinas e equipamentos da indústria mecânica,33.14-7,class,33147
+Manutenção e reparação de máquinas motrizes não elétricas,3314-7/01,subclass,3314701
+"Manutenção e reparação de equipamentos hidráulicos e pneumáticos, exceto válvulas",3314-7/02,subclass,3314702
+Manutenção e reparação de válvulas industriais,3314-7/03,subclass,3314703
+Manutenção e reparação de compressores,3314-7/04,subclass,3314704
+Manutenção e reparação de equipamentos de transmissão para fins industriais,3314-7/05,subclass,3314705
+"Manutenção e reparação de máquinas, aparelhos e equipamentos para instalações térmicas",3314-7/06,subclass,3314706
+Manutenção e reparação de máquinas e aparelhos de refrigeração e ventilação para uso industrial e comercial,3314-7/07,subclass,3314707
+"Manutenção e reparação de máquinas, equipamentos e aparelhos para transporte e elevação de cargas",3314-7/08,subclass,3314708
+"Manutenção e reparação de máquinas de escrever, calcular e de outros equipamentos não eletrônicos para escritório",3314-7/09,subclass,3314709
+Manutenção e reparação de máquinas e equipamentos para uso geral não especificados anteriormente,3314-7/10,subclass,3314710
+Manutenção e reparação de máquinas e equipamentos para agricultura e pecuária,3314-7/11,subclass,3314711
+Manutenção e reparação de tratores agrícolas,3314-7/12,subclass,3314712
+Manutenção e reparação de máquinas-ferramenta,3314-7/13,subclass,3314713
+Manutenção e reparação de máquinas e equipamentos para a prospecção e extração de petróleo,3314-7/14,subclass,3314714
+"Manutenção e reparação de máquinas e equipamentos para uso na extração mineral, exceto na extração de petróleo",3314-7/15,subclass,3314715
+"Manutenção e reparação de tratores, exceto agrícolas",3314-7/16,subclass,3314716
+"Manutenção e reparação de máquinas e equipamentos de terraplenagem, pavimentação e construção, exceto tratores",3314-7/17,subclass,3314717
+"Manutenção e reparação de máquinas para a indústria metalúrgica, exceto máquinas-ferramenta",3314-7/18,subclass,3314718
+"Manutenção e reparação de máquinas e equipamentos para as indústrias de alimentos, bebidas e fumo",3314-7/19,subclass,3314719
+"Manutenção e reparação de máquinas e equipamentos para a indústria têxtil, do vestuário, do couro e calçados",3314-7/20,subclass,3314720
+"Manutenção e reparação de máquinas e aparelhos para a indústria de celulose, papel e papelão e artefatos",3314-7/21,subclass,3314721
+Manutenção e reparação de máquinas e aparelhos para a indústria do plástico,3314-7/22,subclass,3314722
+Manutenção e reparação de outras máquinas e equipamentos para usos industriais não especificados anteriormente,3314-7/99,subclass,3314799
+Manutenção e reparação de veículos ferroviários,33.15-5,class,33155
+Manutenção e reparação de veículos ferroviários,3315-5/00,subclass,3315500
+Manutenção e reparação de aeronaves,33.16-3,class,33163
+"Manutenção e reparação de aeronaves, exceto a manutenção na pista",3316-3/01,subclass,3316301
+Manutenção de aeronaves na pista,3316-3/02,subclass,3316302
+Manutenção e reparação de embarcações,33.17-1,class,33171
+Manutenção e reparação de embarcações e estruturas flutuantes,3317-1/01,subclass,3317101
+Manutenção e reparação de embarcações para esporte e lazer,3317-1/02,subclass,3317102
+Manutenção e reparação de equipamentos e produtos não especificados anteriormente,33.19-8,class,33198
+Manutenção e reparação de equipamentos e produtos não especificados anteriormente,3319-8/00,subclass,3319800
+Instalação de máquinas e equipamentos,33.2,group,332
+Instalação de máquinas e equipamentos industriais,33.21-0,class,33210
+Instalação de máquinas e equipamentos industriais,3321-0/00,subclass,3321000
+Instalação de equipamentos não especificados anteriormente,33.29-5,class,33295
+Serviços de montagem de móveis de qualquer material,3329-5/01,subclass,3329501
+Instalação de outros equipamentos não especificados anteriormente,3329-5/99,subclass,3329599
+ELETRICIDADE E GÁS,D,section,D
+"ELETRICIDADE, GÁS E OUTRAS UTILIDADES",35,division,35
+"Geração, transmissão e distribuição de energia elétrica",35.1,group,351
+Geração de energia elétrica,35.11-5,class,35115
+Geração de energia elétrica,3511-5/01,subclass,3511501
+Atividades de coordenação e controle da operação da geração e transmissão de energia elétrica,3511-5/02,subclass,3511502
+Transmissão de energia elétrica,35.12-3,class,35123
+Transmissão de energia elétrica,3512-3/00,subclass,3512300
+Comércio atacadista de energia elétrica,35.13-1,class,35131
+Comércio atacadista de energia elétrica,3513-1/00,subclass,3513100
+Distribuição de energia elétrica,35.14-0,class,35140
+Distribuição de energia elétrica,3514-0/00,subclass,3514000
+Produção e distribuição de combustíveis gasosos por redes urbanas,35.2,group,352
+Produção de gás; processamento de gás natural; distribuição de combustíveis gasosos por redes urbanas,35.20-4,class,35204
+Produção de gás; processamento de gás natural,3520-4/01,subclass,3520401
+Distribuição de combustíveis gasosos por redes urbanas,3520-4/02,subclass,3520402
+"Produção e distribuição de vapor, água quente e ar
+condicionado",35.3,group,353
+"Produção e distribuição de vapor, água quente e ar
+condicionado",35.30-1,class,35301
+"Produção e distribuição de vapor, água quente e ar condicionado",3530-1/00,subclass,3530100
+"ÁGUA, ESGOTO, ATIVIDADES DE GESTÃO DE RESÍDUOS E DESCONTAMINAÇÃO",E,section,E
+"CAPTAÇÃO, TRATAMENTO E DISTRIBUIÇÃO DE ÁGUA",36,division,36
+"Captação, tratamento e distribuição de água",36.0,group,360
+"Captação, tratamento e distribuição de água",36.00-6,class,36006
+"Captação, tratamento e distribuição de água",3600-6/01,subclass,3600601
+Distribuição de água por caminhões,3600-6/02,subclass,3600602
+ESGOTO E ATIVIDADES RELACIONADAS,37,division,37
+Esgoto e atividades relacionadas,37.0,group,370
+Gestão de redes de esgoto,37.01-1,class,37011
+Gestão de redes de esgoto,3701-1/00,subclass,3701100
+"Atividades relacionadas a esgoto, exceto a gestão de redes",37.02-9,class,37029
+"Atividades relacionadas a esgoto, exceto a gestão de redes",3702-9/00,subclass,3702900
+"COLETA, TRATAMENTO E DISPOSIÇÃO DE RESÍDUOS; RECUPERAÇÃO DE MATERIAIS",38,division,38
+Coleta de resíduos,38.1,group,381
+Coleta de resíduos não perigosos,38.11-4,class,38114
+Coleta de resíduos não perigosos,3811-4/00,subclass,3811400
+Coleta de resíduos perigosos,38.12-2,class,38122
+Coleta de resíduos perigosos,3812-2/00,subclass,3812200
+Tratamento e disposição de resíduos,38.2,group,382
+Tratamento e disposição de resíduos não perigosos,38.21-1,class,38211
+Tratamento e disposição de resíduos não perigosos,3821-1/00,subclass,3821100
+Tratamento e disposição de resíduos perigosos,38.22-0,class,38220
+Tratamento e disposição de resíduos perigosos,3822-0/00,subclass,3822000
+Recuperação de materiais,38.3,group,383
+Recuperação de materiais metálicos,38.31-9,class,38319
+Recuperação de sucatas de alumínio,3831-9/01,subclass,3831901
+"Recuperação de materiais metálicos, exceto alumínio",3831-9/99,subclass,3831999
+Recuperação de materiais plásticos,38.32-7,class,38327
+Recuperação de materiais plásticos,3832-7/00,subclass,3832700
+Recuperação de materiais não especificados anteriormente,38.39-4,class,38394
+Usinas de compostagem,3839-4/01,subclass,3839401
+Recuperação de materiais não especificados anteriormente,3839-4/99,subclass,3839499
+DESCONTAMINAÇÃO E OUTROS SERVIÇOS DE GESTÃO DE RESÍDUOS,39,division,39
+Descontaminação e outros serviços de gestão de resíduos,39.0,group,390
+Descontaminação e outros serviços de gestão de resíduos,39.00-5,class,39005
+Descontaminação e outros serviços de gestão de resíduos,3900-5/00,subclass,3900500
+CONSTRUÇÃO,F,section,F
+CONSTRUÇÃO DE EDIFÍCIOS,41,division,41
+Incorporação de empreendimentos imobiliários,41.1,group,411
+Incorporação de empreendimentos imobiliários,41.10-7,class,41107
+Incorporação de empreendimentos imobiliários,4110-7/00,subclass,4110700
+Construção de edifícios,41.2,group,412
+Construção de edifícios,41.20-4,class,41204
+Construção de edifícios,4120-4/00,subclass,4120400
+OBRAS DE INFRAESTRUTURA,42,division,42
+"Construção de rodovias, ferrovias, obras urbanas e obras-de-arte especiais",42.1,group,421
+Construção de rodovias e ferrovias,42.11-1,class,42111
+Construção de rodovias e ferrovias,4211-1/01,subclass,4211101
+Pintura para sinalização em pistas rodoviárias e aeroportos,4211-1/02,subclass,4211102
+Construção de obras de arte especiais,42.12-0,class,42120
+Construção de obras de arte especiais,4212-0/00,subclass,4212000
+"Obras de urbanização - ruas, praças e calçadas",42.13-8,class,42138
+"Obras de urbanização - ruas, praças e calçadas",4213-8/00,subclass,4213800
+"Obras de infraestrutura para energia elétrica, telecomunicações, água, esgoto e transporte por dutos",42.2,group,422
+Obras para geração e distribuição de energia elétrica e para telecomunicações,42.21-9,class,42219
+"Construção de barragens e represas para geração de energia 
+elétrica",4221-9/01,subclass,4221901
+Construção de estações e redes de distribuição de energia elétrica,4221-9/02,subclass,4221902
+Manutenção de redes de distribuição de energia elétrica,4221-9/03,subclass,4221903
+Construção de estações e redes de telecomunicações,4221-9/04,subclass,4221904
+Manutenção de estações e redes de telecomunicações,4221-9/05,subclass,4221905
+"Construção de redes de abastecimento de água, coleta de esgoto e construções correlatas",42.22-7,class,42227
+"Construção de redes de abastecimento de água, coleta de esgoto e construções correlatas, exceto obras de irrigação",4222-7/01,subclass,4222701
+Obras de irrigação,4222-7/02,subclass,4222702
+"Construção de redes de transportes por dutos, exceto para água e esgoto",42.23-5,class,42235
+"Construção de redes de transportes por dutos, exceto para água e esgoto",4223-5/00,subclass,4223500
+Construção de outras obras de infraestrutura,42.9,group,429
+"Obras portuárias, marítimas e fluviais",42.91-0,class,42910
+"Obras portuárias, marítimas e fluviais",4291-0/00,subclass,4291000
+Montagem de instalações industriais e de estruturas metálicas,42.92-8,class,42928
+Montagem de estruturas metálicas,4292-8/01,subclass,4292801
+Obras de montagem industrial,4292-8/02,subclass,4292802
+Obras de engenharia civil não especificadas anteriormente,42.99-5,class,42995
+Construção de instalações esportivas e recreativas,4299-5/01,subclass,4299501
+Outras obras de engenharia civil não especificadas anteriormente,4299-5/99,subclass,4299599
+SERVIÇOS ESPECIALIZADOS PARA CONSTRUÇÃO,43,division,43
+Demolição e preparação do terreno,43.1,group,431
+Demolição e preparação de canteiros de obras,43.11-8,class,43118
+Demolição de edifícios e outras estruturas,4311-8/01,subclass,4311801
+Preparação de canteiro e limpeza de terreno,4311-8/02,subclass,4311802
+Perfurações e sondagens,43.12-6,class,43126
+Perfurações e sondagens,4312-6/00,subclass,4312600
+Obras de terraplenagem,43.13-4,class,43134
+Obras de terraplenagem,4313-4/00,subclass,4313400
+Serviços de preparação do terreno não especificados anteriormente,43.19-3,class,43193
+Serviços de preparação do terreno não especificados anteriormente,4319-3/00,subclass,4319300
+"Instalações elétricas, hidráulicas e outras instalações em construções",43.2,group,432
+Instalações elétricas,43.21-5,class,43215
+Instalação e manutenção elétrica,4321-5/00,subclass,4321500
+"Instalações hidráulicas, de sistemas de ventilação e
+refrigeração",43.22-3,class,43223
+"Instalações hidráulicas, sanitárias e de gás",4322-3/01,subclass,4322301
+"Instalação e manutenção de sistemas centrais de ar condicionado, de ventilação e refrigeração",4322-3/02,subclass,4322302
+Instalações de sistema de prevenção contra incêndio,4322-3/03,subclass,4322303
+Obras de instalações em construções não especificadas anteriormente,43.29-1,class,43291
+Instalação de painéis publicitários,4329-1/01,subclass,4329101
+"Instalação de equipamentos para orientação à navegação marítima, fluvial e lacustre",4329-1/02,subclass,4329102
+"Instalação, manutenção e reparação de elevadores, escadas e esteiras rolantes",4329-1/03,subclass,4329103
+"Montagem e instalação de sistemas e equipamentos de iluminação e sinalização em vias públicas, portos e aeroportos",4329-1/04,subclass,4329104
+"Tratamentos térmicos, acústicos ou de vibração",4329-1/05,subclass,4329105
+Outras obras de instalações em construções não especificadas anteriormente,4329-1/99,subclass,4329199
+Obras de acabamento,43.3,group,433
+Obras de acabamento,43.30-4,class,43304
+Impermeabilização em obras de engenharia civil,4330-4/01,subclass,4330401
+"Instalação de portas, janelas, tetos, divisórias e armários embutidos de qualquer material",4330-4/02,subclass,4330402
+Obras de acabamento em gesso e estuque,4330-4/03,subclass,4330403
+Serviços de pintura de edifícios em geral,4330-4/04,subclass,4330404
+Aplicação de revestimentos e de resinas em interiores e exteriores,4330-4/05,subclass,4330405
+Outras obras de acabamento da construção,4330-4/99,subclass,4330499
+Outros serviços especializados para construção,43.9,group,439
+Obras de fundações,43.91-6,class,43916
+Obras de fundações,4391-6/00,subclass,4391600
+Serviços especializados para construção não especificados anteriormente,43.99-1,class,43991
+Administração de obras,4399-1/01,subclass,4399101
+Montagem e desmontagem de andaimes e outras estruturas temporárias,4399-1/02,subclass,4399102
+Obras de alvenaria,4399-1/03,subclass,4399103
+Serviços de operação e fornecimento de equipamentos para transporte e elevação de cargas e pessoas para uso em obras,4399-1/04,subclass,4399104
+Perfuração e construção de poços de água,4399-1/05,subclass,4399105
+Serviços especializados para construção não especificados anteriormente,4399-1/99,subclass,4399199
+COMÉRCIO; REPARAÇÃO DE VEÍCULOS AUTOMOTORES E MOTOCICLETAS,G,section,G
+COMÉRCIO E REPARAÇÃO DE VEÍCULOS AUTOMOTORES E MOTOCICLETAS,45,division,45
+Comércio de veículos automotores,45.1,group,451
+Comércio a varejo e por atacado de veículos automotores,45.11-1,class,45111
+"Comércio a varejo de automóveis, camionetas e utilitários novos",4511-1/01,subclass,4511101
+"Comércio a varejo de automóveis, camionetas e utilitários usados",4511-1/02,subclass,4511102
+"Comércio por atacado de automóveis, camionetas e utilitários novos e usados",4511-1/03,subclass,4511103
+Comércio por atacado de caminhões novos e usados,4511-1/04,subclass,4511104
+Comércio por atacado de reboques e semireboques novos e usados,4511-1/05,subclass,4511105
+Comércio por atacado de ônibus e micro-ônibus novos e usados,4511-1/06,subclass,4511106
+Representantes comerciais e agentes do comércio de veículos automotores,45.12-9,class,45129
+Representantes comerciais e agentes do comércio de veículos automotores,4512-9/01,subclass,4512901
+Comércio sob consignação de veículos automotores,4512-9/02,subclass,4512902
+Manutenção e reparação de veículos automotores,45.2,group,452
+Manutenção e reparação de veículos automotores,45.20-0,class,45200
+Serviços de manutenção e reparação mecânica de veículos automotores,4520-0/01,subclass,4520001
+Serviços de lanternagem ou funilaria e pintura de veículos automotores,4520-0/02,subclass,4520002
+Serviços de manutenção e reparação elétrica de veículos automotores,4520-0/03,subclass,4520003
+Serviços de alinhamento e balanceamento de veículos automotores,4520-0/04,subclass,4520004
+"Serviços de lavagem, lubrificação e polimento de veículos automotores",4520-0/05,subclass,4520005
+Serviços de borracharia para veículos automotores,4520-0/06,subclass,4520006
+"Serviços de instalação, manutenção e reparação de acessórios para veículos automotores",4520-0/07,subclass,4520007
+Serviços de capotaria,4520-0/08,subclass,4520008
+Comércio de peças e acessórios para veículos automotores,45.3,group,453
+Comércio de peças e acessórios para veículos automotores,45.30-7,class,45307
+Comércio por atacado de peças e acessórios novos para veículos automotores,4530-7/01,subclass,4530701
+Comércio por atacado de pneumáticos e câmaras-de-ar,4530-7/02,subclass,4530702
+Comércio a varejo de peças e acessórios novos para veículos automotores,4530-7/03,subclass,4530703
+Comércio a varejo de peças e acessórios usados para veículos automotores,4530-7/04,subclass,4530704
+Comércio a varejo de pneumáticos e câmaras-de-ar,4530-7/05,subclass,4530705
+Representantes comerciais e agentes do comércio de peças e acessórios novos e usados para veículos automotores,4530-7/06,subclass,4530706
+"Comércio, manutenção e reparação de motocicletas, peças e acessórios",45.4,group,454
+"Comércio por atacado e a varejo de motocicletas, peças e acessórios",45.41-2,class,45412
+Comércio por atacado de motocicletas e motonetas,4541-2/01,subclass,4541201
+Comércio por atacado de peças e acessórios para motocicletas e motonetas,4541-2/02,subclass,4541202
+Comércio a varejo de motocicletas e motonetas novas,4541-2/03,subclass,4541203
+Comércio a varejo de motocicletas e motonetas usadas,4541-2/04,subclass,4541204
+Comércio a varejo de peças e acessórios novos para motocicletas e motonetas,4541-2/06,subclass,4541206
+Comércio a varejo de peças e acessórios usados para motocicletas e motonetas,4541-2/07,subclass,4541207
+"Representantes comerciais e agentes do comércio de motocicletas, peças e acessórios",45.42-1,class,45421
+"Representantes comerciais e agentes do comércio de motocicletas e motonetas, peças e acessórios",4542-1/01,subclass,4542101
+Comércio sob consignação de motocicletas e motonetas,4542-1/02,subclass,4542102
+Manutenção e reparação de motocicletas,45.43-9,class,45439
+Manutenção e reparação de motocicletas e motonetas,4543-9/00,subclass,4543900
+"COMÉRCIO POR ATACADO, EXCETO VEÍCULOS AUTOMOTORES E MOTOCICLETAS",46,division,46
+"Representantes comerciais e agentes do comércio, exceto de veículos automotores e motocicletas",46.1,group,461
+Representantes comerciais e agentes do comércio de matérias-primas agrícolas e animais vivos,46.11-7,class,46117
+Representantes comerciais e agentes do comércio de matérias-primas agrícolas e animais vivos,4611-7/00,subclass,4611700
+"Representantes comerciais e agentes do comércio de combustíveis, minerais, produtos siderúrgicos e químicos",46.12-5,class,46125
+"Representantes comerciais e agentes do comércio de combustíveis, minerais, produtos siderúrgicos e químicos",4612-5/00,subclass,4612500
+"Representantes comerciais e agentes do comércio de madeira, material de construção e ferragens",46.13-3,class,46133
+"Representantes comerciais e agentes do comércio de madeira, material de construção e ferragens",4613-3/00,subclass,4613300
+"Representantes comerciais e agentes do comércio de máquinas, equipamentos, embarcações e aeronaves",46.14-1,class,46141
+"Representantes comerciais e agentes do comércio de máquinas, equipamentos, embarcações e aeronaves",4614-1/00,subclass,4614100
+"Representantes comerciais e agentes do comércio de eletrodomésticos, móveis e artigos de uso doméstico",46.15-0,class,46150
+"Representantes comerciais e agentes do comércio de eletrodomésticos, móveis e artigos de uso doméstico",4615-0/00,subclass,4615000
+"Representantes comerciais e agentes do comércio de têxteis, vestuário, calçados e artigos de viagem",46.16-8,class,46168
+"Representantes comerciais e agentes do comércio de têxteis, vestuário, calçados e artigos de viagem",4616-8/00,subclass,4616800
+"Representantes comerciais e agentes do comércio de produtos alimentícios, bebidas e fumo",46.17-6,class,46176
+"Representantes comerciais e agentes do comércio de produtos alimentícios, bebidas e fumo",4617-6/00,subclass,4617600
+Representantes comerciais e agentes do comércio especializado em produtos não especificados anteriormente,46.18-4,class,46184
+"Representantes comerciais e agentes do comércio de medicamentos, cosméticos e produtos de perfumaria",4618-4/01,subclass,4618401
+Representantes comerciais e agentes do comércio de instrumentos e materiais odonto-médico-hospitalares,4618-4/02,subclass,4618402
+"Representantes comerciais e agentes do comércio de jornais, revistas e outras publicações",4618-4/03,subclass,4618403
+Outros representantes comerciais e agentes do comércio especializado em produtos não especificados anteriormente,4618-4/99,subclass,4618499
+Representantes comerciais e agentes do comércio de mercadorias em geral não especializado,46.19-2,class,46192
+Representantes comerciais e agentes do comércio de mercadorias em geral não especializado,4619-2/00,subclass,4619200
+Comércio atacadista de matérias-primas agrícolas e animais vivos,46.2,group,462
+Comércio atacadista de café em grão,46.21-4,class,46214
+Comércio atacadista de café em grão,4621-4/00,subclass,4621400
+Comércio atacadista de soja,46.22-2,class,46222
+Comércio atacadista de soja,4622-2/00,subclass,4622200
+"Comércio atacadista de animais vivos, alimentos para animais e matérias-primas agrícolas, exceto café e soja",46.23-1,class,46231
+Comércio atacadista de animais vivos,4623-1/01,subclass,4623101
+"Comércio atacadista de couros, lãs, peles e outros subprodutos não comestíveis de origem animal",4623-1/02,subclass,4623102
+Comércio atacadista de algodão,4623-1/03,subclass,4623103
+Comércio atacadista de fumo em folha não beneficiado,4623-1/04,subclass,4623104
+Comércio atacadista de cacau,4623-1/05,subclass,4623105
+"Comércio atacadista de sementes, flores, plantas e gramas",4623-1/06,subclass,4623106
+Comércio atacadista de sisal,4623-1/07,subclass,4623107
+Comércio atacadista de matérias-primas agrícolas com atividade de fracionamento e acondicionamento associada,4623-1/08,subclass,4623108
+Comércio atacadista de alimentos para animais,4623-1/09,subclass,4623109
+Comércio atacadista de matérias-primas agrícolas não especificadas anteriormente,4623-1/99,subclass,4623199
+"Comércio atacadista especializado em produtos alimentícios, bebidas e fumo",46.3,group,463
+Comércio atacadista de leite e laticínios,46.31-1,class,46311
+Comércio atacadista de leite e laticínios,4631-1/00,subclass,4631100
+"Comércio atacadista de cereais e leguminosas beneficiados, farinhas, amidos e féculas",46.32-0,class,46320
+Comércio atacadista de cereais e leguminosas beneficiados,4632-0/01,subclass,4632001
+"Comércio atacadista de farinhas, amidos e féculas",4632-0/02,subclass,4632002
+"Comércio atacadista de cereais e leguminosas beneficiados, farinhas, amidos e féculas, com atividade de fracionamento e acondicionamento associada",4632-0/03,subclass,4632003
+Comércio atacadista de hortifrutigranjeiros,46.33-8,class,46338
+"Comércio atacadista de frutas, verduras, raízes, tubérculos, hortaliças e legumes frescos",4633-8/01,subclass,4633801
+Comércio atacadista de aves vivas e ovos,4633-8/02,subclass,4633802
+Comércio atacadista de coelhos e outros pequenos animais vivos para alimentação,4633-8/03,subclass,4633803
+"Comércio atacadista de carnes, produtos da carne e pescado",46.34-6,class,46346
+Comércio atacadista de carnes bovinas e suínas e derivados,4634-6/01,subclass,4634601
+Comércio atacadista de aves abatidas e derivados,4634-6/02,subclass,4634602
+Comércio atacadista de pescados e frutos do mar,4634-6/03,subclass,4634603
+Comércio atacadista de carnes e derivados de outros animais,4634-6/99,subclass,4634699
+Comércio atacadista de bebidas,46.35-4,class,46354
+Comércio atacadista de água mineral,4635-4/01,subclass,4635401
+"Comércio atacadista de cerveja, chope e refrigerante",4635-4/02,subclass,4635402
+Comércio atacadista de bebidas com atividade de fracionamento e acondicionamento associada,4635-4/03,subclass,4635403
+Comércio atacadista de bebidas não especificadas anteriormente,4635-4/99,subclass,4635499
+Comércio atacadista de produtos do fumo,46.36-2,class,46362
+Comércio atacadista de fumo beneficiado,4636-2/01,subclass,4636201
+"Comércio atacadista de cigarros, cigarrilhas e charutos",4636-2/02,subclass,4636202
+Comércio atacadista especializado em produtos alimentícios não especificados anteriormente,46.37-1,class,46371
+"Comércio atacadista de café torrado, moído e solúvel",4637-1/01,subclass,4637101
+Comércio atacadista de açúcar,4637-1/02,subclass,4637102
+Comércio atacadista de óleos e gorduras,4637-1/03,subclass,4637103
+"Comércio atacadista de pães, bolos, biscoitos e similares",4637-1/04,subclass,4637104
+Comércio atacadista de massas alimentícias,4637-1/05,subclass,4637105
+Comércio atacadista de sorvetes,4637-1/06,subclass,4637106
+"Comércio atacadista de chocolates, confeitos, balas, bombons e semelhantes",4637-1/07,subclass,4637107
+Comércio atacadista especializado em outros produtos alimentícios não especificados anteriormente,4637-1/99,subclass,4637199
+Comércio atacadista de produtos alimentícios em geral,46.39-7,class,46397
+Comércio atacadista de produtos alimentícios em geral,4639-7/01,subclass,4639701
+"Comércio atacadista de produtos alimentícios em geral, com atividade de fracionamento e acondicionamento associada",4639-7/02,subclass,4639702
+Comércio atacadista de produtos de consumo não alimentar,46.4,group,464
+"Comércio atacadista de tecidos, artefatos de tecidos e de armarinho",46.41-9,class,46419
+Comércio atacadista de tecidos,4641-9/01,subclass,4641901
+"Comércio atacadista de artigos de cama, mesa e banho",4641-9/02,subclass,4641902
+Comércio atacadista de artigos de armarinho,4641-9/03,subclass,4641903
+Comércio atacadista de artigos do vestuário e acessórios,46.42-7,class,46427
+"Comércio atacadista de artigos do vestuário e acessórios, exceto profissionais e de segurança",4642-7/01,subclass,4642701
+Comércio atacadista de roupas e acessórios para uso profissional e de segurança do trabalho,4642-7/02,subclass,4642702
+Comércio atacadista de calçados e artigos de viagem,46.43-5,class,46435
+Comércio atacadista de calçados,4643-5/01,subclass,4643501
+"Comércio atacadista de bolsas, malas e artigos de viagem",4643-5/02,subclass,4643502
+Comércio atacadista de produtos farmacêuticos para uso humano e veterinário,46.44-3,class,46443
+Comércio atacadista de medicamentos e drogas de uso humano,4644-3/01,subclass,4644301
+Comércio atacadista de medicamentos e drogas de uso veterinário,4644-3/02,subclass,4644302
+"Comércio atacadista de instrumentos e materiais para uso médico, cirúrgico, ortopédico e odontológico",46.45-1,class,46451
+"Comércio atacadista de instrumentos e materiais para uso médico, cirúrgico, hospitalar e de laboratórios",4645-1/01,subclass,4645101
+Comércio atacadista de próteses e artigos de ortopedia,4645-1/02,subclass,4645102
+Comércio atacadista de produtos odontológicos,4645-1/03,subclass,4645103
+"Comércio atacadista de cosméticos, produtos de perfumaria e de higiene pessoal",46.46-0,class,46460
+Comércio atacadista de cosméticos e produtos de perfumaria,4646-0/01,subclass,4646001
+Comércio atacadista de produtos de higiene pessoal,4646-0/02,subclass,4646002
+"Comércio atacadista de artigos de escritório e de papelaria; livros, jornais e outras publicações",46.47-8,class,46478
+Comércio atacadista de artigos de escritório e de papelaria,4647-8/01,subclass,4647801
+"Comércio atacadista de livros, jornais e outras publicações",4647-8/02,subclass,4647802
+Comércio atacadista de equipamentos e artigos de uso pessoal e doméstico não especificados anteriormente,46.49-4,class,46494
+Comércio atacadista de equipamentos elétricos de uso pessoal e doméstico,4649-4/01,subclass,4649401
+Comércio atacadista de aparelhos eletrônicos de uso pessoal e doméstico,4649-4/02,subclass,4649402
+"Comércio atacadista de bicicletas, triciclos e outros veículos recreativos",4649-4/03,subclass,4649403
+Comércio atacadista de móveis e artigos de colchoaria,4649-4/04,subclass,4649404
+Comércio atacadista de artigos de tapeçaria; persianas e cortinas,4649-4/05,subclass,4649405
+"Comércio atacadista de lustres, luminárias e abajures",4649-4/06,subclass,4649406
+"Comércio atacadista de filmes, CDs, DVDs, fitas e discos",4649-4/07,subclass,4649407
+"Comércio atacadista de produtos de higiene, limpeza e conservação domiciliar",4649-4/08,subclass,4649408
+"Comércio atacadista de produtos de higiene, limpeza e conservação domiciliar, com atividade de fracionamento e acondicionamento associada",4649-4/09,subclass,4649409
+"Comércio atacadista de jóias, relógios e bijuterias, inclusive pedras preciosas e semipreciosas lapidadas",4649-4/10,subclass,4649410
+Comércio atacadista de outros equipamentos e artigos de uso pessoal e doméstico não especificados anteriormente,4649-4/99,subclass,4649499
+Comércio atacadista de equipamentos e produtos de tecnologias de informação e comunicação,46.5,group,465
+"Comércio atacadista de computadores, periféricos e suprimentos de informática",46.51-6,class,46516
+Comércio atacadista de equipamentos de informática,4651-6/01,subclass,4651601
+Comércio atacadista de suprimentos para informática,4651-6/02,subclass,4651602
+Comércio atacadista de componentes eletrônicos e equipamentos de telefonia e comunicação,46.52-4,class,46524
+Comércio atacadista de componentes eletrônicos e equipamentos de telefonia e comunicação,4652-4/00,subclass,4652400
+"Comércio atacadista de máquinas, aparelhos e equipamentos, exceto de tecnologias de informação e comunicação",46.6,group,466
+"Comércio atacadista de máquinas, aparelhos e equipamentos para uso agropecuário; partes e peças",46.61-3,class,46613
+"Comércio atacadista de máquinas, aparelhos e equipamentos para uso agropecuário; partes e peças",4661-3/00,subclass,4661300
+"Comércio atacadista de máquinas, equipamentos para terraplenagem, mineração e construção; partes e peças",46.62-1,class,46621
+"Comércio atacadista de máquinas, equipamentos para terraplenagem, mineração e construção; partes e peças",4662-1/00,subclass,4662100
+Comércio atacadista de máquinas e equipamentos para uso industrial; partes e peças,46.63-0,class,46630
+Comércio atacadista de máquinas e equipamentos para uso industrial; partes e peças,4663-0/00,subclass,4663000
+"Comércio atacadista de máquinas, aparelhos e equipamentos para uso odonto-médico-hospitalar; partes e peças",46.64-8,class,46648
+"Comércio atacadista de máquinas, aparelhos e equipamentos para uso odonto-médico-hospitalar; partes e peças",4664-8/00,subclass,4664800
+Comércio atacadista de máquinas e equipamentos para uso comercial; partes e peças,46.65-6,class,46656
+Comércio atacadista de máquinas e equipamentos para uso comercial; partes e peças,4665-6/00,subclass,4665600
+"Comércio atacadista de máquinas, aparelhos e equipamentos não especificados anteriormente; partes e peças",46.69-9,class,46699
+Comércio atacadista de bombas e compressores; partes e peças,4669-9/01,subclass,4669901
+Comércio atacadista de outras máquinas e equipamentos não especificados anteriormente; partes e peças,4669-9/99,subclass,4669999
+"Comércio atacadista de madeira, ferragens, ferramentas, material elétrico e material de construção",46.7,group,467
+Comércio atacadista de madeira e produtos derivados,46.71-1,class,46711
+Comércio atacadista de madeira e produtos derivados,4671-1/00,subclass,4671100
+Comércio atacadista de ferragens e ferramentas,46.72-9,class,46729
+Comércio atacadista de ferragens e ferramentas,4672-9/00,subclass,4672900
+Comércio atacadista de material elétrico,46.73-7,class,46737
+Comércio atacadista de material elétrico,4673-7/00,subclass,4673700
+Comércio atacadista de cimento,46.74-5,class,46745
+Comércio atacadista de cimento,4674-5/00,subclass,4674500
+Comércio atacadista especializado de materiais de construção não especificados anteriormente e de materiais de construção em geral,46.79-6,class,46796
+"Comércio atacadista de tintas, vernizes e similares",4679-6/01,subclass,4679601
+Comércio atacadista de mármores e granitos,4679-6/02,subclass,4679602
+"Comércio atacadista de vidros, espelhos e vitrais",4679-6/03,subclass,4679603
+Comércio atacadista especializado de materiais de construção não especificados anteriormente,4679-6/04,subclass,4679604
+Comércio atacadista de materiais de construção em geral,4679-6/99,subclass,4679699
+Comércio atacadista especializado em outros produtos,46.8,group,468
+"Comércio atacadista de combustíveis sólidos, líquidos e gasosos, exceto gás natural e GLP",46.81-8,class,46818
+"Comércio atacadista de álcool carburante, biodiesel, gasolina e demais derivados de petróleo, exceto lubrificantes, não realizado por transportador retalhista (TRR)",4681-8/01,subclass,4681801
+Comércio atacadista de combustíveis realizado por transportador retalhista (TRR),4681-8/02,subclass,4681802
+"Comércio atacadista de combustíveis de origem vegetal, exceto álcool carburante",4681-8/03,subclass,4681803
+Comércio atacadista de combustíveis de origem mineral em bruto,4681-8/04,subclass,4681804
+Comércio atacadista de lubrificantes,4681-8/05,subclass,4681805
+Comércio atacadista de gás liquefeito de petróleo (GLP),46.82-6,class,46826
+Comércio atacadista de gás liquefeito de petróleo (GLP),4682-6/00,subclass,4682600
+"Comércio atacadista de defensivos agrícolas, adubos, fertilizantes e corretivos do solo",46.83-4,class,46834
+"Comércio atacadista de defensivos agrícolas, adubos, fertilizantes e corretivos do solo",4683-4/00,subclass,4683400
+"Comércio atacadista de produtos químicos e petroquímicos, exceto agroquímicos",46.84-2,class,46842
+Comércio atacadista de resinas e elastômeros,4684-2/01,subclass,4684201
+Comércio atacadista de solventes,4684-2/02,subclass,4684202
+Comércio atacadista de outros produtos químicos e petroquímicos não especificados anteriormente,4684-2/99,subclass,4684299
+"Comércio atacadista de produtos siderúrgicos e metalúrgicos, exceto para construção",46.85-1,class,46851
+"Comércio atacadista de produtos siderúrgicos e metalúrgicos, exceto para construção",4685-1/00,subclass,4685100
+Comércio atacadista de papel e papelão em bruto e de embalagens,46.86-9,class,46869
+Comércio atacadista de papel e papelão em bruto,4686-9/01,subclass,4686901
+Comércio atacadista de embalagens,4686-9/02,subclass,4686902
+Comércio atacadista de resíduos e sucatas,46.87-7,class,46877
+Comércio atacadista de resíduos de papel e papelão,4687-7/01,subclass,4687701
+"Comércio atacadista de resíduos e sucatas não metálicos, exceto de papel e papelão",4687-7/02,subclass,4687702
+Comércio atacadista de resíduos e sucatas metálicos,4687-7/03,subclass,4687703
+Comércio atacadista especializado de outros produtos intermediários não especificados anteriormente,46.89-3,class,46893
+"Comércio atacadista de produtos da extração mineral, exceto combustíveis",4689-3/01,subclass,4689301
+Comércio atacadista de fios e fibras beneficiados,4689-3/02,subclass,4689302
+Comércio atacadista especializado em outros produtos intermediários não especificados anteriormente,4689-3/99,subclass,4689399
+Comércio atacadista não especializado,46.9,group,469
+"Comércio atacadista de mercadorias em geral, com predominância de produtos alimentícios",46.91-5,class,46915
+"Comércio atacadista de mercadorias em geral, com predominância de produtos alimentícios",4691-5/00,subclass,4691500
+"Comércio atacadista de mercadorias em geral, com predominância de insumos agropecuários",46.92-3,class,46923
+"Comércio atacadista de mercadorias em geral, com predominância de insumos agropecuários",4692-3/00,subclass,4692300
+"Comércio atacadista de mercadorias em geral, sem predominância de alimentos ou de insumos agropecuários",46.93-1,class,46931
+"Comércio atacadista de mercadorias em geral, sem predominância de alimentos ou de insumos agropecuários",4693-1/00,subclass,4693100
+COMÉRCIO VAREJISTA,47,division,47
+Comércio varejista não especializado,47.1,group,471
+"Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - hipermercados e supermercados",47.11-3,class,47113
+"Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - hipermercados",4711-3/01,subclass,4711301
+"Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - supermercados",4711-3/02,subclass,4711302
+"Comércio varejista de mercadorias em geral, com
+predominância de produtos alimentícios - minimercados,
+mercearias e armazéns",47.12-1,class,47121
+"Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - minimercados, mercearias e armazéns",4712-1/00,subclass,4712100
+"Comércio varejista de mercadorias em geral, sem predominância de produtos alimentícios",47.13-0,class,47130
+"Lojas de variedades, exceto lojas de departamentos ou magazines",4713-0/02,subclass,4713002
+"Lojas de departamentos ou magazines, exceto lojas francas (Duty free)",4713-0/04,subclass,4713004
+"Lojas francas (Duty Free) de aeroportos, portos e em fronteiras terrestres",4713-0/05,subclass,4713005
+"Comércio varejista de produtos alimentícios, bebidas e fumo",47.2,group,472
+"Comércio varejista de produtos de padaria, laticínio, doces, balas e semelhantes",47.21-1,class,47211
+Padaria e confeitaria com predominância de revenda,4721-1/02,subclass,4721102
+Comércio varejista de laticínios e frios,4721-1/03,subclass,4721103
+"Comércio varejista de doces, balas, bombons e semelhantes",4721-1/04,subclass,4721104
+Comércio varejista de carnes e pescados - açougues e peixarias,47.22-9,class,47229
+Comércio varejista de carnes - açougues,4722-9/01,subclass,4722901
+Peixaria,4722-9/02,subclass,4722902
+Comércio varejista de bebidas,47.23-7,class,47237
+Comércio varejista de bebidas,4723-7/00,subclass,4723700
+Comércio varejista de hortifrutigranjeiros,47.24-5,class,47245
+Comércio varejista de hortifrutigranjeiros,4724-5/00,subclass,4724500
+Comércio varejista de produtos alimentícios em geral ou especializado em produtos alimentícios não especificados anteriormente; produtos do fumo,47.29-6,class,47296
+Tabacaria,4729-6/01,subclass,4729601
+Comércio varejista de mercadorias em lojas de conveniência,4729-6/02,subclass,4729602
+Comércio varejista de produtos alimentícios em geral ou especializado em produtos alimentícios não especificados anteriormente,4729-6/99,subclass,4729699
+Comércio varejista de combustíveis para veículos automotores,47.3,group,473
+Comércio varejista de combustíveis para veículos automotores,47.31-8,class,47318
+Comércio varejista de combustíveis para veículos automotores,4731-8/00,subclass,4731800
+Comércio varejista de lubrificantes,47.32-6,class,47326
+Comércio varejista de lubrificantes,4732-6/00,subclass,4732600
+Comércio varejista de material de construção,47.4,group,474
+Comércio varejista de tintas e materiais para pintura,47.41-5,class,47415
+Comércio varejista de tintas e materiais para pintura,4741-5/00,subclass,4741500
+Comércio varejista de material elétrico,47.42-3,class,47423
+Comércio varejista de material elétrico,4742-3/00,subclass,4742300
+Comércio varejista de vidros,47.43-1,class,47431
+Comércio varejista de vidros,4743-1/00,subclass,4743100
+"Comércio varejista de ferragens, madeira e materiais de construção",47.44-0,class,47440
+Comércio varejista de ferragens e ferramentas,4744-0/01,subclass,4744001
+Comércio varejista de madeira e artefatos,4744-0/02,subclass,4744002
+Comércio varejista de materiais hidráulicos,4744-0/03,subclass,4744003
+"Comércio varejista de cal, areia, pedra britada, tijolos e telhas",4744-0/04,subclass,4744004
+Comércio varejista de materiais de construção não especificados anteriormente,4744-0/05,subclass,4744005
+Comércio varejista de pedras para revestimento,4744-0/06,subclass,4744006
+Comércio varejista de materiais de construção em geral,4744-0/99,subclass,4744099
+Comércio varejista de equipamentos de informática e comunicação; equipamentos e artigos de uso doméstico,47.5,group,475
+Comércio varejista especializado de equipamentos e suprimentos de informática,47.51-2,class,47512
+Comércio varejista especializado de equipamentos e suprimentos de informática,4751-2/01,subclass,4751201
+Recarga de cartuchos para equipamentos de informática,4751-2/02,subclass,4751202
+Comércio varejista especializado de equipamentos de telefonia e comunicação,47.52-1,class,47521
+Comércio varejista especializado de equipamentos de telefonia e comunicação,4752-1/00,subclass,4752100
+Comércio varejista especializado de eletrodomésticos e equipamentos de áudio e vídeo,47.53-9,class,47539
+Comércio varejista especializado de eletrodomésticos e equipamentos de áudio e vídeo,4753-9/00,subclass,4753900
+"Comércio varejista especializado de móveis, colchoaria e artigos de iluminação",47.54-7,class,47547
+Comércio varejista de móveis,4754-7/01,subclass,4754701
+Comércio varejista de artigos de colchoaria,4754-7/02,subclass,4754702
+Comércio varejista de artigos de iluminação,4754-7/03,subclass,4754703
+"Comércio varejista especializado de tecidos e artigos de cama, mesa e banho",47.55-5,class,47555
+Comércio varejista de tecidos,4755-5/01,subclass,4755501
+Comercio varejista de artigos de armarinho,4755-5/02,subclass,4755502
+"Comercio varejista de artigos de cama, mesa e banho",4755-5/03,subclass,4755503
+Comércio varejista especializado de instrumentos musicais e acessórios,47.56-3,class,47563
+Comércio varejista especializado de instrumentos musicais e acessórios,4756-3/00,subclass,4756300
+"Comércio varejista especializado de peças e acessórios para aparelhos eletroeletrônicos para uso doméstico, exceto informática e comunicação",47.57-1,class,47571
+"Comércio varejista especializado de peças e acessórios para aparelhos eletroeletrônicos para uso doméstico, exceto informática e comunicação",4757-1/00,subclass,4757100
+Comércio varejista de artigos de uso doméstico não especificados anteriormente,47.59-8,class,47598
+"Comércio varejista de artigos de tapeçaria, cortinas e persianas",4759-8/01,subclass,4759801
+Comércio varejista de outros artigos de uso doméstico não especificados anteriormente,4759-8/99,subclass,4759899
+"Comércio varejista de artigos culturais, recreativos e esportivos",47.6,group,476
+"Comércio varejista de livros, jornais, revistas e papelaria",47.61-0,class,47610
+Comércio varejista de livros,4761-0/01,subclass,4761001
+Comércio varejista de jornais e revistas,4761-0/02,subclass,4761002
+Comércio varejista de artigos de papelaria,4761-0/03,subclass,4761003
+"Comércio varejista de discos, CDs, DVDs e fitas",47.62-8,class,47628
+"Comércio varejista de discos, CDs, DVDs e fitas",4762-8/00,subclass,4762800
+Comércio varejista de artigos recreativos e esportivos,47.63-6,class,47636
+Comércio varejista de brinquedos e artigos recreativos,4763-6/01,subclass,4763601
+Comércio varejista de artigos esportivos,4763-6/02,subclass,4763602
+Comércio varejista de bicicletas e triciclos; peças e acessórios,4763-6/03,subclass,4763603
+"Comércio varejista de artigos de caça, pesca e camping",4763-6/04,subclass,4763604
+Comércio varejista de embarcações e outros veículos recreativos; peças e acessórios,4763-6/05,subclass,4763605
+"Comércio varejista de produtos farmacêuticos, perfumaria e cosméticos e artigos médicos, ópticos e ortopédicos",47.7,group,477
+Comércio varejista de produtos farmacêuticos para uso humano e veterinário,47.71-7,class,47717
+"Comércio varejista de produtos farmacêuticos, sem manipulação de fórmulas",4771-7/01,subclass,4771701
+"Comércio varejista de produtos farmacêuticos, com manipulação de fórmulas",4771-7/02,subclass,4771702
+Comércio varejista de produtos farmacêuticos homeopáticos,4771-7/03,subclass,4771703
+Comércio varejista de medicamentos veterinários,4771-7/04,subclass,4771704
+"Comércio varejista de cosméticos, produtos de perfumaria e de higiene pessoal",47.72-5,class,47725
+"Comércio varejista de cosméticos, produtos de perfumaria e de higiene pessoal",4772-5/00,subclass,4772500
+Comércio varejista de artigos médicos e ortopédicos,47.73-3,class,47733
+Comércio varejista de artigos médicos e ortopédicos,4773-3/00,subclass,4773300
+Comércio varejista de artigos de óptica,47.74-1,class,47741
+Comércio varejista de artigos de óptica,4774-1/00,subclass,4774100
+Comércio varejista de produtos novos não especificados anteriormente e de produtos usados,47.8,group,478
+Comércio varejista de artigos do vestuário e acessórios,47.81-4,class,47814
+Comércio varejista de artigos do vestuário e acessórios,4781-4/00,subclass,4781400
+Comércio varejista de calçados e artigos de viagem,47.82-2,class,47822
+Comércio varejista de calçados,4782-2/01,subclass,4782201
+Comércio varejista de artigos de viagem,4782-2/02,subclass,4782202
+Comércio varejista de jóias e relógios,47.83-1,class,47831
+Comércio varejista de artigos de joalheria,4783-1/01,subclass,4783101
+Comércio varejista de artigos de relojoaria,4783-1/02,subclass,4783102
+Comércio varejista de gás liqüefeito de petróleo (GLP),47.84-9,class,47849
+Comércio varejista de gás liqüefeito de petróleo (GLP),4784-9/00,subclass,4784900
+Comércio varejista de artigos usados,47.85-7,class,47857
+Comércio varejista de antiguidades,4785-7/01,subclass,4785701
+Comércio varejista de outros artigos usados,4785-7/99,subclass,4785799
+Comércio varejista de outros produtos novos não especificados anteriormente,47.89-0,class,47890
+"Comércio varejista de suvenires, bijuterias e artesanatos",4789-0/01,subclass,4789001
+Comércio varejista de plantas e flores naturais,4789-0/02,subclass,4789002
+Comércio varejista de objetos de arte,4789-0/03,subclass,4789003
+Comércio varejista de animais vivos e de artigos e alimentos para animais de estimação,4789-0/04,subclass,4789004
+Comércio varejista de produtos saneantes domissanitários,4789-0/05,subclass,4789005
+Comércio varejista de fogos de artifício e artigos pirotécnicos,4789-0/06,subclass,4789006
+Comércio varejista de equipamentos para escritório,4789-0/07,subclass,4789007
+Comércio varejista de artigos fotográficos e para filmagem,4789-0/08,subclass,4789008
+Comércio varejista de armas e munições,4789-0/09,subclass,4789009
+Comércio varejista de outros produtos não especificados anteriormente,4789-0/99,subclass,4789099
+Comércio ambulante e outros tipos de comércio varejista,47.9,group,479
+Comércio ambulante e outros tipos de comércio varejista,47.90-3,class,47903
+"TRANSPORTE, ARMAZENAGEM E CORREIO",H,section,H
+TRANSPORTE TERRESTRE,49,division,49
+Transporte ferroviário e metroferroviário,49.1,group,491
+Transporte ferroviário de carga,49.11-6,class,49116
+Transporte ferroviário de carga,4911-6/00,subclass,4911600
+Transporte metroferroviário de passageiros,49.12-4,class,49124
+Transporte ferroviário de passageiros intermunicipal e interestadual,4912-4/01,subclass,4912401
+Transporte ferroviário de passageiros municipal e em região metropolitana,4912-4/02,subclass,4912402
+Transporte metroviário,4912-4/03,subclass,4912403
+Transporte rodoviário de passageiros,49.2,group,492
+"Transporte rodoviário coletivo de passageiros, com itinerário fixo, municipal e em região metropolitana",49.21-3,class,49213
+"Transporte rodoviário coletivo de passageiros, com itinerário fixo, municipal",4921-3/01,subclass,4921301
+"Transporte rodoviário coletivo de passageiros, com itinerário fixo, intermunicipal em região metropolitana",4921-3/02,subclass,4921302
+"Transporte rodoviário coletivo de passageiros, com itinerário fixo, intermunicipal, interestadual e internacional",49.22-1,class,49221
+"Transporte rodoviário coletivo de passageiros, com itinerário fixo, intermunicipal, exceto em região metropolitana",4922-1/01,subclass,4922101
+"Transporte rodoviário coletivo de passageiros, com itinerário fixo, interestadual",4922-1/02,subclass,4922102
+"Transporte rodoviário coletivo de passageiros, com itinerário fixo, internacional",4922-1/03,subclass,4922103
+Transporte rodoviário de táxi,49.23-0,class,49230
+Serviço de táxi,4923-0/01,subclass,4923001
+Serviço de transporte de passageiros - locação de automóveis com motorista,4923-0/02,subclass,4923002
+Transporte escolar,49.24-8,class,49248
+Transporte escolar,4924-8/00,subclass,4924800
+"Transporte rodoviário coletivo de passageiros, sob regime de fretamento, e outros transportes rodoviários não especificados anteriormente",49.29-9,class,49299
+"Transporte rodoviário coletivo de passageiros, sob regime de fretamento, municipal",4929-9/01,subclass,4929901
+"Transporte rodoviário coletivo de passageiros, sob regime de fretamento, intermunicipal, interestadual e internacional",4929-9/02,subclass,4929902
+"Organização de excursões em veículos rodoviários próprios, municipal",4929-9/03,subclass,4929903
+"Organização de excursões em veículos rodoviários próprios, intermunicipal, interestadual e internacional",4929-9/04,subclass,4929904
+Outros transportes rodoviários de passageiros não especificados anteriormente,4929-9/99,subclass,4929999
+Transporte rodoviário de carga,49.3,group,493
+Transporte rodoviário de carga,49.30-2,class,49302
+"Transporte rodoviário de carga, exceto produtos perigosos e mudanças, municipal",4930-2/01,subclass,4930201
+"Transporte rodoviário de carga, exceto produtos perigosos e mudanças, intermunicipal, interestadual e internacional",4930-2/02,subclass,4930202
+Transporte rodoviário de produtos perigosos,4930-2/03,subclass,4930203
+Transporte rodoviário de mudanças,4930-2/04,subclass,4930204
+Transporte dutoviário,49.4,group,494
+Transporte dutoviário,49.40-0,class,49400
+Transporte dutoviário,4940-0/00,subclass,4940000
+"Trens turísticos, teleféricos e similares",49.5,group,495
+"Trens turísticos, teleféricos e similares",49.50-7,class,49507
+"Trens turísticos, teleféricos e similares",4950-7/00,subclass,4950700
+TRANSPORTE AQUAVIÁRIO,50,division,50
+Transporte marítimo de cabotagem e longo curso,50.1,group,501
+Transporte marítimo de cabotagem,50.11-4,class,50114
+Transporte marítimo de cabotagem - Carga,5011-4/01,subclass,5011401
+Transporte marítimo de cabotagem - Passageiros,5011-4/02,subclass,5011402
+Transporte marítimo de longo curso,50.12-2,class,50122
+Transporte marítimo de longo curso - Carga,5012-2/01,subclass,5012201
+Transporte marítimo de longo curso - Passageiros,5012-2/02,subclass,5012202
+Transporte por navegação interior,50.2,group,502
+Transporte por navegação interior de carga,50.21-1,class,50211
+"Transporte por navegação interior de carga, municipal, exceto travessia",5021-1/01,subclass,5021101
+"Transporte por navegação interior de carga, intermunicipal, interestadual e internacional, exceto travessia",5021-1/02,subclass,5021102
+Transporte por navegação interior de passageiros em linhas regulares,50.22-0,class,50220
+"Transporte por navegação interior de passageiros em linhas regulares, municipal, exceto travessia",5022-0/01,subclass,5022001
+"Transporte por navegação interior de passageiros em linhas regulares, intermunicipal, interestadual e internacional, exceto travessia",5022-0/02,subclass,5022002
+Navegação de apoio,50.3,group,503
+Navegação de apoio,50.30-1,class,50301
+Navegação de apoio marítimo,5030-1/01,subclass,5030101
+Navegação de apoio portuário,5030-1/02,subclass,5030102
+Serviço de rebocadores e empurradores,5030-1/03,subclass,5030103
+Outros transportes aquaviários,50.9,group,509
+Transporte por navegação de travessia,50.91-2,class,50912
+"Transporte por navegação de travessia, municipal",5091-2/01,subclass,5091201
+"Transporte por navegação de travessia, intermunicipal, interestadual e internacional",5091-2/02,subclass,5091202
+Transportes aquaviários não especificados anteriormente,50.99-8,class,50998
+Transporte aquaviário para passeios turísticos,5099-8/01,subclass,5099801
+Outros transportes aquaviários não especificados anteriormente,5099-8/99,subclass,5099899
+TRANSPORTE AÉREO,51,division,51
+Transporte aéreo de passageiros,51.1,group,511
+Transporte aéreo de passageiros regular,51.11-1,class,51111
+Transporte aéreo de passageiros regular,5111-1/00,subclass,5111100
+Transporte aéreo de passageiros não regular,51.12-9,class,51129
+Serviço de táxi aéreo e locação de aeronaves com tripulação,5112-9/01,subclass,5112901
+Outros serviços de transporte aéreo de passageiros não regular,5112-9/99,subclass,5112999
+Transporte aéreo de carga,51.2,group,512
+Transporte aéreo de carga,51.20-0,class,51200
+Transporte aéreo de carga,5120-0/00,subclass,5120000
+Transporte espacial,51.3,group,513
+Transporte espacial,51.30-7,class,51307
+Transporte espacial,5130-7/00,subclass,5130700
+ARMAZENAMENTO E ATIVIDADES AUXILIARES DOS TRANSPORTES,52,division,52
+"Armazenamento, carga e descarga",52.1,group,521
+Armazenamento,52.11-7,class,52117
+Armazéns gerais - emissão de warrant,5211-7/01,subclass,5211701
+Guarda-móveis,5211-7/02,subclass,5211702
+"Depósitos de mercadorias para terceiros, exceto armazéns gerais e guarda-móveis",5211-7/99,subclass,5211799
+Carga e descarga,52.12-5,class,52125
+Carga e descarga,5212-5/00,subclass,5212500
+Atividades auxiliares dos transportes terrestres,52.2,group,522
+"Concessionárias de rodovias, pontes, túneis e serviços relacionados",52.21-4,class,52214
+"Concessionárias de rodovias, pontes, túneis e serviços relacionados",5221-4/00,subclass,5221400
+Terminais rodoviários e ferroviários,52.22-2,class,52222
+Terminais rodoviários e ferroviários,5222-2/00,subclass,5222200
+Estacionamento de veículos,52.23-1,class,52231
+Estacionamento de veículos,5223-1/00,subclass,5223100
+Atividades auxiliares dos transportes terrestres não especificadas anteriormente,52.29-0,class,52290
+"Serviços de apoio ao transporte por táxi, inclusive centrais de chamada",5229-0/01,subclass,5229001
+Serviços de reboque de veículos,5229-0/02,subclass,5229002
+Outras atividades auxiliares dos transportes terrestres não especificadas anteriormente,5229-0/99,subclass,5229099
+Atividades auxiliares dos transportes aquaviários,52.3,group,523
+Gestão de portos e terminais,52.31-1,class,52311
+Administração da infraestrutura portuária,5231-1/01,subclass,5231101
+Atividades do Operador Portuário,5231-1/02,subclass,5231102
+Gestão de terminais aquaviários,5231-1/03,subclass,5231103
+Atividades de agenciamento marítimo,52.32-0,class,52320
+Atividades de agenciamento marítimo,5232-0/00,subclass,5232000
+Atividades auxiliares dos transportes aquaviários não especificadas anteriormente,52.39-7,class,52397
+Serviços de praticagem,5239-7/01,subclass,5239701
+Atividades auxiliares dos transportes aquaviários não especificadas anteriormente,5239-7/99,subclass,5239799
+Atividades auxiliares dos transportes aéreos,52.4,group,524
+Atividades auxiliares dos transportes aéreos,52.40-1,class,52401
+Operação dos aeroportos e campos de aterrissagem,5240-1/01,subclass,5240101
+"Atividades auxiliares dos transportes aéreos, exceto operação dos aeroportos e campos de aterrissagem",5240-1/99,subclass,5240199
+Atividades relacionadas à organização do transporte de carga,52.5,group,525
+Atividades relacionadas à organização do transporte de carga,52.50-8,class,52508
+Comissaria de despachos,5250-8/01,subclass,5250801
+Atividades de despachantes aduaneiros,5250-8/02,subclass,5250802
+"Agenciamento de cargas, exceto para o transporte marítimo",5250-8/03,subclass,5250803
+Organização logística do transporte de carga,5250-8/04,subclass,5250804
+Operador de transporte multimodal - OTM,5250-8/05,subclass,5250805
+CORREIO E OUTRAS ATIVIDADES DE ENTREGA,53,division,53
+Atividades de Correio,53.1,group,531
+Atividades de Correio,53.10-5,class,53105
+Atividades do Correio Nacional,5310-5/01,subclass,5310501
+Atividades de franqueadas e permissionárias do Correio Nacional,5310-5/02,subclass,5310502
+Atividades de malote e de entrega,53.2,group,532
+Atividades de malote e de entrega,53.20-2,class,53202
+Serviços de malote não realizados pelo Correio Nacional,5320-2/01,subclass,5320201
+Serviços de entrega rápida,5320-2/02,subclass,5320202
+ALOJAMENTO E ALIMENTAÇÃO,I,section,I
+ALOJAMENTO,55,division,55
+Hotéis e similares,55.1,group,551
+Hotéis e similares,55.10-8,class,55108
+Hotéis,5510-8/01,subclass,5510801
+Apart-hotéis,5510-8/02,subclass,5510802
+Motéis,5510-8/03,subclass,5510803
+Outros tipos de alojamento não especificados anteriormente,55.9,group,559
+Outros tipos de alojamento não especificados anteriormente,55.90-6,class,55906
+"Albergues, exceto assistenciais",5590-6/01,subclass,5590601
+Campings,5590-6/02,subclass,5590602
+Pensões (alojamento),5590-6/03,subclass,5590603
+Outros alojamentos não especificados anteriormente,5590-6/99,subclass,5590699
+ALIMENTAÇÃO,56,division,56
+Restaurantes e outros serviços de alimentação e bebidas,56.1,group,561
+Restaurantes e outros estabelecimentos de serviços de alimentação e bebidas,56.11-2,class,56112
+Restaurantes e similares,5611-2/01,subclass,5611201
+"Lanchonetes, casas de chá, de sucos e similares",5611-2/03,subclass,5611203
+"Bares e outros estabelecimentos especializados em servir bebidas, sem entretenimento",5611-2/04,subclass,5611204
+"Bares e outros estabelecimentos especializados em servir bebidas, com entretenimento",5611-2/05,subclass,5611205
+Serviços ambulantes de alimentação,56.12-1,class,56121
+Serviços ambulantes de alimentação,5612-1/00,subclass,5612100
+"Serviços de catering, bufê e outros serviços de comida preparada",56.2,group,562
+"Serviços de catering, bufê e outros serviços de comida preparada",56.20-1,class,56201
+Fornecimento de alimentos preparados preponderantemente para empresas,5620-1/01,subclass,5620101
+Serviços de alimentação para eventos e recepções - bufê,5620-1/02,subclass,5620102
+Cantinas - serviços de alimentação privativos,5620-1/03,subclass,5620103
+Fornecimento de alimentos preparados preponderantemente para consumo domiciliar,5620-1/04,subclass,5620104
+INFORMAÇÃO E COMUNICAÇÃO,J,section,J
+EDIÇÃO E EDIÇÃO INTEGRADA À IMPRESSÃO,58,division,58
+"Edição de livros, jornais, revistas e outras atividades de edição",58.1,group,581
+Edição de livros,58.11-5,class,58115
+Edição de livros,5811-5/00,subclass,5811500
+Edição de jornais,58.12-3,class,58123
+Edição de jornais diários,5812-3/01,subclass,5812301
+Edição de jornais não diários,5812-3/02,subclass,5812302
+Edição de revistas,58.13-1,class,58131
+Edição de revistas,5813-1/00,subclass,5813100
+"Edição de cadastros, listas e outros produtos gráficos",58.19-1,class,58191
+"Edição de cadastros, listas e outros produtos gráficos",5819-1/00,subclass,5819100
+"Edição integrada à impressão de livros, jornais, revistas e outras publicações",58.2,group,582
+Edição integrada à impressão de livros,58.21-2,class,58212
+Edição integrada à impressão de livros,5821-2/00,subclass,5821200
+Edição integrada à impressão de jornais,58.22-1,class,58221
+Edição integrada à impressão de jornais diários,5822-1/01,subclass,5822101
+Edição integrada à impressão de jornais não diários,5822-1/02,subclass,5822102
+Edição integrada à impressão de revistas,58.23-9,class,58239
+Edição integrada à impressão de revistas,5823-9/00,subclass,5823900
+"Edição integrada à impressão de cadastros, listas e outros produtos gráficos",58.29-8,class,58298
+"Edição integrada à impressão de cadastros, listas e outros produtos gráficos",5829-8/00,subclass,5829800
+"ATIVIDADES CINEMATOGRÁFICAS, PRODUÇÃO DE VÍDEOS E DE PROGRAMAS DE TELEVISÃO; GRAVAÇÃO DE SOM E EDIÇÃO DE MÚSICA",59,division,59
+"Atividades cinematográficas, produção de vídeos e de programas de televisão",59.1,group,591
+"Atividades de produção cinematográfica, de vídeos e de programas de televisão",59.11-1,class,59111
+Estúdios cinematográficos,5911-1/01,subclass,5911101
+Produção de filmes para publicidade,5911-1/02,subclass,5911102
+"Atividades de produção cinematográfica, de vídeos e de programas de televisão não especificadas anteriormente",5911-1/99,subclass,5911199
+"Atividades de pós-produção cinematográfica, de vídeos e de programas de televisão",59.12-0,class,59120
+Serviços de dublagem,5912-0/01,subclass,5912001
+Serviços de mixagem sonora em produção audiovisual,5912-0/02,subclass,5912002
+"Atividades de pós-produção cinematográfica, de vídeos e de programas de televisão não especificadas anteriormente",5912-0/99,subclass,5912099
+"Distribuição cinematográfica, de vídeo e de programas de televisão",59.13-8,class,59138
+"Distribuição cinematográfica, de vídeo e de programas de televisão",5913-8/00,subclass,5913800
+Atividades de exibição cinematográfica,59.14-6,class,59146
+Atividades de exibição cinematográfica,5914-6/00,subclass,5914600
+Atividades de gravação de som e de edição de música,59.2,group,592
+Atividades de gravação de som e de edição de música,59.20-1,class,59201
+Atividades de gravação de som e de edição de música,5920-1/00,subclass,5920100
+ATIVIDADES DE RÁDIO E DE TELEVISÃO,60,division,60
+Atividades de rádio,60.1,group,601
+Atividades de rádio,60.10-1,class,60101
+Atividades de rádio,6010-1/00,subclass,6010100
+Atividades de televisão,60.2,group,602
+Atividades de televisão aberta,60.21-7,class,60217
+Atividades de televisão aberta,6021-7/00,subclass,6021700
+Programadoras e atividades relacionadas à televisão por assinatura,60.22-5,class,60225
+Programadoras,6022-5/01,subclass,6022501
+"Atividades relacionadas à televisão por assinatura, exceto programadoras",6022-5/02,subclass,6022502
+TELECOMUNICAÇÕES,61,division,61
+Telecomunicações por fio,61.1,group,611
+Telecomunicações por fio,61.10-8,class,61108
+Serviços de telefonia fixa comutada - STFC,6110-8/01,subclass,6110801
+Serviços de redes de transporte de telecomunicações - SRTT,6110-8/02,subclass,6110802
+Serviços de comunicação multimídia - SCM,6110-8/03,subclass,6110803
+Serviços de telecomunicações por fio não especificados anteriormente,6110-8/99,subclass,6110899
+Telecomunicações sem fio,61.2,group,612
+Telecomunicações sem fio,61.20-5,class,61205
+Telefonia móvel celular,6120-5/01,subclass,6120501
+Serviço móvel especializado - SME,6120-5/02,subclass,6120502
+Serviços de telecomunicações sem fio não especificados anteriormente,6120-5/99,subclass,6120599
+Telecomunicações por satélite,61.3,group,613
+Telecomunicações por satélite,61.30-2,class,61302
+Telecomunicações por satélite,6130-2/00,subclass,6130200
+Operadoras de televisão por assinatura,61.4,group,614
+Operadoras de televisão por assinatura por cabo,61.41-8,class,61418
+Operadoras de televisão por assinatura por cabo,6141-8/00,subclass,6141800
+Operadoras de televisão por assinatura por micro-ondas,61.42-6,class,61426
+Operadoras de televisão por assinatura por micro-ondas,6142-6/00,subclass,6142600
+Operadoras de televisão por assinatura por satélite,61.43-4,class,61434
+Operadoras de televisão por assinatura por satélite,6143-4/00,subclass,6143400
+Outras atividades de telecomunicações,61.9,group,619
+Outras atividades de telecomunicações,61.90-6,class,61906
+Provedores de acesso às redes de comunicações,6190-6/01,subclass,6190601
+Provedores de voz sobre protocolo Internet - VOIP,6190-6/02,subclass,6190602
+Outras atividades de telecomunicações não especificadas anteriormente,6190-6/99,subclass,6190699
+ATIVIDADES DOS SERVIÇOS DE TECNOLOGIA DA INFORMAÇÃO,62,division,62
+Atividades dos serviços de tecnologia da informação,62.0,group,620
+Desenvolvimento de programas de computador sob encomenda,62.01-5,class,62015
+Desenvolvimento de programas de computador sob encomenda,6201-5/01,subclass,6201501
+Web desing,6201-5/02,subclass,6201502
+Desenvolvimento e licenciamento de programas de computador customizáveis,62.02-3,class,62023
+Desenvolvimento e licenciamento de programas de computador customizáveis,6202-3/00,subclass,6202300
+Desenvolvimento e licenciamento de programas de computador não customizáveis,62.03-1,class,62031
+Desenvolvimento e licenciamento de programas de computador não customizáveis,6203-1/00,subclass,6203100
+Consultoria em tecnologia da informação,62.04-0,class,62040
+Consultoria em tecnologia da informação,6204-0/00,subclass,6204000
+"Suporte técnico, manutenção e outros serviços em tecnologia da informação",62.09-1,class,62091
+"Suporte técnico, manutenção e outros serviços em tecnologia da informação",6209-1/00,subclass,6209100
+ATIVIDADES DE PRESTAÇÃO DE SERVIÇOS DE INFORMAÇÃO,63,division,63
+"Tratamento de dados, hospedagem na Internet e outras atividades relacionadas",63.1,group,631
+"Tratamento de dados, provedores de serviços de aplicação e serviços de hospedagem na Internet",63.11-9,class,63119
+"Tratamento de dados, provedores de serviços de aplicação e serviços de hospedagem na Internet",6311-9/00,subclass,6311900
+"Portais, provedores de conteúdo e outros serviços de informação na Internet",63.19-4,class,63194
+"Portais, provedores de conteúdo e outros serviços de informação na Internet",6319-4/00,subclass,6319400
+Outras atividades de prestação de serviços de informação,63.9,group,639
+Agências de notícias,63.91-7,class,63917
+Agências de notícias,6391-7/00,subclass,6391700
+Outras atividades de prestação de serviços de informação não especificadas anteriormente,63.99-2,class,63992
+Outras atividades de prestação de serviços de informação não especificadas anteriormente,6399-2/00,subclass,6399200
+"ATIVIDADES FINANCEIRAS, DE SEGUROS E SERVIÇOS RELACIONADOS",K,section,K
+ATIVIDADES DE SERVIÇOS FINANCEIROS,64,division,64
+Banco Central,64.1,group,641
+Banco Central,64.10-7,class,64107
+Banco Central,6410-7/00,subclass,6410700
+Intermediação monetária - depósitos à vista,64.2,group,642
+Bancos comerciais,64.21-2,class,64212
+Bancos comerciais,6421-2/00,subclass,6421200
+"Bancos múltiplos, com carteira comercial",64.22-1,class,64221
+"Bancos múltiplos, com carteira comercial",6422-1/00,subclass,6422100
+Caixas econômicas,64.23-9,class,64239
+Caixas econômicas,6423-9/00,subclass,6423900
+Crédito cooperativo,64.24-7,class,64247
+Bancos cooperativos,6424-7/01,subclass,6424701
+Cooperativas centrais de crédito,6424-7/02,subclass,6424702
+Cooperativas de crédito mútuo,6424-7/03,subclass,6424703
+Cooperativas de crédito rural,6424-7/04,subclass,6424704
+Intermediação não monetária - outros instrumentos de captação,64.3,group,643
+"Bancos múltiplos, sem carteira comercial",64.31-0,class,64310
+"Bancos múltiplos, sem carteira comercial",6431-0/00,subclass,6431000
+Bancos de investimento,64.32-8,class,64328
+Bancos de investimento,6432-8/00,subclass,6432800
+Bancos de desenvolvimento,64.33-6,class,64336
+Bancos de desenvolvimento,6433-6/00,subclass,6433600
+Agências de fomento,64.34-4,class,64344
+Agências de fomento,6434-4/00,subclass,6434400
+Crédito imobiliário,64.35-2,class,64352
+Sociedades de crédito imobiliário,6435-2/01,subclass,6435201
+Associações de poupança e empréstimo,6435-2/02,subclass,6435202
+Companhias hipotecárias,6435-2/03,subclass,6435203
+"Sociedades de crédito, financiamento e investimento - financeiras",64.36-1,class,64361
+"Sociedades de crédito, financiamento e investimento - financeiras",6436-1/00,subclass,6436100
+Sociedades de crédito ao microempreendedor,64.37-9,class,64379
+Sociedades de crédito ao microempreendedor,6437-9/00,subclass,6437900
+Bancos de câmbio e outras instituições de intermediação não monetária,64.38-7,class,64387
+Bancos de câmbio,6438-7/01,subclass,6438701
+Outras instituições de intermediação não monetária não especificadas anteriormente,6438-7/99,subclass,6438799
+Arrendamento mercantil,64.4,group,644
+Arrendamento mercantil,64.40-9,class,64409
+Arrendamento mercantil,6440-9/00,subclass,6440900
+Sociedades de capitalização,64.5,group,645
+Sociedades de capitalização,64.50-6,class,64506
+Sociedades de capitalização,6450-6/00,subclass,6450600
+Atividades de sociedades de participação,64.6,group,646
+Holdings de instituições financeiras,64.61-1,class,64611
+Holdings de instituições financeiras,6461-1/00,subclass,6461100
+Holdings de instituições não financeiras,64.62-0,class,64620
+Holdings de instituições não financeiras,6462-0/00,subclass,6462000
+"Outras sociedades de participação, exceto holdings",64.63-8,class,64638
+"Outras sociedades de participação, exceto holdings",6463-8/00,subclass,6463800
+Fundos de investimento,64.7,group,647
+Fundos de investimento,64.70-1,class,64701
+"Fundos de investimento, exceto previdenciários e imobiliários",6470-1/01,subclass,6470101
+Fundos de investimento previdenciários,6470-1/02,subclass,6470102
+Fundos de investimento imobiliários,6470-1/03,subclass,6470103
+Atividades de serviços financeiros não especificadas anteriormente,64.9,group,649
+Sociedades de fomento mercantil - factoring,64.91-3,class,64913
+Sociedades de fomento mercantil - factoring,6491-3/00,subclass,6491300
+Securitização de créditos,64.92-1,class,64921
+Securitização de créditos,6492-1/00,subclass,6492100
+Administração de consórcios para aquisição de bens e direitos,64.93-0,class,64930
+Administração de consórcios para aquisição de bens e direitos,6493-0/00,subclass,6493000
+Outras atividades de serviços financeiros não especificadas anteriormente,64.99-9,class,64999
+Clubes de investimento,6499-9/01,subclass,6499901
+Sociedades de investimento,6499-9/02,subclass,6499902
+Fundo garantidor de crédito,6499-9/03,subclass,6499903
+Caixas de financiamento de corporações,6499-9/04,subclass,6499904
+Concessão de crédito pelas OSCIP,6499-9/05,subclass,6499905
+Outras atividades de serviços financeiros não especificadas anteriormente,6499-9/99,subclass,6499999
+"SEGUROS, RESSEGUROS, PREVIDÊNCIA COMPLEMENTAR E PLANOS DE SAÚDE",65,division,65
+Seguros de vida e não vida,65.1,group,651
+Seguros de vida,65.11-1,class,65111
+Sociedade seguradora de seguros vida,6511-1/01,subclass,6511101
+Planos de auxílio-funeral,6511-1/02,subclass,6511102
+Seguros não vida,65.12-0,class,65120
+Sociedade seguradora de seguros não vida,6512-0/00,subclass,6512000
+Seguros-saúde,65.2,group,652
+Seguros-saúde,65.20-1,class,65201
+Sociedade seguradora de seguros-saúde,6520-1/00,subclass,6520100
+Resseguros,65.3,group,653
+Resseguros,65.30-8,class,65308
+Resseguros,6530-8/00,subclass,6530800
+Previdência complementar,65.4,group,654
+Previdência complementar fechada,65.41-3,class,65413
+Previdência complementar fechada,6541-3/00,subclass,6541300
+Previdência complementar aberta,65.42-1,class,65421
+Previdência complementar aberta,6542-1/00,subclass,6542100
+Planos de saúde,65.5,group,655
+Planos de saúde,65.50-2,class,65502
+Planos de saúde,6550-2/00,subclass,6550200
+"ATIVIDADES AUXILIARES DOS SERVIÇOS FINANCEIROS, SEGUROS, PREVIDÊNCIA COMPLEMENTAR E PLANOS DE SAÚDE",66,division,66
+Atividades auxiliares dos serviços financeiros,66.1,group,661
+Administração de bolsas e mercados de balcão organizados,66.11-8,class,66118
+Bolsa de valores,6611-8/01,subclass,6611801
+Bolsa de mercadorias,6611-8/02,subclass,6611802
+Bolsa de mercadorias e futuros,6611-8/03,subclass,6611803
+Administração de mercados de balcão organizados,6611-8/04,subclass,6611804
+"Atividades de intermediários em transações de títulos, valores mobiliários e mercadorias",66.12-6,class,66126
+Corretoras de títulos e valores mobiliários,6612-6/01,subclass,6612601
+Distribuidoras de títulos e valores mobiliários,6612-6/02,subclass,6612602
+Corretoras de câmbio,6612-6/03,subclass,6612603
+Corretoras de contratos de mercadorias,6612-6/04,subclass,6612604
+Agentes de investimentos em aplicações financeiras,6612-6/05,subclass,6612605
+Administração de cartões de crédito,66.13-4,class,66134
+Administração de cartões de crédito,6613-4/00,subclass,6613400
+Atividades auxiliares dos serviços financeiros não especificadas anteriormente,66.19-3,class,66193
+Serviços de liquidação e custódia,6619-3/01,subclass,6619301
+Correspondentes de instituições financeiras,6619-3/02,subclass,6619302
+Representações de bancos estrangeiros,6619-3/03,subclass,6619303
+Caixas eletrônicos,6619-3/04,subclass,6619304
+Operadoras de cartões de débito,6619-3/05,subclass,6619305
+Outras atividades auxiliares dos serviços financeiros não especificadas anteriormente,6619-3/99,subclass,6619399
+"Atividades auxiliares dos seguros, da previdência complementar e dos planos de saúde",66.2,group,662
+Avaliação de riscos e perdas,66.21-5,class,66215
+Peritos e avaliadores de seguros,6621-5/01,subclass,6621501
+Auditoria e consultoria atuarial,6621-5/02,subclass,6621502
+"Corretores e agentes de seguros, de planos de previdência complementar e de saúde",66.22-3,class,66223
+"Corretores e agentes de seguros, de planos de previdência complementar e de saúde",6622-3/00,subclass,6622300
+"Atividades auxiliares dos seguros, da previdência complementar e dos planos de saúde não especificadas anteriormente",66.29-1,class,66291
+"Atividades auxiliares dos seguros, da previdência complementar e dos planos de saúde não especificadas anteriormente",6629-1/00,subclass,6629100
+"Atividades de administração de fundos por contrato ou
+comissão",66.3,group,663
+"Atividades de administração de fundos por contrato ou
+comissão",66.30-4,class,66304
+Atividades de administração de fundos por contrato ou comissão,6630-4/00,subclass,6630400
+ATIVIDADES IMOBILIÁRIAS,L,section,L
+ATIVIDADES IMOBILIÁRIAS,68,division,68
+Atividades imobiliárias de imóveis próprios,68.1,group,681
+Atividades imobiliárias de imóveis próprios,68.10-2,class,68102
+Compra e venda de imóveis próprios,6810-2/01,subclass,6810201
+Aluguel de imóveis próprios,6810-2/02,subclass,6810202
+Loteamento de imóveis próprios,6810-2/03,subclass,6810203
+Atividades imobiliárias por contrato ou comissão,68.2,group,682
+"Intermediação na compra, venda e aluguel de imóveis",68.21-8,class,68218
+Corretagem na compra e venda e avaliação de imóveis,6821-8/01,subclass,6821801
+Corretagem no aluguel de imóveis,6821-8/02,subclass,6821802
+Gestão e administração da propriedade imobiliária,68.22-6,class,68226
+Gestão e administração da propriedade imobiliária,6822-6/00,subclass,6822600
+"ATIVIDADES PROFISSIONAIS, CIENTÍFICAS E TÉCNICAS",M,section,M
+"ATIVIDADES JURÍDICAS, DE CONTABILIDADE E DE AUDITORIA",69,division,69
+Atividades jurídicas,69.1,group,691
+"Atividades jurídicas, exceto cartórios",69.11-7,class,69117
+Serviços advocatícios,6911-7/01,subclass,6911701
+Atividades auxiliares da justiça,6911-7/02,subclass,6911702
+Agente de propriedade industrial,6911-7/03,subclass,6911703
+Cartórios,69.12-5,class,69125
+Cartórios,6912-5/00,subclass,6912500
+"Atividades de contabilidade, consultoria e auditoria contábil e tributária",69.2,group,692
+"Atividades de contabilidade, consultoria e auditoria contábil e tributária",69.20-6,class,69206
+Atividades de contabilidade,6920-6/01,subclass,6920601
+Atividades de consultoria e auditoria contábil e tributária,6920-6/02,subclass,6920602
+ATIVIDADES DE SEDES DE EMPRESAS E DE CONSULTORIA EM GESTÃO EMPRESARIAL,70,division,70
+Sedes de empresas e unidades administrativas locais,70.1,group,701
+Sedes de empresas e unidades administrativas locais,70.10-7,class,70107
+Atividades de consultoria em gestão empresarial,70.2,group,702
+Atividades de consultoria em gestão empresarial,70.20-4,class,70204
+"Atividades de consultoria em gestão empresarial, exceto consultoria técnica específica",7020-4/00,subclass,7020400
+SERVIÇOS DE ARQUITETURA E ENGENHARIA; TESTES E ANÁLISES TÉCNICAS,71,division,71
+Serviços de arquitetura e engenharia e atividades técnicas relacionadas,71.1,group,711
+Serviços de arquitetura,71.11-1,class,71111
+Serviços de arquitetura,7111-1/00,subclass,7111100
+Serviços de engenharia,71.12-0,class,71120
+Serviços de engenharia,7112-0/00,subclass,7112000
+Atividades técnicas relacionadas à arquitetura e engenharia,71.19-7,class,71197
+"Serviços de cartografia, topografia e geodésia",7119-7/01,subclass,7119701
+Atividades de estudos geológicos,7119-7/02,subclass,7119702
+Serviços de desenho técnico relacionados à arquitetura e engenharia,7119-7/03,subclass,7119703
+Serviços de perícia técnica relacionados à segurança do trabalho,7119-7/04,subclass,7119704
+Atividades técnicas relacionadas à engenharia e arquitetura não especificadas anteriormente,7119-7/99,subclass,7119799
+Testes e análises técnicas,71.2,group,712
+Testes e análises técnicas,71.20-1,class,71201
+Testes e análises técnicas,7120-1/00,subclass,7120100
+PESQUISA E DESENVOLVIMENTO CIENTÍFICO,72,division,72
+Pesquisa e desenvolvimento experimental em ciências físicas e naturais,72.1,group,721
+Pesquisa e desenvolvimento experimental em ciências físicas e naturais,72.10-0,class,72100
+Pesquisa e desenvolvimento experimental em ciências físicas e naturais,7210-0/00,subclass,7210000
+Pesquisa e desenvolvimento experimental em ciências sociais e humanas,72.2,group,722
+Pesquisa e desenvolvimento experimental em ciências sociais e humanas,72.20-7,class,72207
+Pesquisa e desenvolvimento experimental em ciências sociais e humanas,7220-7/00,subclass,7220700
+PUBLICIDADE E PESQUISA DE MERCADO,73,division,73
+Publicidade,73.1,group,731
+Agências de publicidade,73.11-4,class,73114
+Agências de publicidade,7311-4/00,subclass,7311400
+"Agenciamento de espaços para publicidade, exceto em veículos de comunicação",73.12-2,class,73122
+"Agenciamento de espaços para publicidade, exceto em veículos de comunicação",7312-2/00,subclass,7312200
+Atividades de publicidade não especificadas anteriormente,73.19-0,class,73190
+Criação de estandes para feiras e exposições,7319-0/01,subclass,7319001
+Promoção de vendas,7319-0/02,subclass,7319002
+Marketing direto,7319-0/03,subclass,7319003
+Consultoria em publicidade,7319-0/04,subclass,7319004
+Outras atividades de publicidade não especificadas anteriormente,7319-0/99,subclass,7319099
+Pesquisas de mercado e de opinião pública,73.2,group,732
+Pesquisas de mercado e de opinião pública,73.20-3,class,73203
+Pesquisas de mercado e de opinião pública,7320-3/00,subclass,7320300
+"OUTRAS ATIVIDADES PROFISSIONAIS, CIENTÍFICAS E TÉCNICAS",74,division,74
+Design e decoração de interiores,74.1,group,741
+Design e decoração de interiores,74.10-2,class,74102
+Design de interiores,7410-2/02,subclass,7410202
+Desing de produto,7410-2/03,subclass,7410203
+Atividades de desing não especificadas anteriormente,7410-2/99,subclass,7410299
+Atividades fotográficas e similares,74.2,group,742
+Atividades fotográficas e similares,74.20-0,class,74200
+"Atividades de produção de fotografias, exceto aérea e submarina",7420-0/01,subclass,7420001
+Atividades de produção de fotografias aéreas e submarinas,7420-0/02,subclass,7420002
+Laboratórios fotográficos,7420-0/03,subclass,7420003
+Filmagem de festas e eventos,7420-0/04,subclass,7420004
+Serviços de microfilmagem,7420-0/05,subclass,7420005
+"Atividades profissionais, científicas e técnicas não especificadas anteriormente",74.9,group,749
+"Atividades profissionais, científicas e técnicas não especificadas anteriormente",74.90-1,class,74901
+"Serviços de tradução, interpretação e similares",7490-1/01,subclass,7490101
+Escafandria e mergulho,7490-1/02,subclass,7490102
+Serviços de agronomia e de consultoria às atividades agrícolas e pecuárias,7490-1/03,subclass,7490103
+"Atividades de intermediação e agenciamento de serviços e negócios em geral, exceto imobiliários",7490-1/04,subclass,7490104
+"Agenciamento de profissionais para atividades esportivas, culturais e artísticas",7490-1/05,subclass,7490105
+"Outras atividades profissionais, científicas e técnicas não especificadas anteriormente",7490-1/99,subclass,7490199
+ATIVIDADES VETERINÁRIAS,75,division,75
+Atividades veterinárias,75.0,group,750
+Atividades veterinárias,75.00-1,class,75001
+Atividades veterinárias,7500-1/00,subclass,7500100
+ATIVIDADES ADMINISTRATIVAS E SERVIÇOS COMPLEMENTARES,N,section,N
+ALUGUÉIS NÃO IMOBILIÁRIOS E GESTÃO DE ATIVOS INTANGÍVEIS NÃO FINANCEIROS,77,division,77
+Locação de meios de transporte sem condutor,77.1,group,771
+Locação de automóveis sem condutor,77.11-0,class,77110
+Locação de automóveis sem condutor,7711-0/00,subclass,7711000
+"Locação de meios de transporte, exceto automóveis, sem condutor",77.19-5,class,77195
+"Locação de embarcações sem tripulação, exceto para fins
+recreativos",7719-5/01,subclass,7719501
+Locação de aeronaves sem tripulação,7719-5/02,subclass,7719502
+"Locação de outros meios de transporte não especificados anteriormente, sem condutor",7719-5/99,subclass,7719599
+Aluguel de objetos pessoais e domésticos,77.2,group,772
+Aluguel de equipamentos recreativos e esportivos,77.21-7,class,77217
+Aluguel de equipamentos recreativos e esportivos,7721-7/00,subclass,7721700
+"Aluguel de fitas de vídeo, DVDs e similares",77.22-5,class,77225
+"Aluguel de fitas de vídeo, DVDs e similares",7722-5/00,subclass,7722500
+"Aluguel de objetos do vestuário, jóias e acessórios",77.23-3,class,77233
+"Aluguel de objetos do vestuário, jóias e acessórios",7723-3/00,subclass,7723300
+Aluguel de objetos pessoais e domésticos não especificados anteriormente,77.29-2,class,77292
+Aluguel de aparelhos de jogos eletrônicos,7729-2/01,subclass,7729201
+"Aluguel de móveis, utensílios e aparelhos de uso doméstico e pessoal; instrumentos musicais",7729-2/02,subclass,7729202
+Aluguel de material médico,7729-2/03,subclass,7729203
+Aluguel de outros objetos pessoais e domésticos não especificados anteriormente,7729-2/99,subclass,7729299
+Aluguel de máquinas e equipamentos sem operador,77.3,group,773
+Aluguel de máquinas e equipamentos agrícolas sem operador,77.31-4,class,77314
+Aluguel de máquinas e equipamentos agrícolas sem operador,7731-4/00,subclass,7731400
+Aluguel de máquinas e equipamentos para construção sem operador,77.32-2,class,77322
+"Aluguel de máquinas e equipamentos para construção sem operador, exceto andaimes",7732-2/01,subclass,7732201
+Aluguel de andaimes,7732-2/02,subclass,7732202
+Aluguel de máquinas e equipamentos para escritório,77.33-1,class,77331
+Aluguel de máquinas e equipamentos para escritório,7733-1/00,subclass,7733100
+Aluguel de máquinas e equipamentos não especificados anteriormente,77.39-0,class,77390
+"Aluguel de máquinas e equipamentos para extração de minérios e petróleo, sem operador",7739-0/01,subclass,7739001
+"Aluguel de equipamentos científicos, médicos e hospitalares, sem operador",7739-0/02,subclass,7739002
+"Aluguel de palcos, coberturas e outras estruturas de uso temporário, exceto andaimes",7739-0/03,subclass,7739003
+"Aluguel de outras máquinas e equipamentos comerciais e industriais não especificados anteriormente, sem operador",7739-0/99,subclass,7739099
+Gestão de ativos intangíveis não financeiros,77.4,group,774
+Gestão de ativos intangíveis não financeiros,77.40-3,class,77403
+Gestão de ativos intangíveis não financeiros,7740-3/00,subclass,7740300
+"SELEÇÃO, AGENCIAMENTO E LOCAÇÃO DE MÃO DE OBRA",78,division,78
+Seleção e agenciamento de mão de obra,78.1,group,781
+Seleção e agenciamento de mão de obra,78.10-8,class,78108
+Seleção e agenciamento de mão de obra,7810-8/00,subclass,7810800
+Locação de mão de obra temporária,78.2,group,782
+Locação de mão de obra temporária,78.20-5,class,78205
+Locação de mão de obra temporária,7820-5/00,subclass,7820500
+Fornecimento e gestão de recursos humanos para terceiros,78.3,group,783
+Fornecimento e gestão de recursos humanos para terceiros,78.30-2,class,78302
+Fornecimento e gestão de recursos humanos para terceiros,7830-2/00,subclass,7830200
+"AGÊNCIAS DE VIAGENS, OPERADORES TURÍSTICOS E SERVIÇOS DE RESERVAS",79,division,79
+Agências de viagens e operadores turísticos,79.1,group,791
+Agências de viagens,79.11-2,class,79112
+Agências de viagens,7911-2/00,subclass,7911200
+Operadores turísticos,79.12-1,class,79121
+Operadores turísticos,7912-1/00,subclass,7912100
+Serviços de reservas e outros serviços de turismo não especificados anteriormente,79.9,group,799
+Serviços de reservas e outros serviços de turismo não especificados anteriormente,79.90-2,class,79902
+Serviços de reservas e outros serviços de turismo não especificados anteriormente,7990-2/00,subclass,7990200
+"ATIVIDADES DE VIGILÂNCIA, SEGURANÇA E INVESTIGAÇÃO",80,division,80
+"Atividades de vigilância, segurança privada e transporte de valores",80.1,group,801
+Atividades de vigilância e segurança privada,80.11-1,class,80111
+Atividades de vigilância e segurança privada,8011-1/01,subclass,8011101
+Serviços de adestramento de cães de guarda,8011-1/02,subclass,8011102
+Atividades de transporte de valores,80.12-9,class,80129
+Atividades de transporte de valores,8012-9/00,subclass,8012900
+Atividades de monitoramento de sistemas de segurança,80.2,group,802
+Atividades de monitoramento de sistemas de segurança,80.20-0,class,80200
+Atividades de monitoramento de sistemas de segurança eletrônico,8020-0/01,subclass,8020001
+Outras atividades de serviços de segurança,8020-0/02,subclass,8020002
+Atividades de investigação particular,80.3,group,803
+Atividades de investigação particular,80.30-7,class,80307
+Atividades de investigação particular,8030-7/00,subclass,8030700
+SERVIÇOS PARA EDIFÍCIOS E ATIVIDADES PAISAGÍSTICAS,81,division,81
+Serviços combinados para apoio a edifícios,81.1,group,811
+"Serviços combinados para apoio a edifícios, exceto condomínios prediais",81.11-7,class,81117
+"Serviços combinados para apoio a edifícios, exceto condomínios prediais",8111-7/00,subclass,8111700
+Condomínios prediais,81.12-5,class,81125
+Condomínios prediais,8112-5/00,subclass,8112500
+Atividades de limpeza,81.2,group,812
+Limpeza em prédios e em domicílios,81.21-4,class,81214
+Limpeza em prédios e em domicílios,8121-4/00,subclass,8121400
+Imunização e controle de pragas urbanas,81.22-2,class,81222
+Imunização e controle de pragas urbanas,8122-2/00,subclass,8122200
+Atividades de limpeza não especificadas anteriormente,81.29-0,class,81290
+Atividades de limpeza não especificadas anteriormente,8129-0/00,subclass,8129000
+Atividades paisagísticas,81.3,group,813
+Atividades paisagísticas,81.30-3,class,81303
+Atividades paisagísticas,8130-3/00,subclass,8130300
+"SERVIÇOS DE ESCRITÓRIO, DE APOIO ADMINISTRATIVO E OUTROS SERVIÇOS PRESTADOS PRINCIPALMENTE ÀS
+EMPRESAS",82,division,82
+Serviços de escritório e apoio administrativo,82.1,group,821
+Serviços combinados de escritório e apoio administrativo,82.11-3,class,82113
+Serviços combinados de escritório e apoio administrativo,8211-3/00,subclass,8211300
+"Fotocópias, preparação de documentos e outros serviços especializados de apoio administrativo",82.19-9,class,82199
+Fotocópias,8219-9/01,subclass,8219901
+Preparação de documentos e serviços especializados de apoio administrativo não especificados anteriormente,8219-9/99,subclass,8219999
+Atividades de teleatendimento,82.2,group,822
+Atividades de teleatendimento,82.20-2,class,82202
+Atividades de teleatendimento,8220-2/00,subclass,8220200
+"Atividades de organização de eventos, exceto culturais e esportivos",82.3,group,823
+"Atividades de organização de eventos, exceto culturais e esportivos",82.30-0,class,82300
+"Serviços de organização de feiras, congressos, exposições e festas",8230-0/01,subclass,8230001
+Casas de festas e eventos,8230-0/02,subclass,8230002
+Outras atividades de serviços prestados principalmente às empresas,82.9,group,829
+Atividades de cobrança e informações cadastrais,82.91-1,class,82911
+Atividades de cobrança e informações cadastrais,8291-1/00,subclass,8291100
+Envasamento e empacotamento sob contrato,82.92-0,class,82920
+Envasamento e empacotamento sob contrato,8292-0/00,subclass,8292000
+Atividades de serviços prestados principalmente às empresas não especificadas anteriormente,82.99-7,class,82997
+"Medição de consumo de energia elétrica, gás e água",8299-7/01,subclass,8299701
+"Emissão de vales-alimentação, vales-transporte e similares",8299-7/02,subclass,8299702
+"Serviços de gravação de carimbos, exceto confecção",8299-7/03,subclass,8299703
+Leiloeiros independentes,8299-7/04,subclass,8299704
+Serviços de levantamento de fundos sob contrato,8299-7/05,subclass,8299705
+Casas lotéricas,8299-7/06,subclass,8299706
+Salas de acesso à Internet,8299-7/07,subclass,8299707
+Outras atividades de serviços prestados principalmente às empresas não especificadas anteriormente,8299-7/99,subclass,8299799
+"ADMINISTRAÇÃO PÚBLICA, DEFESA E SEGURIDADE SOCIAL",O,section,O
+"ADMINISTRAÇÃO PÚBLICA, DEFESA E SEGURIDADE SOCIAL",84,division,84
+Administração do estado e da política econômica e social,84.1,group,841
+Administração pública em geral,84.11-6,class,84116
+Administração pública em geral,8411-6/00,subclass,8411600
+"Regulação das atividades de saúde, educação, serviços culturais e outros serviços sociais",84.12-4,class,84124
+"Regulação das atividades de saúde, educação, serviços culturais e outros serviços sociais",8412-4/00,subclass,8412400
+Regulação das atividades econômicas,84.13-2,class,84132
+Regulação das atividades econômicas,8413-2/00,subclass,8413200
+Serviços coletivos prestados pela administração pública,84.2,group,842
+Relações exteriores,84.21-3,class,84213
+Relações exteriores,8421-3/00,subclass,8421300
+Defesa,84.22-1,class,84221
+Defesa,8422-1/00,subclass,8422100
+Justiça,84.23-0,class,84230
+Justiça,8423-0/00,subclass,8423000
+Segurança e ordem pública,84.24-8,class,84248
+Segurança e ordem pública,8424-8/00,subclass,8424800
+Defesa Civil,84.25-6,class,84256
+Defesa Civil,8425-6/00,subclass,8425600
+Seguridade social obrigatória,84.3,group,843
+Seguridade social obrigatória,84.30-2,class,84302
+Seguridade social obrigatória,8430-2/00,subclass,8430200
+EDUCAÇÃO,P,section,P
+EDUCAÇÃO,85,division,85
+Educação infantil e ensino fundamental,85.1,group,851
+Educação infantil - creche,85.11-2,class,85112
+Educação infantil - creche,8511-2/00,subclass,8511200
+Educação infantil - pré-escola,85.12-1,class,85121
+Educação infantil - pré-escola,8512-1/00,subclass,8512100
+Ensino fundamental,85.13-9,class,85139
+Ensino fundamental,8513-9/00,subclass,8513900
+Ensino médio,85.2,group,852
+Ensino médio,85.20-1,class,85201
+Ensino médio,8520-1/00,subclass,8520100
+Educação superior,85.3,group,853
+Educação superior - graduação,85.31-7,class,85317
+Educação superior - graduação,8531-7/00,subclass,8531700
+Educação superior - graduação e pós-graduação,85.32-5,class,85325
+Educação superior - graduação e pós-graduação,8532-5/00,subclass,8532500
+Educação superior - pós-graduação e extensão,85.33-3,class,85333
+Educação superior - pós-graduação e extensão,8533-3/00,subclass,8533300
+Educação profissional de nível técnico e tecnológico,85.4,group,854
+Educação profissional de nível técnico,85.41-4,class,85414
+Educação profissional de nível técnico,8541-4/00,subclass,8541400
+Educação profissional de nível tecnológico,85.42-2,class,85422
+Educação profissional de nível tecnológico,8542-2/00,subclass,8542200
+Atividades de apoio à educação,85.5,group,855
+Atividades de apoio à educação,85.50-3,class,85503
+Administração de caixas escolares,8550-3/01,subclass,8550301
+"Atividades de apoio à educação, exceto caixas escolares",8550-3/02,subclass,8550302
+Outras atividades de ensino,85.9,group,859
+Ensino de esportes,85.91-1,class,85911
+Ensino de esportes,8591-1/00,subclass,8591100
+Ensino de arte e cultura,85.92-9,class,85929
+Ensino de dança,8592-9/01,subclass,8592901
+"Ensino de artes cênicas, exceto dança",8592-9/02,subclass,8592902
+Ensino de música,8592-9/03,subclass,8592903
+Ensino de arte e cultura não especificado anteriormente,8592-9/99,subclass,8592999
+Ensino de idiomas,85.93-7,class,85937
+Ensino de idiomas,8593-7/00,subclass,8593700
+Atividades de ensino não especificadas anteriormente,85.99-6,class,85996
+Formação de condutores,8599-6/01,subclass,8599601
+Cursos de pilotagem,8599-6/02,subclass,8599602
+Treinamento em informática,8599-6/03,subclass,8599603
+Treinamento em desenvolvimento profissional e gerencial,8599-6/04,subclass,8599604
+Cursos preparatórios para concursos,8599-6/05,subclass,8599605
+Outras atividades de ensino não especificadas anteriormente,8599-6/99,subclass,8599699
+SAÚDE HUMANA E SERVIÇOS SOCIAIS,Q,section,Q
+ATIVIDADES DE ATENÇÃO À SAÚDE HUMANA,86,division,86
+Atividades de atendimento hospitalar,86.1,group,861
+Atividades de atendimento hospitalar,86.10-1,class,86101
+"Atividades de atendimento hospitalar, exceto pronto-socorro e unidades para atendimento a urgências",8610-1/01,subclass,8610101
+Atividades de atendimento em pronto-socorro e unidades hospitalares para atendimento a urgências,8610-1/02,subclass,8610102
+Serviços móveis de atendimento a urgências e de remoção de pacientes,86.2,group,862
+Serviços móveis de atendimento a urgências,86.21-6,class,86216
+UTI móvel,8621-6/01,subclass,8621601
+"Serviços móveis de atendimento a urgências, exceto por UTI móvel",8621-6/02,subclass,8621602
+"Serviços de remoção de pacientes, exceto os serviços móveis de atendimento a urgências",86.22-4,class,86224
+"Serviços de remoção de pacientes, exceto os serviços móveis de atendimento a urgências",8622-4/00,subclass,8622400
+Atividades de atenção ambulatorial executadas por médicos e odontólogos,86.3,group,863
+Atividades de atenção ambulatorial executadas por médicos e odontólogos,86.30-5,class,86305
+Atividade médica ambulatorial com recursos para realização de procedimentos cirúrgicos,8630-5/01,subclass,8630501
+Atividade médica ambulatorial com recursos para realização de exames complementares,8630-5/02,subclass,8630502
+Atividade médica ambulatorial restrita a consultas,8630-5/03,subclass,8630503
+Atividade odontológica,8630-5/04,subclass,8630504
+Serviços de vacinação e imunização humana,8630-5/06,subclass,8630506
+Atividades de reprodução humana assistida,8630-5/07,subclass,8630507
+Atividades de atenção ambulatorial não especificadas anteriormente,8630-5/99,subclass,8630599
+Atividades de serviços de complementação diagnóstica e terapêutica,86.4,group,864
+Atividades de serviços de complementação diagnóstica e terapêutica,86.40-2,class,86402
+Laboratórios de anatomia patológica e citológica,8640-2/01,subclass,8640201
+Laboratórios clínicos,8640-2/02,subclass,8640202
+Serviços de diálise e nefrologia,8640-2/03,subclass,8640203
+Serviços de tomografia,8640-2/04,subclass,8640204
+"Serviços de diagnóstico por imagem com uso de radiação ionizante, exceto tomografia",8640-2/05,subclass,8640205
+Serviços de ressonância magnética,8640-2/06,subclass,8640206
+"Serviços de diagnóstico por imagem sem uso de radiação ionizante, exceto ressonância magnética",8640-2/07,subclass,8640207
+"Serviços de diagnóstico por registro gráfico - ECG, EEG e outros exames análogos",8640-2/08,subclass,8640208
+Serviços de diagnóstico por métodos ópticos - endoscopia e outros exames análogos,8640-2/09,subclass,8640209
+Serviços de quimioterapia,8640-2/10,subclass,8640210
+Serviços de radioterapia,8640-2/11,subclass,8640211
+Serviços de hemoterapia,8640-2/12,subclass,8640212
+Serviços de litotripsia,8640-2/13,subclass,8640213
+Serviços de bancos de células e tecidos humanos,8640-2/14,subclass,8640214
+Atividades de serviços de complementação diagnóstica e terapêutica não especificadas anteriormente,8640-2/99,subclass,8640299
+"Atividades de profissionais da área de saúde, exceto médicos e odontólogos",86.5,group,865
+"Atividades de profissionais da área de saúde, exceto médicos e odontólogos",86.50-0,class,86500
+Atividades de enfermagem,8650-0/01,subclass,8650001
+Atividades de profissionais da nutrição,8650-0/02,subclass,8650002
+Atividades de psicologia e psicanálise,8650-0/03,subclass,8650003
+Atividades de fisioterapia,8650-0/04,subclass,8650004
+Atividades de terapia ocupacional,8650-0/05,subclass,8650005
+Atividades de fonoaudiologia,8650-0/06,subclass,8650006
+Atividades de terapia de nutrição enteral e parenteral,8650-0/07,subclass,8650007
+Atividades de profissionais da área de saúde não especificadas anteriormente,8650-0/99,subclass,8650099
+Atividades de apoio à gestão de saúde,86.6,group,866
+Atividades de apoio à gestão de saúde,86.60-7,class,86607
+Atividades de apoio à gestão de saúde,8660-7/00,subclass,8660700
+Atividades de atenção à saúde humana não especificadas anteriormente,86.9,group,869
+Atividades de atenção à saúde humana não especificadas anteriormente,86.90-9,class,86909
+Atividades de práticas integrativas e complementares em saúde humana,8690-9/01,subclass,8690901
+Atividades de bancos de leite humano,8690-9/02,subclass,8690902
+Atividades de acupuntura,8690-9/03,subclass,8690903
+Atividades de podologia,8690-9/04,subclass,8690904
+Outras atividades de atenção à saúde humana não especificadas anteriormente,8690-9/99,subclass,8690999
+"ATIVIDADES DE ATENÇÃO À SAÚDE HUMANA INTEGRADAS COM ASSISTÊNCIA SOCIAL, PRESTADAS EM RESIDÊNCIAS COLETIVAS E PARTICULARES",87,division,87
+"Atividades de assistência a idosos, deficientes físicos, imunodeprimidos e convalescentes, e de infraestrutura e apoio a pacientes prestadas em residências coletivas e particulares",87.1,group,871
+"Atividades de assistência a idosos, deficientes físicos, imunodeprimidos e convalescentes prestadas em residências coletivas e particulares",87.11-5,class,87115
+Clínicas e residências geriátricas,8711-5/01,subclass,8711501
+Instituições de longa permanência para idosos,8711-5/02,subclass,8711502
+"Atividades de assistência a deficientes físicos, imunodeprimidos e convalescentes",8711-5/03,subclass,8711503
+Centros de apoio a pacientes com câncer e com AIDS,8711-5/04,subclass,8711504
+Condomínios residenciais para idosos,8711-5/05,subclass,8711505
+Atividades de fornecimento de infraestrutura de apoio e assistência a paciente no domicílio,87.12-3,class,87123
+Atividades de fornecimento de infraestrutura de apoio e assistência a paciente no domicílio,8712-3/00,subclass,8712300
+"Atividades de assistência psicossocial e à saúde a portadores de distúrbios psíquicos, deficiência mental e dependência
+química",87.2,group,872
+"Atividades de assistência psicossocial e à saúde a portadores de distúrbios psíquicos, deficiência mental e dependência
+química",87.20-4,class,87204
+Atividades de centros de assistência psicossocial,8720-4/01,subclass,8720401
+"Atividades de assistência psicossocial e à saúde a portadores de distúrbios psíquicos, deficiência mental e dependência química e grupos similares não especificadas anteriormente",8720-4/99,subclass,8720499
+Atividades de assistência social prestadas em residências coletivas e particulares,87.3,group,873
+Atividades de assistência social prestadas em residências coletivas e particulares,87.30-1,class,87301
+Orfanatos,8730-1/01,subclass,8730101
+Albergues assistenciais,8730-1/02,subclass,8730102
+Atividades de assistência social prestadas em residências coletivas e particulares não especificadas anteriormente,8730-1/99,subclass,8730199
+SERVIÇOS DE ASSISTÊNCIA SOCIAL SEM ALOJAMENTO,88,division,88
+Serviços de assistência social sem alojamento,88.0,group,880
+Serviços de assistência social sem alojamento,88.00-6,class,88006
+Serviços de assistência social sem alojamento,8800-6/00,subclass,8800600
+"ARTES, CULTURA, ESPORTE E RECREAÇÃO",R,section,R
+"ATIVIDADES ARTÍSTICAS, CRIATIVAS E DE ESPETÁCULOS",90,division,90
+"Atividades artísticas, criativas e de espetáculos",90.0,group,900
+"Artes cênicas, espetáculos e atividades complementares",90.01-9,class,90019
+Produção teatral,9001-9/01,subclass,9001901
+Produção musical,9001-9/02,subclass,9001902
+Produção de espetáculos de dança,9001-9/03,subclass,9001903
+"Produção de espetáculos circenses, de marionetes e similares",9001-9/04,subclass,9001904
+"Produção de espetáculos de rodeios, vaquejadas e similares",9001-9/05,subclass,9001905
+Atividades de sonorização e de iluminação,9001-9/06,subclass,9001906
+"Artes cênicas, espetáculos e atividades complementares não especificados anteriormente",9001-9/99,subclass,9001999
+Criação artística,90.02-7,class,90027
+"Atividades de artistas plásticos, jornalistas independentes e
+escritores",9002-7/01,subclass,9002701
+Restauração de obras de arte,9002-7/02,subclass,9002702
+"Gestão de espaços para artes cênicas, espetáculos e outras atividades artísticas",90.03-5,class,90035
+"Gestão de espaços para artes cênicas, espetáculos e outras atividades artísticas",9003-5/00,subclass,9003500
+ATIVIDADES LIGADAS AO PATRIMÔNIO CULTURAL E AMBIENTAL,91,division,91
+Atividades ligadas ao patrimônio cultural e ambiental,91.0,group,910
+Atividades de bibliotecas e arquivos,91.01-5,class,91015
+Atividades de bibliotecas e arquivos,9101-5/00,subclass,9101500
+"Atividades de museus e de exploração, restauração artística
+e conservação de lugares e prédios históricos e atrações
+similares",91.02-3,class,91023
+Atividades de museus e de exploração de lugares e prédios históricos e atrações similares,9102-3/01,subclass,9102301
+Restauração e conservação de lugares e prédios históricos,9102-3/02,subclass,9102302
+"Atividades de jardins botânicos, zoológicos, parques nacionais, reservas ecológicas e áreas de proteção ambiental",91.03-1,class,91031
+"Atividades de jardins botânicos, zoológicos, parques nacionais, reservas ecológicas e áreas de proteção ambiental",9103-1/00,subclass,9103100
+"ATIVIDADES DE EXPLORAÇÃO DE JOGOS DE AZAR E
+APOSTAS",92,division,92
+Atividades de exploração de jogos de azar e apostas,92.0,group,920
+Atividades de exploração de jogos de azar e apostas,92.00-3,class,92003
+Casas de bingo,9200-3/01,subclass,9200301
+Exploração de apostas em corridas de cavalos,9200-3/02,subclass,9200302
+Exploração de jogos de azar e apostas não especificados anteriormente,9200-3/99,subclass,9200399
+ATIVIDADES ESPORTIVAS E DE RECREAÇÃO E LAZER,93,division,93
+Atividades esportivas,93.1,group,931
+Gestão de instalações de esportes,93.11-5,class,93115
+Gestão de instalações de esportes,9311-5/00,subclass,9311500
+"Clubes sociais, esportivos e similares",93.12-3,class,93123
+"Clubes sociais, esportivos e similares",9312-3/00,subclass,9312300
+Atividades de condicionamento físico,93.13-1,class,93131
+Atividades de condicionamento físico,9313-1/00,subclass,9313100
+Atividades esportivas não especificadas anteriormente,93.19-1,class,93191
+Produção e promoção de eventos esportivos,9319-1/01,subclass,9319101
+Outras atividades esportivas não especificadas anteriormente,9319-1/99,subclass,9319199
+Atividades de recreação e lazer,93.2,group,932
+Parques de diversão e parques temáticos,93.21-2,class,93212
+Parques de diversão e parques temáticos,9321-2/00,subclass,9321200
+"Atividades de recreação e lazer não especificadas
+anteriormente",93.29-8,class,93298
+"Discotecas, danceterias, salões de dança e similares",9329-8/01,subclass,9329801
+Exploração de boliches,9329-8/02,subclass,9329802
+"Exploração de jogos de sinuca, bilhar e similares",9329-8/03,subclass,9329803
+Exploração de jogos eletrônicos recreativos,9329-8/04,subclass,9329804
+Outras atividades de recreação e lazer não especificadas anteriormente,9329-8/99,subclass,9329899
+OUTRAS ATIVIDADES DE SERVIÇOS,S,section,S
+ATIVIDADES DE ORGANIZAÇÕES ASSOCIATIVAS,94,division,94
+"Atividades de organizações associativas patronais, empresariais e profissionais",94.1,group,941
+Atividades de organizações associativas patronais e empresariais,94.11-1,class,94111
+Atividades de organizações associativas patronais e empresariais,9411-1/00,subclass,9411100
+Atividades de organizações associativas profissionais,94.12-0,class,94120
+Atividades de fiscalização profissional,9412-0/01,subclass,9412001
+Outras atividades associativas profissionais,9412-0/99,subclass,9412099
+Atividades de organizações sindicais,94.2,group,942
+Atividades de organizações sindicais,94.20-1,class,94201
+Atividades de organizações sindicais,9420-1/00,subclass,9420100
+Atividades de associações de defesa de direitos sociais,94.3,group,943
+Atividades de associações de defesa de direitos sociais,94.30-8,class,94308
+Atividades de associações de defesa de direitos sociais,9430-8/00,subclass,9430800
+Atividades de organizações associativas não especificadas anteriormente,94.9,group,949
+Atividades de organizações religiosas,94.91-0,class,94910
+Atividades de organizações religiosas ou filosóficas,9491-0/00,subclass,9491000
+Atividades de organizações políticas,94.92-8,class,94928
+Atividades de organizações políticas,9492-8/00,subclass,9492800
+"Atividades de organizações associativas ligadas à cultura
+e à arte",94.93-6,class,94936
+Atividades de organizações associativas ligadas à cultura e à arte,9493-6/00,subclass,9493600
+Atividades associativas não especificadas anteriormente,94.99-5,class,94995
+Atividades associativas não especificadas anteriormente,9499-5/00,subclass,9499500
+REPARAÇÃO E MANUTENÇÃO DE EQUIPAMENTOS DE INFORMÁTICA E COMUNICAÇÃO E DE OBJETOS PESSOAIS E DOMÉSTICOS,95,division,95
+Reparação e manutenção de equipamentos de informática e comunicação,95.1,group,951
+Reparação e manutenção de computadores e de equipamentos periféricos,95.11-8,class,95118
+Reparação e manutenção de computadores e de equipamentos periféricos,9511-8/00,subclass,9511800
+Reparação e manutenção de equipamentos de comunicação,95.12-6,class,95126
+Reparação e manutenção de equipamentos de comunicação,9512-6/00,subclass,9512600
+Reparação e manutenção de objetos e equipamentos pessoais e domésticos,95.2,group,952
+Reparação e manutenção de equipamentos eletroeletrônicos de uso pessoal e doméstico,95.21-5,class,95215
+Reparação e manutenção de equipamentos eletroeletrônicos de uso pessoal e doméstico,9521-5/00,subclass,9521500
+Reparação e manutenção de objetos e equipamentos pessoais e domésticos não especificados anteriormente,95.29-1,class,95291
+"Reparação de calçados, bolsas e artigos de viagem",9529-1/01,subclass,9529101
+Chaveiros,9529-1/02,subclass,9529102
+Reparação de relógios,9529-1/03,subclass,9529103
+"Reparação de bicicletas, triciclos e outros veículos não motorizados",9529-1/04,subclass,9529104
+Reparação de artigos do mobiliário,9529-1/05,subclass,9529105
+Reparação de jóias,9529-1/06,subclass,9529106
+Reparação e manutenção de outros objetos e equipamentos pessoais e domésticos não especificados anteriormente,9529-1/99,subclass,9529199
+OUTRAS ATIVIDADES DE SERVIÇOS PESSOAIS,96,division,96
+Outras atividades de serviços pessoais,96.0,group,960
+"Lavanderias, tinturarias e toalheiros",96.01-7,class,96017
+Lavanderias,9601-7/01,subclass,9601701
+Tinturarias,9601-7/02,subclass,9601702
+Toalheiros,9601-7/03,subclass,9601703
+Cabeleireiros e outras atividades de tratamento de beleza,96.02-5,class,96025
+"Cabeleireiros, manicure e pedicure",9602-5/01,subclass,9602501
+Atividades de estética e outros serviços de cuidados com a beleza,9602-5/02,subclass,9602502
+Atividades funerárias e serviços relacionados,96.03-3,class,96033
+Gestão e manutenção de cemitérios,9603-3/01,subclass,9603301
+Serviços de cremação,9603-3/02,subclass,9603302
+Serviços de sepultamento,9603-3/03,subclass,9603303
+Serviços de funerárias,9603-3/04,subclass,9603304
+Serviços de somatoconservação,9603-3/05,subclass,9603305
+Atividades funerárias e serviços relacionados não especificados anteriormente,9603-3/99,subclass,9603399
+Atividades de serviços pessoais não especificadas anteriormente,96.09-2,class,96092
+Agências matrimoniais,9609-2/02,subclass,9609202
+Exploração de máquinas de serviços pessoais acionadas por moeda,9609-2/04,subclass,9609204
+Atividades de sauna e banhos,9609-2/05,subclass,9609205
+Serviços de tatuagem e colocação de piercing,9609-2/06,subclass,9609206
+Alojamento de animais domésticos,9609-2/07,subclass,9609207
+Higiene e embelezamento de animais domésticos,9609-2/08,subclass,9609208
+Outras atividades de serviços pessoais não especificadas anteriormente,9609-2/99,subclass,9609299
+SERVIÇOS DOMÉSTICOS,T,section,T
+SERVIÇOS DOMÉSTICOS,97,division,97
+Serviços domésticos,97.0,group,970
+Serviços domésticos,97.00-5,class,97005
+Serviços domésticos,9700-5/00,subclass,9700500
+ORGANISMOS INTERNACIONAIS E OUTRAS INSTITUIÇÕES EXTRATERRITORIAIS,U,section,U
+ORGANISMOS INTERNACIONAIS E OUTRAS INSTITUIÇÕES EXTRATERRITORIAIS,99,division,99
+Organismos internacionais e outras instituições extraterritoriais,99.0,group,990
+Organismos internacionais e outras instituições extraterritoriais,99.00-8,class,99008

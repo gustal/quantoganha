@@ -1,0 +1,12 @@
+﻿company_size,company_size_code
+ZERO,1
+ATE 4,2
+DE 5 A 9,3
+DE 10 A 19,4
+DE 20 A 49,5
+DE 50 A 99,6
+DE 100 A 249,7
+DE 250 A 499,8
+DE 500 A 999,9
+1000 OU MAIS,10
+IGNORADO,-1

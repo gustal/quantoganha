@@ -1,0 +1,176 @@
+﻿neighbourhood_rj,description,neighbourhood_rj_code
+A COSMOS,Araujo de Cosmos,10
+A SANTA,Agua Santa,20
+ABOLICAO,Abolicao,30
+ACARI,Acari,40
+ANCHIETA,Anchieta,50
+ANDARAI,Andarai,60
+ANIL,Anil,70
+AT B VISTA,Alto da Boa Vista,80
+B FILHO,Barros Filho,90
+B GUANABARA,Baia de Guanabara,100
+B GUARATIBA,Barra de Guaratiba,110
+B PINA,Bras de Pina,120
+B RIBEIRO,Bento Ribeiro,130
+B TIJUCA,Barra da Tijuca,140
+BANCARIOS,Bancarios,150
+BANGU,Bangu,160
+BENFICA,Benfica,170
+BONSUCESSO,Bonsucesso,180
+BOTAFOGO,Botafogo,190
+C BARROS,Costa Barros,200
+C DEUS,Cidade de Deus,210
+C FALSO,Curral Falso,220
+C NETO,Coelho Neto,230
+C NOVA,Cidade Nova,240
+C UNIVERSIT,Cidade Universitaria,250
+C VELHO,Cosme Velho,260
+CACHAMBI,Cachambi,270
+CACHAMORRA,Cachamorra (desativada na revisão feita na compe,280
+CACUIA,Cacuia,290
+CAJU,Caju,300
+CAMORIM,Camorim,310
+CAMPINHO,Campinho,320
+CASCADURA,Cascadura,330
+CATETE,Catete,340
+CATUMBI,Catumbi,350
+CAVALCANTI,Cavalcanti,360
+CENTRO,Centro,370
+COCOTA,Cocota,380
+COLEGIO,Colegio,390
+COPACABANA,Copacabana,400
+CORDOVIL,Cordovil,410
+COSMOS,Cosmos,420
+CPO AFONSOS,Campo dos Afonsos,430
+CPO GRANDE,Campo Grande,440
+CURICICA,Curicica,450
+D CASTILHO,Del Castilho,460
+DENDE,Dende,470
+DEODORO,Deodoro,480
+DUMAS,Dumas,490
+E DENTRO,Engenho de Dentro,500
+E LEAL,Engenheiro Leal,510
+E NOVO,Engenho Novo,520
+E RAINHA,Engenho da Rainha,530
+ENCANTADO,Encantado,540
+ESTACIO,Estacio,550
+FLAMENGO,Flamengo,560
+FREGUESIA,Freguesia (desativada na revisão feita na compet,570
+FREG ILHA,Freguesia - Ilha do Governador,580
+FREG JACARE,Freguesia - Jacarepagua,590
+G AZUL,Gardenia Azul,600
+GALEAO,Galeao,610
+GAMBOA,Gamboa,620
+GAVEA,Gavea,630
+GLORIA,Gloria,640
+GRAJAU,Grajau,650
+GRUMARI,Grumari,660
+GUADALUPE,Guadalupe,670
+GUARABU,Guarabu,680
+GUARATIBA,Guaratiba,690
+H GURGEL,Honorio Gurgel,700
+HIGIENOPOLI,Higienopolis,710
+HUMAITA,Humaita,720
+INHAUMA,Inhauma,730
+INHOAIBA,Inhoaiba,740
+IPANEMA,Ipanema,750
+IRAJA,Iraja,760
+ITACOLOMI,Itacolomi,770
+ITANHANGA,Itanhanga,780
+IZADORA,Izadora (desativada na revisão feita na competên,790
+JACARE,Jacare,800
+JACAREPAGUA,Jacarepagua,810
+JD AMERICA,Jardim America,820
+JD BOTANICO,Jardim Botanico,830
+JD CARIOCA,Jardim Carioca,840
+JD GUANABAR,Jardim Guanabara,850
+JD SULACAP,Jardim Sulacap,870
+JOA,Joa,880
+L VASCONCEL,Lins de Vasconcelos,890
+LAGOA,Lagoa,900
+LARANJEIRAS,Laranjeiras,910
+LEBLON,Leblon,920
+LEME,Leme,930
+LOT MADEAN,Loteamento Madean,940
+LOT S BENED,Loteamento Sao Benedito (desativada na revisão f,950
+M BASTOS,Magalhaes Bastos,960
+M GRACA,Maria da Graca,970
+M HERMES,Marechal Hermes,980
+MADUREIRA,Madureira,990
+MANGUEIRA,Mangueira,1000
+MANGUINHOS,Manguinhos,1010
+MARACANA,Maracana,1020
+MARE,Mare,1030
+MEIER,Meier,1040
+MONERO,Monero,1050
+N S GRACAS,Nossa Senhora das Gracas,1060
+O CRUZ,Oswaldo Cruz,1070
+OITICICA II,Oiticica II (desativada na revisão feita na comp,1080
+OLARIA,Olaria,1090
+P CIRCULAR,Penha Circular,1100
+P GUARATIBA,Pedra de Guaratiba,1110
+P MIGUEL,Padre Miguel,1120
+P N CIDADE,Proletario Nova Cidade,1130
+PACIENCIA,Paciencia,1140
+PAQUETA,Paqueta,1150
+PAVUNA,Pavuna,1160
+PC BANDEIRA,Praca da Bandeira,1170
+PC SECA,Praca Seca,1180
+PDA LUCAS,Parada de Lucas,1190
+PECHINCHA,Pechincha,1200
+PENHA,Penha,1210
+PIEDADE,Piedade,1220
+PILARES,Pilares,1230
+PITANGUEIRA,Pitangueiras,1240
+PORTUGUESA,Portuguesa,1250
+PR BANDEIRA,Praia da Bandeira,1260
+PRQ ANCHIET,Parque Anchieta,1270
+Q BOCAIUVA,Quintino Bocaiuva,1280
+R ALBUQUERQ,Ricardo de Albuquerque,1290
+R COMPRIDO,Rio Comprido,1300
+R MIRANDA,Rocha Miranda,1310
+R PRATA,Rio da Prata (desativada na revisão feita na com,1320
+RAMOS,Ramos,1330
+RCR BANDEIR,Recreio dos Bandeirantes,1340
+REALENGO,Realengo,1350
+RIACHUELO,Riachuelo,1360
+RIBEIRA,Ribeira,1370
+ROCHA,Rocha,1380
+ROCINHA,Rocinha,1390
+S CAMARA,Senador Camara,1400
+S CONRADO,Sao Conrado,1410
+S CRISTO,Santo Cristo,1420
+S CRISTOVAO,Sao Cristovao,1430
+S CRUZ,Santa Cruz,1440
+S F XAVIER,Sao Francisco Xavier,1450
+S TERESA,Santa Teresa,1470
+S VASCONCEL,Senador Vasconcelos,1480
+SAMPAIO,Sampaio,1490
+SANTISSIMO,Santissimo,1500
+SAUDE,Saude,1510
+SEPETIBA,Sepetiba,1520
+T COELHO,Tomas Coelho,1530
+T SANTOS,Todos os Santos,1540
+TANQUE,Tanque,1550
+TAQUARA,Taquara,1560
+TAUA,Taua,1570
+TIJUCA,Tijuca,1580
+TUBIACANGA,Tubiacanga,1590
+TURIACU,Turiacu,1600
+URCA,Urca,1610
+V ALEGRE,Vista Alegre,1620
+V CARVALHO,Vicente de Carvalho,1630
+V GERAL,Vigario Geral,1640
+V GRANDE,Vargem Grande,1650
+V LOBO,Vaz Lobo,1660
+V PEQUENA,Vargem Pequena,1670
+VIDIGAL,Vidigal,1680
+VL ISABEL,Vila Isabel,1690
+VL KOSMOS,Vila Kosmos,1710
+VL MILITAR,Vila Militar,1720
+VL PENHA,Vila da Penha,1730
+VL VALQUEIR,Vila Valqueire,1740
+ZUMBI,Zumbi,1750
+OUTROS RIO,Outros Municipios do Rio de Janeiro,9999
+FORA DO RIO,Fora do Estado do Rio de Janeiro,0
+IGNORADO,Ignorado,-1

@@ -1,0 +1,1882 @@
+﻿neighbourhood_sp,description,neighbourhood_sp_code
+A ALVIM,Artur Alvim,1
+A BRANCA,Agua Branca,2
+A FRIA,Agua Fria,3
+A FUNDA,Agua Funda,4
+A RASA,Agua Rasa,5
+A VL PRUDENT,Altos de Vila Prudente,6
+ACLIMACAO,Aclimacao,7
+AMERICANOPOL,Americanopolis,8
+ANHANGUERA,Anhanguera,9
+ARICANDUVA,Aricanduva,10
+AT LAPA,Alto da Lapa,11
+AT MOOCA,Alto da Mooca,12
+AT PARI,Alto do Pari,13
+AT PINHEIROS,Alto de Pinheiros,14
+AT RIVIERA,Alto da Riviera,15
+AV A ESPRAIA,Avenida Aguas Espraiadas,16
+B ALIANCA,Bela Alianca,17
+B BRANCO,Barro Branco,18
+B FUNDA,Barra Funda,19
+B NOVO,Brooklin Novo,20
+B RETIRO,Bom Retiro,21
+B VISTA,Bela Vista,22
+BAL D CARLOS,Balneário Dom Carlos,23
+BAL M PAULIS,Balneário Mar Paulista,24
+BAL S FRANCI,Balneário São Francisco,25
+BAL S JOSE,Balneário São Jose,26
+BARONESA,Baronesa,27
+BARRAGEM,Barragem,28
+BELEM,Belem,29
+BELENZINHO,Belenzinho,30
+BOACAVA,Boacava,31
+BORORE,Borore,32
+BORTOLANDIA,Bortolandia,33
+BRAS,Brás,34
+BRASILANDIA,Brasilandia,35
+BROOKLIN PAU,Brooklin Paulista,36
+BSQ SAUDE,Bosque da Saude,37
+BURGO PAULIS,Burgo Paulista,38
+BUTANTA,Butanta,39
+C A E CARVAL,Cidade Antonio Estevao de Carvalh,40
+C ADEMAR,Cidade Ademar,41
+C AMERICA,City America,42
+C AUXILIADOR,Cidade Auxiliadora,43
+C BANDEIRANT,Cidade dos Bandeirantes,44
+C C S PAULO,Clube Campestre de São Paulo,45
+C CENTENARIO,Cidade Centenario,46
+C CESAR,Cerqueira Cesar,47
+C CONTINENTA,Cidade Continental,48
+C CPO KIBOM,Clube de Campo Kibom,49
+C D'ABRIL,Cidade D'abril,50
+C DOMITILA,Cidade Domitila,51
+C DUTRA,Cidade Dutra,52
+C ELISEOS,Campos Eliseos,53
+C EMBIRA,Capao da Embira,54
+C F P COLONI,Clube dos Funcionarios Publicos C,55
+C F SEMANA,Cidade Fim de Semana,56
+C GRANDE,Casa Grande,57
+C IPAVA,Cidade Ipava,58
+C JARDIM,Cidade Jardim,59
+C JULIA,Cidade Julia,60
+C KEMEL,Cidade Kemel,61
+C LEONOR,Cidade Leonor,62
+C LIDER,Cidade Lider,63
+C M CEU,Cidade Mae do Ceu,64
+C M JUNIOR,Cidade Munhoz Junior,65
+C MEIO,Cipo do Meio,66
+C MENINO,Chora Menino,67
+C MONCOES,Cidade Moncoes,68
+C N HELIOPOL,Cidade Nova Heliopolis,69
+C N OPERARIA,Cidade Nitro Operaria,70
+C N QUIMICA,Cidade Nitro Quimica,71
+C N S MIGUEL,Cidade Nova São Miguel,72
+C NAUTICA,Cidade Nautica,73
+C PATRIARCA,Cidade Patriarca,74
+C POPULAR,Cidade Popular,75
+C REDONDO,Capao Redondo,76
+C S FRANCISC,Cidade São Francisco,77
+C S MATEUS,Cidade São Mateus,78
+C S MIGUEL,Cidade São Miguel,79
+C S S BARBAR,Cidade Satelite Santa Barbara,80
+C SATELITE,Cidade Satelite,81
+C SOCORRO,Capela do Socorro,82
+C TIRADENTES,Cidade Tiradentes,83
+C V ALTA,Casa Verde Alta,84
+C V BAIXA,Casa Verde Baixa,85
+C V MEDIA,Casa Verde Media,86
+C VARGAS,Cidade Vargas,87
+C VERDE,Casa Verde,88
+CACHOEIRINHA,Cachoeirinha,89
+CAMBUCI,Cambuci,90
+CAMPININHA,Campininha,91
+CANGAIBA,Cangaiba,92
+CANINDE,Caninde,93
+CANTAREIRA,Cantareira,94
+CARANDIRU,Carandiru,95
+CARRAO,Carrao,96
+CATUMBI,Catumbi,97
+CAXINGUI,Caxingui,98
+CENTRO,Centro,99
+CH 6 OUTUBRO,Chácara Seis de Outubro,100
+CH BANDEIRAN,Chácara Bandeirantes,101
+CH BELENZINH,Chácara Belenzinho,102
+CH BSQ SUL,Chácara Bosque do Sul,103
+CH C SUL,Chácara Cruzeiro do Sul,104
+CH CALIFORNI,Chácara California,105
+CH COCAIA,Chácara Cocaia,106
+CH CORUJAS,Chácara das Corujas,107
+CH D OLIVIA,Chácara Dona Olivia,108
+CH ENCOSTO,Chácara do Encosto,109
+CH ENSEADA,Chácara da Enseada,110
+CH F GRANDE,Chácara Figueira Grande,111
+CH FLORA,Chácara Flora,112
+CH FLORIDA,Chácara Florida,113
+CH GAIVOTA,Chácara Gaivota,114
+CH INGLESA,Chácara Inglesa,115
+CH ITAIM,Chácara Itaim,116
+CH JAPONESA,Chácara Japonesa,117
+CH JARAGUA,Chácara Jaragua,118
+CH M TRINDAD,Chácara Maria Trindade,119
+CH MAFALDA,Chácara Mafalda,120
+CH MEYER,Chácara Meyer,121
+CH MRO ALTO,Chácara Morro Alto,122
+CH MTE ALEGR,Chácara Monte Alegre,123
+CH MTE SOL,Chácara Monte Sol,124
+CH N S APARE,Chácara Nossa Senhora Aparecida,125
+CH N S B CON,Chácara Nossa Senhora do Bom Cons,126
+CH NANI,Chácara Nani,127
+CH P ALEGRE,Chácara Pouso Alegre,128
+CH PAINEIRAS,Chácara das Paineiras,129
+CH PAIVA,Chácara Paiva,130
+CH PALMEIRAS,Chácara das Palmeiras,131
+CH PIRAJUSSA,Chácara Pirajussara,132
+CH S AMARO,Chácara Santo Amaro,133
+CH S ANTONIO,Chácara Santo Antonio,134
+CH S AZUL,Chácara Sonho Azul,135
+CH S ETELVIN,Chácara Santa Etelvina,136
+CH S HUBERTU,Chácara Santo Hubertus,137
+CH S JOAO,Chácara São Joao,138
+CH S LUIS,Chácara São Luis,139
+CH S MARIA,Chácara Santa Maria,140
+CH S SILVEST,Chácara São Silvestre,141
+CH SANTANA,Chácara Santana,142
+CH T MENINAS,Chácara Tres Meninas,143
+CH TATUAPE,Chácara Tatuape,144
+CH V ALEGRE,Chácara Vista Alegre,145
+CH VOVO,Chácara Vovo,146
+CHAPADA,Chapada,147
+CJ BANCARIOS,Conjunto dos Bancarios,148
+CJ H A E CAR,Conjunto Habitacional a e Carvalh,149
+CJ H A HAIA,Conjunto Habitacional Aguia de Ha,150
+CJ H B BC I,Conjunto Habitacional Barro Branc,151
+CJ H B BC II,Conjunto Habitacional Barro Branc,152
+CJ H B E GOM,Conjunto Habitacional Brigadeiro,153
+CJ H B F LIM,Conjunto Habitacional Brigadeiro,154
+CJ H B GRAND,Conjunto Habitacional Barreira Gr,155
+CJ H C ALVES,Conjunto Habitacional Castro Alve,156
+CJ H I ADVEN,Conjunto Habitacional Instituto A,157
+CJ H I MONTE,Conjunto Habitacional Inacio Mont,158
+CJ H J KUBIT,Conjunto Habitacional Juscelino K,159
+CJ H J RURAL,Conjunto Habitacional Jova Rural,160
+CJ H JD S BE,Conjunto Habitacional Jardim São,161
+CJ H JD S FE,Conjunto Habitacional Jardim Sant,162
+CJ H JD S FR,Conjunto Habitacional Jardim São,163
+CJ H M M MOR,Conjunto Habitacional Marechal Ma,164
+CJ H P J ANC,Conjunto Habitacional Padre Jose,165
+CJ H P M NOB,Conjunto Habitacional Padre Manoe,166
+CJ H P M PAI,Conjunto Habitacional Padre Manoe,167
+CJ H PIRAJUS,Conjunto Habitacional Pirajussara,168
+CJ H R HUMIL,Conjunto Habitacional Recanto dos,169
+CJ H S E I,Conjunto Habitacional Santa Etelv,170
+CJ H S E II,Conjunto Habitacional Santa Etelv,171
+CJ H S E III,Conjunto Habitacional Santa Etelv,172
+CJ H SIT CAR,Conjunto Habitacional Sítio Carag,173
+CJ H SIT CON,Conjunto Habitacional Sítio Conce,174
+CJ H T VILEL,Conjunto Habitacional Teotonio Vi,175
+CJ H VL N CA,Conjunto Habitacional Vila Nova C,176
+CJ P EST PAR,Conjunto Promorar Estrada da Para,177
+CJ P R CLARO,Conjunto Promorar Rio Claro,178
+CJ P R TAVAR,Conjunto Promorar Raposo Tavares,179
+CJ P S LUIS,Conjunto Promorar São Luis,180
+CJ P SAPOPEM,Conjunto Promorar Sapopemba,181
+CJ P VL MARI,Conjunto Promorar Vila Maria III,182
+CJ RES A JAR,Conjunto Residencial Alpes do Jar,183
+CJ RES BANDE,Conjunto Residencial Bandeirantes,184
+CJ RES BUTAN,Conjunto Residencial Butanta,185
+CJ RES E T L,Conjunto Residencial Elisio Teixe,186
+CJ RES INGAI,Conjunto Residencial Ingai,187
+CJ RES J BON,Conjunto Residencial Jose Bonifac,188
+CJ RES JD CA,Conjunto Residencial Jardim Canaa,189
+CJ RES MORUM,Conjunto Residencial Morumbi,190
+CJ RES N PAC,Conjunto Residencial Novo Pacaemb,191
+CJ RES P MAI,Conjunto Residencial Prestes Maia,192
+CJ RES PARAI,Conjunto Residencial Paraiso,193
+CJ RES PINHE,Conjunto Residencial Pinheirinho,194
+CJ RES S MAR,Conjunto Residencial Santa Maria,195
+CJ RES S TER,Conjunto Residencial Santa Terezi,196
+CJ RES S TOL,Conjunto Residencial Salvador Tol,197
+CJ RES SIT O,Conjunto Residencial Sítio Orator,198
+CJ RES V VER,Conjunto Residencial Vista Verde,199
+COLONIA,Colonia,200
+CONSOLACAO,Consolacao,201
+COPACABANA,Copacabana,202
+CPO BELO,Campo Belo,203
+CPO GRANDE,Campo Grande,204
+CPO LIMPO,Campo Limpo,205
+CUPECE,Cupece,206
+CURSINO,Cursino,207
+E GOULART,Engenheiro Goulart,208
+E JARAGUA,Estancia Jaragua,209
+E MARSILAC,Engenheiro Marsilac,210
+E MATARAZZO,Ermelino Matarazzo,211
+E MIRIM,Embu Mirim,212
+E TANGARA,Estancia Tangara,213
+E TRINDADE,Engenheiro Trindade,214
+EDUCANDARIO,Educandario,215
+ELDORADO,Eldorado,216
+EMBURA,Embura,217
+EST MIRIM,Estancia Mirim,218
+FAV VL N JAG,Favela Vila Nova Jaguare,219
+FAZ ARICANDU,Fazenda Aricanduva,220
+FAZ ITAIM,Fazenda Itaim,221
+FAZ JUTA,Fazenda Juta,222
+FAZ MORUMBI,Fazenda Morumbi,223
+FERREIRA,Ferreira,224
+FREGUESIA DO,Freguesia do o,225
+FURNAS,Furnas,226
+G PESSEGO,Gleba do Pessego,227
+GJA JULIETA,Granja Julieta,228
+GJA N S APAR,Granja Nossa Senhora Aparecida,229
+GRAJAU,Grajau,230
+GUACURI,Guacuri,231
+GUAIANAZES,Guaianazes,232
+GUAIAUNA,Guaiauna,233
+GUAPIRA,Guapira,234
+GUARAPIRANGA,Guarapiranga,235
+GUAVIRUTUBA,Guavirutuba,236
+H FLORESTAL,Horto Florestal,237
+HIGIENOPOLIS,Higienopolis,238
+HORTO,Horto,239
+I BIBI,Itaim Bibi,240
+I PAULISTA,Itaim Paulista,241
+I PREVIDENCI,Instituto de Previdencia,242
+IBIRAPUERA,Ibirapuera,243
+IGUATEMI,Iguatemi,244
+IMIRIM,Imirim,245
+INDIANOPOLIS,Indianopolis,246
+INTERLAGOS,Interlagos,247
+IPIRANGA,Ipiranga,248
+ITABERABA,Itaberaba,249
+ITAIM,Itaim,250
+ITAQUERA,Itaquera,251
+ITUPU,Itupu,252
+J BONIFACIO,Jose Bonifacio,253
+JABAQUARA,Jabaquara,254
+JACANA,Jacana,255
+JAGUARE,Jaguare,256
+JARAGUA,Jaragua,257
+JARDIM DO CO,Jardim do Colegio,258
+JD A ALVIM,Jardim Artur Alvim,259
+JD A BARROS,Jardim Adhemar de Barros,260
+JD A FRANCO,Jardim Analia Franco,261
+JD A LEONEL,Jardim Ataliba Leonel,262
+JD A LUCIA,Jardim Ana Lucia,263
+JD A MARIA,Jardim Ana Maria,264
+JD A PENHA,Jardim America da Penha,265
+JD A PRADO,Jardim Almeida Prado,266
+JD A ROSA,Jardim Ana Rosa,267
+JD ACACIAS,Jardim das Acacias,268
+JD ADELAIDE,Jardim Adelaide,269
+JD ADELFIORE,Jardim Adelfiore,270
+JD ADELIA,Jardim Adelia,271
+JD ADUTORA,Jardim Adutora,272
+JD AEROPORTO,Jardim Aeroporto,273
+JD AIDA,Jardim Aida,274
+JD AIMORE,Jardim Aimore,275
+JD ALADIM,Jardim Aladim,276
+JD ALAMOS,Jardim dos Alamos,277
+JD ALBANO,Jardim Albano,278
+JD ALFREDO,Jardim Alfredo,279
+JD ALMANARA,Jardim Almanara,280
+JD ALPINO,Jardim Alpino,281
+JD ALTEZA,Jardim Alteza,282
+JD ALTO,Jardim do Alto,283
+JD ALVA,Jardim Alva,284
+JD ALVARENGA,Jardim Alvarenga,285
+JD ALVINA,Jardim Alvina,286
+JD ALVIVERDE,Jardim Alviverde,287
+JD ALVORADA,Jardim Alvorada,288
+JD ALZIRA,Jardim Alzira,289
+JD AMALIA,Jardim Amalia,290
+JD AMARALINA,Jardim Amaralina,291
+JD AMERICA,Jardim America,292
+JD AMPLIACAO,Jardim Ampliacao,293
+JD ANCHIETA,Jardim Anchieta,294
+JD ANDARAI,Jardim Andarai,295
+JD ANGELA,Jardim Angela,296
+JD ANGELINA,Jardim Angelina,297
+JD ANHANGUER,Jardim Anhanguera,298
+JD ANTARTICA,Jardim Antartica,299
+JD APARECIDA,Jardim Aparecida,300
+JD APURA,Jardim Apura,301
+JD ARACATI,Jardim Aracati,302
+JD ARCO-IRIS,Jardim Arco-Iris,303
+JD ARICANDUV,Jardim Aricanduva,304
+JD ARIZE,Jardim Arize,305
+JD ARIZONA,Jardim Arizona,306
+JD ARPOADOR,Jardim Arpoador,307
+JD ASSUNCAO,Jardim Assuncao,308
+JD AT ALEGRE,Jardim Alto Alegre,309
+JD AT PEDROS,Jardim Alto Pedroso,310
+JD AT R BONI,Jardim Alto do Rio Bonito,311
+JD ATIBAIA,Jardim Atibaia,312
+JD ATLANTICO,Jardim Atlantico,313
+JD AUGUSTA,Jardim Augusta,314
+JD AUGUSTO,Jardim Augusto,315
+JD AURELIA,Jardim Aurelia,316
+JD AURELIO,Jardim Aurelio,317
+JD AURORA,Jardim Aurora,318
+JD AVELINO,Jardim Avelino,319
+JD AVENIDA,Jardim Avenida,320
+JD B CLIMA,Jardim Bom Clima,321
+JD B ESPERAN,Jardim Boa Esperanca,322
+JD B GATO,Jardim Borba Gato,323
+JD B PASTOR,Jardim Bom Pastor,324
+JD B REFUGIO,Jardim Bom Refugio,325
+JD B SORTE,Jardim Boa Sorte,326
+JD BAND,Jardim Bandeirante,327
+JD BANDEIRAS,Jardim das Bandeiras,328
+JD BANDS,Jardim Bandeirantes,329
+JD BARROS,Jardim Barros,330
+JD BARTIRA,Jardim Bartira,331
+JD BATALHA,Jardim Batalha,332
+JD BEATRIZ,Jardim Beatriz,333
+JD BELA VIST,Jardim Bela Vista,334
+JD BELAURA,Jardim Belaura,335
+JD BELCITO,Jardim Belcito,336
+JD BELEM,Jardim Belem,337
+JD BELGICA,Jardim Belgica,338
+JD BENFICA,Jardim Benfica,339
+JD BIBI,Jardim Bibi,340
+JD BICHINHOS,Jardim Bichinhos,341
+JD BOA VISTA,Jardim Boa Vista,342
+JD BONFIGLIO,Jardim Bonfiglioli,343
+JD BONITO,Jardim Bonito,344
+JD BOTUCATU,Jardim Botucatu,345
+JD BRASIL,Jardim Brasil,346
+JD BRASILIA,Jardim Brasilia,347
+JD BRITANIA,Jardim Britania,348
+JD BRONZATO,Jardim Bronzato,349
+JD BSQ SOL,Jardim Bosque do Sol,350
+JD BURITI,Jardim Buriti,351
+JD C ESTRADA,Jardim Cercado da Estrada,352
+JD C GRANDE,Jardim Casa Grande,353
+JD C JULHO,Jardim Cinco de Julho,354
+JD C LIBANO,Jardim Cedro do Libano,355
+JD C PINTADA,Jardim Casa Pintada,356
+JD C PIRITUB,Jardim Cidade Pirituba,357
+JD C REDONDO,Jardim Capao Redondo,358
+JD C REGINA,Jardim Clara Regina,359
+JD CABORE,Jardim Cabore,360
+JD CABUCU,Jardim Cabucu,361
+JD CACHOEIRA,Jardim Cachoeira,362
+JD CAGUASSU,Jardim Caguassu,363
+JD CAMARA,Jardim Camara,364
+JD CAMARGO,Jardim Camargo,365
+JD CAMBARA,Jardim Cambara,366
+JD CAMELIAS,Jardim das Camelias,367
+JD CAMPINA,Jardim da Campina,368
+JD CAMPINAS,Jardim Campinas,369
+JD CAMPO,Jardim do Campo,370
+JD CAMPOS,Jardim Campos,371
+JD CAPELA,Jardim Capela,372
+JD CAPELINHA,Jardim Capelinha,373
+JD CARAVELAS,Jardim Caravelas,374
+JD CARLU,Jardim Carlu,375
+JD CARMO,Jardim do Carmo,376
+JD CAROLINA,Jardim Carolina,377
+JD CAROMBE,Jardim Carombe,378
+JD CASABLANC,Jardim Casablanca,379
+JD CASTELO,Jardim Castelo,380
+JD CATALDIS,Jardim dos Cataldis,381
+JD CATANDUVA,Jardim Catanduva,382
+JD CATARINA,Jardim Catarina,383
+JD CECY I,Jardim Cecy I,384
+JD CECY II,Jardim Cecy II (Cod Bai - 01899),385
+JD CELESTE,Jardim Celeste,386
+JD CELIA,Jardim Celia,387
+JD CENTENARI,Jardim Centenario,388
+JD CENTRAL,Jardim Central,389
+JD CENTRO,Jardim do Centro,390
+JD CHESTER,Jardim Chester,391
+JD CIBELE,Jardim Cibele,392
+JD CIDALIA,Jardim Cidalia,393
+JD CIMOBIL,Jardim Cimobil,394
+JD CLARICE,Jardim Clarice,395
+JD CLAUDIA,Jardim Claudia,396
+JD CLEIDE,Jardim Cleide,397
+JD CLELIA,Jardim Clelia,398
+JD CLIMAX,Jardim Climax,399
+JD CLIPER,Jardim Cliper,400
+JD COIMBRA,Jardim Coimbra,401
+JD COLEGIO,Jardim Colegio,402
+JD COLINA,Jardim Colina,403
+JD COLOMBO,Jardim Colombo,404
+JD COLONIAL,Jardim Colonial,405
+JD COLORADO,Jardim Colorado,406
+JD COMERCIAL,Jardim Comercial,407
+JD CONCORDIA,Jardim Concordia,408
+JD CONQUISTA,Jardim da Conquista,409
+JD CONSORCIO,Jardim Consorcio,410
+JD CONSUPLER,Jardim Consupler,411
+JD COPACABAN,Jardim Copacabana,412
+JD CORDEIRO,Jardim Cordeiro,413
+JD COTCHING,Jardim Cotching,414
+JD COTIANA,Jardim Cotiana,415
+JD COTINHA,Jardim Cotinha,416
+JD CPO FERRE,Jardim Campo dos Ferreiros,417
+JD CPO GRAND,Jardim Campo Grande,418
+JD CPO LIMPO,Jardim Campo Limpo,419
+JD CRISTAL,Jardim Cristal,420
+JD CRISTALIA,Jardim Cristalia,421
+JD CRISTINA,Jardim Cristina,422
+JD CRUZEIRO,Jardim Cruzeiro,423
+JD CUPECE,Jardim Cupece,424
+JD D BOSCO,Jardim Dom Bosco,425
+JD D DEOLIND,Jardim Dona Deolinda,426
+JD D FERNAND,Jardim Dom Fernando,427
+JD D JOSE,Jardim Dom Jose,428
+JD D SINHA,Jardim Dona Sinha,429
+JD DA GLORIA,Jardim da Gloria,430
+JD DA LARANJ,Jardim da Laranjeira,431
+JD DA SAUDE,Jardim da Saude,432
+JD D'ABRIL,Jardim D'abril,433
+JD DALMO,Jardim Dalmo,434
+JD DAMASCENO,Jardim Damasceno,435
+JD DANFER,Jardim Danfer,436
+JD DAS LARAN,Jardim das Laranjeiras,437
+JD DAYSY,Jardim Daysy,438
+JD DENYSE,Jardim Denyse,439
+JD DEOLINDA,Jardim Deolinda,440
+JD DINORAH,Jardim Dinorah,441
+JD DIOMAR,Jardim Diomar,442
+JD DIONISIO,Jardim Dionisio,443
+JD DIVINO,Jardim do Divino,444
+JD DO RUSSO,Jardim do Russo,445
+JD DOMITILA,Jardim Domitila,446
+JD DONARIA,Jardim Donaria,447
+JD DOS BICHI,Jardim dos Bichinhos,448
+JD DOS PINHE,Jardim dos Pinheiros,449
+JD DRACENA,Jardim Dracena,450
+JD DRUMOND,Jardim Drumond,451
+JD DUPRAT,Jardim Duprat,452
+JD E MARIA,Jardim Elisa Maria,453
+JD E VISCONT,Jardim Engenheiro Visconti,454
+JD E YOLANDA,Jardim Ester Yolanda,455
+JD EDDA,Jardim Edda,456
+JD EDI,Jardim Edi,457
+JD EDILENE,Jardim Edilene,458
+JD EDITH,Jardim Edith,459
+JD EDWIGES,Jardim Edwiges,460
+JD EGLE,Jardim Egle,461
+JD ELBA,Jardim Elba,462
+JD ELEDY,Jardim Eledy,463
+JD ELIANA-A,Jardim Eliana-a,464
+JD ELIANE,Jardim Eliane,465
+JD ELISIO,Jardim Elisio,466
+JD ELIZA,Jardim Eliza,467
+JD ELIZABETH,Jardim Elizabeth,468
+JD ELLUS,Jardim Ellus,469
+JD ELZA,Jardim Elza,470
+JD EMILIA,Jardim Emilia,471
+JD ERNESTINA,Jardim Ernestina,472
+JD ESMRLDA,Jardim Esmeralda,473
+JD ESMRLDAS,Jardim das Esmeraldas,474
+JD ESPERANCA,Jardim Esperanca,475
+JD ESTADOS,Jardim dos Estados,476
+JD ESTER,Jardim Ester,477
+JD ESTRELA,Jardim Estrela,478
+JD ETELVINA,Jardim Etelvina,479
+JD EUCALIPTO,Jardim dos Eucaliptos,480
+JD EUROPA,Jardim Europa,481
+JD EVA,Jardim Eva,482
+JD EVEREST,Jardim Everest,483
+JD F GRANDE,Jardim Figueira Grande,484
+JD F LIMA,Jardim Faria Lima,485
+JD F MENTEM,Jardim Francisco Mentem,486
+JD F PAULIST,Jardim Florida Paulista,487
+JD F SEMANA,Jardim Fim de Semana,488
+JD FELICIDAD,Jardim Felicidade,489
+JD FERNANDES,Jardim Fernandes,490
+JD FLAMINGO,Jardim Flamingo,491
+JD FLORES,Jardim das Flores,492
+JD FLORESTA,Jardim Floresta,493
+JD FLUMINENS,Jardim Fluminense,494
+JD FNT MORUM,Jardim Fonte do Morumbi,495
+JD FNT S MIG,Jardim Fonte São Miguel,496
+JD FRANCA,Jardim Franca,497
+JD FRANCOS,Jardim dos Francos,498
+JD FRANGANIE,Jardim Franganielo,499
+JD FRATERNID,Jardim Fraternidade,500
+JD FUJIHARA,Jardim Fujihara,501
+JD G MARIA,Jardim Gilda Maria,502
+JD GALLI,Jardim Galli,503
+JD GERMANIA,Jardim Germania,504
+JD GIANETTI,Jardim Gianetti,505
+JD GILBERTO,Jardim Gilberto,506
+JD GLORIA,Jardim Gloria,507
+JD GONZAGA,Jardim Gonzaga,508
+JD GRACAS,Jardim das Gracas,509
+JD GRIMALDI,Jardim Grimaldi,510
+JD GUACURI,Jardim Guacuri,511
+JD GUAIANAZE,Jardim Guaianazes,512
+JD GUAIRACA,Jardim Guairaca,513
+JD GUANABARA,Jardim Guanabara,514
+JD GUANCA,Jardim Guanca,515
+JD GUANHEMBU,Jardim Guanhembu,516
+JD GUAPIRA,Jardim Guapira,517
+JD GUARANI,Jardim Guarani,518
+JD GUARAPIRA,Jardim Guarapiranga,519
+JD GUARAU,Jardim Guarau,520
+JD GUARUJA,Jardim Guaruja,521
+JD GUEDALA,Jardim Guedala,522
+JD GUIOMAR,Jardim Guiomar,523
+JD GUSTAVO,Jardim Gustavo,524
+JD H AZUL,Jardim Horizonte Azul,525
+JD H CARRAO,Jardim Haia do Carrao,526
+JD H FLOREST,Jardim Horto Florestal,527
+JD H NASTARI,Jardim Humberto Nastari,528
+JD HADAD,Jardim Hadad,529
+JD HARMONIA,Jardim Harmonia,530
+JD HELENA,Jardim Helena,531
+JD HELGA,Jardim Helga,532
+JD HELIAN,Jardim Helian,533
+JD HELIOMAR,Jardim Heliomar,534
+JD HELOISA,Jardim Heloisa,535
+JD HERCILIA,Jardim Hercilia,536
+JD HERCULANO,Jardim Herculano,537
+JD HERPLIN,Jardim Herplin,538
+JD HIPICO,Jardim Hipico,539
+JD HUMAITA,Jardim Humaita,540
+JD I GUEDES,Jardim Ida Guedes,541
+JD IAE,Jardim Iae,542
+JD IARA,Jardim Iara,543
+JD IBIRAPUER,Jardim Ibirapuera,544
+JD IBIRATIBA,Jardim Ibiratiba,545
+JD IBITIRAMA,Jardim Ibitirama,546
+JD ICARA,Jardim Icara,547
+JD ICARAI,Jardim Icarai,548
+JD IDEAL,Jardim Ideal,549
+JD IGUATEMI,Jardim Iguatemi,550
+JD IMBE,Jardim Imbe,551
+JD IMBUIAS,Jardim das Imbuias,552
+JD IMPERADOR,Jardim Imperador,553
+JD IMPERIAL,Jardim Imperial,554
+JD IMPERIO,Jardim Imperio,555
+JD INDAIA,Jardim Indaia,556
+JD INDEPENDE,Jardim Independencia,557
+JD INGA,Jardim Inga,558
+JD INTERNACI,Jardim Internacional,559
+JD IPANEMA,Jardim Ipanema,560
+JD IPE,Jardim Ipe,561
+JD IPES,Jardim dos Ipes,562
+JD IPORA,Jardim Ipora,563
+JD IPORANGA,Jardim Iporanga,564
+JD IRACEMA,Jardim Iracema,565
+JD IRAPIRANG,Jardim Irapiranga,566
+JD IRENE,Jardim Irene,567
+JD IRIS,Jardim Iris,568
+JD ITACOLOMI,Jardim Itacolomi,569
+JD ITAGUACU,Jardim Itaguacu,570
+JD ITAJAI,Jardim Itajai,571
+JD ITALIA,Jardim Italia,572
+JD ITAMARATY,Jardim Itamaraty,573
+JD ITAOCA,Jardim Itaoca,574
+JD ITAPEMIRI,Jardim Itapemirim,575
+JD ITAPEVA,Jardim Itapeva,576
+JD ITAPOLIS,Jardim Itapolis,577
+JD ITAPURA,Jardim Itapura,578
+JD ITATIAIA,Jardim Itatiaia,579
+JD ITATINGA,Jardim Itatinga,580
+JD IVA,Jardim Iva,581
+JD IVANA,Jardim Ivana,582
+JD IVETE,Jardim Ivete,583
+JD IVONE,Jardim Ivone,584
+JD J D ARC,Jardim Joana D Arc,585
+JD JABAQUARA,Jardim Jabaquara,586
+JD JACANA,Jardim Jacana,587
+JD JACARANDA,Jardim dos Jacarandas,588
+JD JAMAICA,Jardim Jamaica,589
+JD JAPAO,Jardim Japao,590
+JD JAQUELINE,Jardim Jaqueline,591
+JD JARAGUA,Jardim Jaragua,592
+JD JAU,Jardim Jau,593
+JD JERIVA,Jardim Jeriva,594
+JD JOAMAR,Jardim Joamar,595
+JD JOAO XXII,Jardim Joao Xxiii,596
+JD JOIA,Jardim Joia,597
+JD JORDAO,Jardim Jordao,598
+JD JUA,Jardim Jua,599
+JD JULIETA,Jardim Julieta,600
+JD JUREMA,Jardim Jurema,601
+JD JUSSARA,Jardim Jussara,602
+JD KAGOHARA,Jardim Kagohara,603
+JD KAJ,Jardim Kaj,604
+JD KERALUX,Jardim Keralux,605
+JD KIKA,Jardim Kika,606
+JD KIOTO,Jardim Kioto,607
+JD L ANGELES,Jardim Los Angeles,608
+JD L CASTRO,Jardim Lucio de Castro,609
+JD L M BARRO,Jardim Leonor Mendes de Barros,610
+JD L MOREIRA,Jardim Leonidas Moreira,611
+JD L S PAULO,Jardim Lar São Paulo,612
+JD LAGEADO,Jardim Lageado,613
+JD LAGO,Jardim do Lago,614
+JD LAGOS,Jardim dos Lagos,615
+JD LALLO,Jardim Lallo,616
+JD LAONE,Jardim Laone,617
+JD LAPENA,Jardim Lapena,618
+JD LARANJAL,Jardim Laranjal,619
+JD LARANJEIR,Jardim Laranjeiras,620
+JD LAURA,Jardim Laura,621
+JD LEILA,Jardim Leila,622
+JD LEME,Jardim Leme,623
+JD LENI,Jardim Leni,624
+JD LEONARDO,Jardim Leonardo,625
+JD LEONOR,Jardim Leonor,626
+JD LETICIA,Jardim Leticia,627
+JD LIBANO,Jardim Libano,628
+JD LICE,Jardim Lice,629
+JD LIDER,Jardim Lider,630
+JD LIDERANCA,Jardim Lideranca,631
+JD LIDIA,Jardim Lidia,632
+JD LILAH,Jardim Lilah,633
+JD LISBOA,Jardim Lisboa,634
+JD LONDRINA,Jardim Londrina,635
+JD LORENZO,Jardim de Lorenzo,636
+JD LOURDES,Jardim Lourdes,637
+JD LUANDA,Jardim Luanda,638
+JD LUCELIA,Jardim Lucelia,639
+JD LUCIA,Jardim Lucia,640
+JD LUCIANA,Jardim Luciana,641
+JD LUCINDA,Jardim Lucinda,642
+JD LUGO,Jardim Lugo,643
+JD LUISA,Jardim Luisa,644
+JD LUSO,Jardim Luso,645
+JD LUZITANIA,Jardim Luzitania,646
+JD M AMALIA,Jardim Maria Amalia,647
+JD M BELO,Jardim Monte Belo,648
+JD M DUARTE,Jardim Maria Duarte,649
+JD M EMILIA,Jardim Maria Emilia,650
+JD M ESTELA,Jardim Maria Estela,651
+JD M FERNAND,Jardim Maria Fernandes,652
+JD M LUCIA,Jardim Maria Lucia,653
+JD M LUIZA,Jardim Maria Luiza,654
+JD M MARGARI,Jardim Maria Margarida,655
+JD M NAZARE,Jardim Maria Nazare,656
+JD M PAULO,Jardim Marco Paulo,657
+JD M PRADO,Jardim Morais Prado,658
+JD M RITA,Jardim Maria Rita,659
+JD M SAMPAIO,Jardim Maria Sampaio,660
+JD M SILVA,Jardim Martins Silva,661
+JD M VIRGINI,Jardim Maria Virginia,662
+JD MABEL,Jardim Mabel,663
+JD MACEDONIA,Jardim Macedonia,664
+JD MACHADO,Jardim Machado,665
+JD MAGGI,Jardim Maggi,666
+JD MAIA,Jardim Maia,667
+JD MALIA I,Jardim Malia I,668
+JD MALIA II,Jardim Malia II,669
+JD MANACAS,Jardim dos Manacas,670
+JD MANGALOT,Jardim Mangalot,671
+JD MARABA,Jardim Maraba,672
+JD MARACA,Jardim Maraca,673
+JD MARACANA,Jardim Maracana,674
+JD MARAJOARA,Jardim Marajoara,675
+JD MARCEL,Jardim Marcel,676
+JD MARCELO,Jardim Marcelo,677
+JD MARCIANO,Jardim Marciano,678
+JD MARGARIDA,Jardim Margarida,679
+JD MARIANE,Jardim Mariane,680
+JD MARILDA,Jardim Marilda,681
+JD MARILIA,Jardim Marilia,682
+JD MARILIZA,Jardim Mariliza,683
+JD MARILU,Jardim Marilu,684
+JD MARINA,Jardim Marina,685
+JD MARINGA,Jardim Maringa,686
+JD MARISA,Jardim Marisa,687
+JD MARISTELA,Jardim Maristela,688
+JD MARPU,Jardim Marpu,689
+JD MARQUESA,Jardim Marquesa,690
+JD MARTHA,Jardim Martha,691
+JD MARTINI,Jardim Martini,692
+JD MARTINICA,Jardim Martinica,693
+JD MASCARENH,Jardim Mascarenhas,694
+JD MATARAZZO,Jardim Matarazzo,695
+JD MAZZA,Jardim Mazza,696
+JD MELIUNAS,Jardim Meliunas,697
+JD MELO,Jardim Melo,698
+JD MIKAIL,Jardim Mikail,699
+JD MIMAR,Jardim Mimar,700
+JD MIRAGAIA,Jardim Miragaia,701
+JD MIRANTE,Jardim Mirante,702
+JD MIRIAM,Jardim Miriam,703
+JD MITSUTANI,Jardim Mitsutani,704
+JD MODELO,Jardim Modelo,705
+JD MONICA,Jardim Monica,706
+JD MONJOLO,Jardim Monjolo,707
+JD MORENO,Jardim Moreno,708
+JD MORGANTI,Jardim Morganti,709
+JD MORUMBI,Jardim Morumbi,710
+JD MRO VERDE,Jardim Morro Verde,711
+JD MTE ALEGR,Jardim Monte Alegre,712
+JD MTE AZUL,Jardim Monte Azul,713
+JD MTE KEMEL,Jardim Monte Kemel,714
+JD MUTINGA,Jardim Mutinga,715
+JD MYRNA,Jardim Myrna,716
+JD N BRASILI,Jardim Nova Brasilia,717
+JD N CARRAO,Jardim Novo Carrao,718
+JD N COLONIA,Jardim Nova Colonia,719
+JD N GERMANI,Jardim Nova Germania,720
+JD N GUAIANA,Jardim Nova Guaianazes,721
+JD N HORIZON,Jardim Novo Horizonte,722
+JD N JULHO,Jardim Nove de Julho,723
+JD N LAR,Jardim Nosso Lar,724
+JD N MUNDO,Jardim Novo Mundo,725
+JD N PARELHE,Jardim Novo Parelheiros,726
+JD N S AMARO,Jardim Novo Santo Amaro,727
+JD N S CARMO,Jardim Nossa Senhora do Carmo,728
+JD N SALEM,Jardim Nagib Salem,729
+JD N TABOAO,Jardim Novo Taboao,730
+JD N TEREZA,Jardim Nova Tereza,731
+JD NADIR,Jardim Nadir,732
+JD NAIR,Jardim Nair,733
+JD NAKAMURA,Jardim Nakamura,734
+JD NAMBA,Jardim Namba,735
+JD NARDINI,Jardim Nardini,736
+JD NASTARI,Jardim Nastari,737
+JD NATAL,Jardim Natal,738
+JD NAUFAL,Jardim Naufal,739
+JD NAZARETH,Jardim Nazareth,740
+JD NEIDE,Jardim Neide,741
+JD NEILA,Jardim Neila,742
+JD NELIA,Jardim Nelia,743
+JD NELIA I,Jardim Nelia I,744
+JD NELIA II,Jardim Nelia II,745
+JD NELIA III,Jardim Nelia III,746
+JD NELIA IV,Jardim Nelia IV,747
+JD NELIA V,Jardim Nelia IV (Cod Bai - 18546),748
+JD NELLY,Jardim Nelly,749
+JD NICE,Jardim Nice,750
+JD NITEROI,Jardim Niteroi,751
+JD NIZIA,Jardim Nizia,752
+JD NOEMIA,Jardim Noemia,753
+JD NORDESTE,Jardim Nordeste,754
+JD NORMA,Jardim Norma,755
+JD NORONHA,Jardim Noronha,756
+JD ODETE,Jardim Odete,757
+JD OLINDA,Jardim Olinda,758
+JD OLIVEIRAS,Jardim das Oliveiras,759
+JD OLYMPIA,Jardim Olympia,760
+JD ONDINA,Jardim Ondina,761
+JD ORBAM,Jardim Orbam,762
+JD ORIENTAL,Jardim Oriental,763
+JD ORION,Jardim Orion,764
+JD ORLY,Jardim Orly,765
+JD ORMENDINA,Jardim Ormendina,766
+JD OUTONO,Jardim Outono,767
+JD P AFONSO,Jardim Paulo Afonso,768
+JD P ALEGRE,Jardim Pouso Alegre,769
+JD P BORBA,Jardim Paulo Borba,770
+JD P BRANCA,Jardim Pedra Branca,771
+JD P D'OESTE,Jardim Panorama D'oeste,772
+JD P GRANDE,Jardim Porteira Grande,773
+JD P J NUNES,Jardim Pedro Jose Nunes,774
+JD P LEITE,Jardim Pereira Leite,775
+JD P PERI,Jardim Peri Peri,776
+JD PALMARES,Jardim Palmares,777
+JD PALMAS,Jardim das Palmas,778
+JD PALMEIRAS,Jardim das Palmeiras,779
+JD PANORAMA,Jardim Panorama,780
+JD PAQUETA,Jardim Paqueta,781
+JD PARA,Jardim para,782
+JD PARAGUACU,Jardim Paraguacu,783
+JD PARIS,Jardim Paris,784
+JD PAT NOVO,Jardim Patente Novo,785
+JD PATENTE,Jardim Patente,786
+JD PAULICEIA,Jardim Pauliceia,787
+JD PAULISTA,Jardim Paulista,788
+JD PAULISTAN,Jardim Paulistano,789
+JD PAULO VI,Jardim Paulo VI,790
+JD PEDRAS,Jardim das Pedras,791
+JD PEDREIRA,Jardim Pedreira,792
+JD PENHA,Jardim Penha,793
+JD PERI,Jardim Peri,794
+JD PERI NOVO,Jardim Peri Novo,795
+JD PERUS,Jardim Perus,796
+JD PETISCO,Jardim Petisco,797
+JD PETROPOLI,Jardim Petropolis,798
+JD PICOLO,Jardim Picolo,799
+JD PINHEIROS,Jardim Pinheiros,800
+JD PIQUERI,Jardim Piqueri,801
+JD PIQUEROBY,Jardim Piqueroby,802
+JD PIRACEMA,Jardim Piracema,803
+JD PIRACUAMA,Jardim Piracuama,804
+JD PIRAJUSSA,Jardim Pirajussara,805
+JD PIRATININ,Jardim Piratininga,806
+JD PIRITUBA,Jardim Pirituba,807
+JD PLANALTO,Jardim Planalto,808
+JD PONGILUTT,Jardim Pongilutti,809
+JD POPULAR,Jardim Popular,810
+JD PRADOS,Jardim dos Prados,811
+JD PRAIAS,Jardim das Praias,812
+JD PRESIDENC,Jardim Presidencia,813
+JD PRESIDENT,Jardim Presidente,814
+JD PREVIDENC,Jardim Previdencia,815
+JD PRIMAVERA,Jardim Primavera,816
+JD PRINCESA,Jardim Princesa,817
+JD PROGRESSO,Jardim Progresso,818
+JD PROMISSão,Jardim PromisSão,819
+JD PRQ MORUM,Jardim Parque Morumbi,820
+JD PRUDENCIA,Jardim Prudencia,821
+JD PTE RASA,Jardim Ponte Rasa,822
+JD Q CENTENA,Jardim Quarto Centenario,823
+JD QUISISANA,Jardim Quisisana,824
+JD R AUREA,Jardim Regina Aurea,825
+JD R BONITO,Jardim Rio Bonito,826
+JD R DOURO,Jardim Rio Douro,827
+JD R MARIA,Jardim Rosa Maria,828
+JD R PEQUENO,Jardim Rio Pequeno,829
+JD R PIRANI,Jardim Rodolfo Pirani,830
+JD R TAVARES,Jardim Raposo Tavares,831
+JD RAMALA,Jardim Ramala,832
+JD REAL,Jardim Real,833
+JD REC SOL,Jardim Recanto do Sol,834
+JD RECORD,Jardim Record,835
+JD RECREIO,Jardim Recreio,836
+JD REDENCAO,Jardim Redencao,837
+JD REDIL,Jardim Redil,838
+JD REGINA,Jardim Regina,839
+JD REGIS,Jardim Regis,840
+JD REIMBERG,Jardim Reimberg,841
+JD REMO,Jardim Remo,842
+JD REPRESA,Jardim Represa,843
+JD REPUBLICA,Jardim Republica,844
+JD RICARDO,Jardim Ricardo,845
+JD RINCAO,Jardim Rincao,846
+JD RIVIERA,Jardim Riviera,847
+JD RIZZO,Jardim Rizzo,848
+JD ROBRU,Jardim Robru,849
+JD ROMANO,Jardim Romano,850
+JD RONI,Jardim Roni,851
+JD ROSALINA,Jardim Rosalina,852
+JD ROSANA,Jardim Rosana,853
+JD ROSAS,Jardim das Rosas,854
+JD ROSELI,Jardim Roseli,855
+JD ROSIDER,Jardim Rosider,856
+JD ROSINA,Jardim Rosina,857
+JD ROSSIN,Jardim Rossin,858
+JD RUBILENE,Jardim Rubilene,859
+JD RUBIO,Jardim Rubio,860
+JD RUSSO,Jardim Russo,861
+JD RUTH,Jardim Ruth,862
+JD S ADELIA,Jardim Santa Adelia,863
+JD S ALBERTO,Jardim Santo Alberto,864
+JD S AMARO,Jardim Santo Amaro,865
+JD S ANDRE,Jardim Santo Andre,866
+JD S ANTONIN,Jardim Santo Antoninho,867
+JD S ANTONIO,Jardim Santo Antonio,868
+JD S B NOVO,Jardim São Bento Novo,869
+JD S BARBARA,Jardim Santa Barbara,870
+JD S BENEDIT,Jardim São Benedito,871
+JD S BENTO,Jardim São Bento,872
+JD S BERNARD,Jardim São Bernardo,873
+JD S BRANCA,Jardim Santa Branca,874
+JD S CARLOS,Jardim São Carlos,875
+JD S CECILIA,Jardim Santa Cecilia,876
+JD S CORACAO,Jardim Sagrado Coracao,877
+JD S CRISTOV,Jardim São Cristovao,878
+JD S CRUZ,Jardim Santa Cruz,879
+JD S DOMINGO,Jardim São Domingos,880
+JD S DUMONT,Jardim Santos Dumont,881
+JD S EDWIGES,Jardim Santa Edwiges,882
+JD S EFIGENI,Jardim Santa Efigenia,883
+JD S ELIAS,Jardim Santo Elias,884
+JD S EMILIA,Jardim Santa Emilia,885
+JD S ETELVIN,Jardim Santa Etelvina,886
+JD S F ASSIS,Jardim São Francisco de Assis,887
+JD S F CABRI,Jardim Santa Francisca Cabrini,888
+JD S FE,Jardim Santa Fe,889
+JD S FILOMEN,Jardim Santa Filomena,890
+JD S FRANCIS,Jardim São Francisco,891
+JD S GABRIEL,Jardim São Gabriel,892
+JD S GERTRUD,Jardim Santa Gertrudes,893
+JD S GONCALO,Jardim São Goncalo,894
+JD S HELENA,Jardim Santa Helena,895
+JD S INES,Jardim Santa Ines,896
+JD S INGA,Jardim Sonia Inga,897
+JD S ITAIM,Jardim Sabia do Itaim,898
+JD S J TADEU,Jardim São Judas Tadeu,899
+JD S JANUARI,Jardim São Januario,900
+JD S JOAO,Jardim São Joao,901
+JD S JOAQUIM,Jardim São Joaquim,902
+JD S JORGE,Jardim São Jorge,903
+JD S JOSE,Jardim São Jose,904
+JD S JOSEFIN,Jardim Santa Josefina,905
+JD S KEMEL,Jardim S Kemel,906
+JD S LOURENC,Jardim São Lourenco,907
+JD S LUCRECI,Jardim Santa Lucrecia,908
+JD S LUIS,Jardim São Luis,909
+JD S LUISA,Jardim Santa Luisa,910
+JD S MANOEL,Jardim São Manoel,911
+JD S MARCELI,Jardim Santa Marcelina,912
+JD S MARGARI,Jardim Santa Margarida,913
+JD S MARLY,Jardim Sonia Marly,914
+JD S MARTINH,Jardim São Martinho,915
+JD S MATEUS,Jardim São Mateus,916
+JD S MIGUEL,Jardim São Miguel,917
+JD S MONICA,Jardim Santa Monica,918
+JD S NICOLAU,Jardim São Nicolau,919
+JD S ONOFRE,Jardim Santo Onofre,920
+JD S PAULO,Jardim São Paulo,921
+JD S PEDRO,Jardim São Pedro,922
+JD S RAFAEL,Jardim São Rafael,923
+JD S REGINA,Jardim Sonia Regina,924
+JD S REMO,Jardim São Remo,925
+JD S RICARDO,Jardim São Ricardo,926
+JD S RITA,Jardim Santa Rita,927
+JD S ROBERTO,Jardim São Roberto,928
+JD S ROQUE,Jardim São Roque,929
+JD S S PAULO,Jardim Sul São Paulo,930
+JD S SAVERIO,Jardim São Saverio,931
+JD S SEBASTI,Jardim São Sebastiao,932
+JD S SETEMBR,Jardim Sete de Setembro,933
+JD S SILVEST,Jardim São Silvestre,934
+JD S TELES,Jardim Silva Teles,935
+JD S TERESIN,Jardim Santa Teresinha,936
+JD S TEREZA,Jardim Santa Tereza,937
+JD S TEREZIN,Jardim Santa Terezinha,938
+JD S VICENTE,Jardim São Vicente,939
+JD S VITOR,Jardim São Vitor,940
+JD S ZELIA,Jardim Santa Zelia,941
+JD SABARA,Jardim Sabara,942
+JD SAMAMBAIA,Jardim Samambaia,943
+JD SAMARA,Jardim Samara,944
+JD SAMAS,Jardim Samas,945
+JD SAN MAR,Jardim Sandra Maria,946
+JD SANDRA,Jardim Sandra,947
+JD SANTANA,Jardim Santana,948
+JD SAPOPEMBA,Jardim Sapopemba,949
+JD SARAH,Jardim Sarah,950
+JD SATELITE,Jardim Satelite,951
+JD SAUDE,Jardim Saude,952
+JD SCAFF,Jardim Scaff,953
+JD SECKLER,Jardim Seckler,954
+JD SELMA,Jardim Selma,955
+JD SENICE,Jardim Senice,956
+JD SERTAOZIN,Jardim Sertaozinho,957
+JD SHANGRILA,Jardim Shangrila,958
+JD SILVEIRA,Jardim Silveira,959
+JD SILVIA,Jardim Silvia,960
+JD SOARES,Jardim Soares,961
+JD SOL,Jardim do Sol,962
+JD SOLANGE,Jardim Solange,963
+JD SOMARA,Jardim Somara,964
+JD SONIA,Jardim Sonia,965
+JD SORAIA,Jardim Soraia,966
+JD SOUZA,Jardim Souza,967
+JD STA MARIA,Jardim Santa Maria,968
+JD SUZANA,Jardim Suzana,969
+JD SYDNEY,Jardim Sydney,970
+JD T CORACOE,Jardim Tres Coracoes,971
+JD T CRISTIN,Jardim Teresa Cristina,972
+JD T MARIAS,Jardim Tres Marias,973
+JD T POMBO,Jardim Tiro ao Pombo,974
+JD TABOAO,Jardim Taboao,975
+JD TAIPAS,Jardim Taipas,976
+JD TAMOIO,Jardim Tamoio,977
+JD TANAY,Jardim Tanay,978
+JD TANGO,Jardim Tango,979
+JD TAPERA,Jardim Tapera,980
+JD TAQUARAL,Jardim Taquaral,981
+JD TEIXEIRA,Jardim Teixeira,982
+JD TENANI,Jardim Tenani,983
+JD TERESA,Jardim Teresa,984
+JD TEXTIL,Jardim Textil,985
+JD THEALIA,Jardim Thealia,986
+JD THOMAZ,Jardim Thomaz,987
+JD TIETE,Jardim Tiete,988
+JD TIRO,Jardim do Tiro,989
+JD TOCA,Jardim Toca,990
+JD TREMEMBE,Jardim Tremembe,991
+JD TRIANA,Jardim Triana,992
+JD TRICOLOR,Jardim Tricolor,993
+JD TROPICAL,Jardim Tropical,994
+JD TRUSSARDI,Jardim Trussardi,995
+JD TUA,Jardim Tua,996
+JD TUPA,Jardim Tupa,997
+JD TUPI,Jardim Tupi,998
+JD TURQUESA,Jardim Turquesa,999
+JD UBERABA,Jardim Uberaba,1000
+JD UBIRAJARA,Jardim Ubirajara,1001
+JD UIRAPURU,Jardim Uirapuru,1002
+JD UMARIZAL,Jardim Umarizal,1003
+JD UMUARAMA,Jardim Umuarama,1004
+JD UNIAO,Jardim Uniao,1005
+JD UNIVERSAL,Jardim Universal,1006
+JD UNIVERSID,Jardim Universidade,1007
+JD UNIVERSIT,Jardim Universitario,1008
+JD V ALEGRE,Jardim Vista Alegre,1009
+JD V BIANCA,Jardim Virginia Bianca,1010
+JD V BOAS,Jardim Vilas Boas,1011
+JD V CRUZ,Jardim Vera Cruz,1012
+JD V ITAIM,Jardim Varginha do Itaim,1013
+JD V LIMA,Jardim Vaz de Lima,1014
+JD V LINDA,Jardim Vista Linda,1015
+JD V REGIA,Jardim Vitoria Regia,1016
+JD VALQUIRIA,Jardim Valquiria,1017
+JD VAZANI,Jardim Vazani,1018
+JD VERGUEIRO,Jardim Vergueiro,1019
+JD VERONICA,Jardim Veronica,1020
+JD VERTENTES,Jardim das Vertentes,1021
+JD VIANA,Jardim Viana,1022
+JD VIEIRA,Jardim Vieira,1023
+JD VILMA,Jardim Vilma,1024
+JD VIRGINIA,Jardim Virginia,1025
+JD VIVAN,Jardim Vivan,1026
+JD VL CARRAO,Jardim Vila Carrao,1027
+JD VL FORMOS,Jardim Vila Formosa,1028
+JD VL MARIAN,Jardim Vila Mariana,1029
+JD VL N PROG,Jardim Vila Nova Progresso,1030
+JD VLE RIBEI,Jardim Vale do Ribeira,1031
+JD VLE VIRTU,Jardim Vale das Virtudes,1032
+JD W FLOR,Jardim Wilma Flor,1033
+JD WANDA,Jardim Wanda,1034
+JD YARA,Jardim Yara,1035
+JD YMAY,Jardim Ymay,1036
+JD ZAIRA,Jardim Zaira,1037
+JD ZELIA,Jardim Zelia,1038
+JD ZILDA,Jardim Zilda,1039
+JORDANOPOLIS,Jordanopolis,1040
+JURUBATUBA,Jurubatuba,1041
+L BAIXO,Lapa de Baixo,1042
+L PAULISTA,Lauzane Paulista,1043
+LAGEADO,Lageado,1044
+LAPA,Lapa,1045
+LIBERDADE,Liberdade,1046
+LIMAO,Limao,1047
+LIMOEIRO,Limoeiro,1048
+LOT C JARAGU,Loteamento City Jaragua,1049
+LOT PRQ HORT,Loteamento Parque das Hortencias,1050
+LUZ,Luz,1051
+M FRIA,Mata Fria,1052
+M PAULISTA,Miami Paulista,1053
+M SOL,Morada do Sol,1054
+M VELHO,Moinho Velho,1055
+MANDAQUI,Mandaqui,1056
+MARANHAO,Maranhao,1057
+MIRANDOPOLIS,Mirandopolis,1058
+MOOCA,Mooca,1059
+MORUMBI,Morumbi,1060
+MRO GRANDE,Morro Grande,1061
+MRO INDIO,Morro do Indio,1062
+MRO INGLESES,Morro dos Ingleses,1063
+N C ARAUJO,Nucleo Carvalho de Araujo,1064
+N LAGEADO,Nucleo Lageado,1065
+N PIRAJU,Nova Piraju,1066
+NOSSA SENHOR,Nossa Senhora do o,1067
+P FRANCA,Penha de Franca,1068
+P PAULISTA,Planalto Paulista,1069
+P VL MARIA,Promorar Vila Maria,1070
+PACAEMBU,Pacaembu,1071
+PAINEIRAS DO,Paineiras do Morumbi,1072
+PARADA,Parada,1073
+PARAISO,Paraiso,1074
+PARAISO DO M,Paraiso do Morumbi,1075
+PARAISOPOLIS,Paraisopolis,1076
+PARELHEIROS,Parelheiros,1077
+PARI,Pari,1078
+PDA C SETE,Parada Cinquenta e Sete,1079
+PDA INGLESA,Parada Inglesa,1080
+PDA QUINZE,Parada Quinze,1081
+PEDREIRA,Pedreira,1082
+PERDIZES,Perdizes,1083
+PEREIRAS,Pereiras,1084
+PERUS,Perus,1085
+PINHEIROS,Pinheiros,1086
+PIQUERI,Piqueri,1087
+PIRAJUSSARA,Pirajussara,1088
+PIRAPORINHA,Piraporinha,1089
+PIRITUBA,Pirituba,1090
+POLVILHO,Polvilho,1091
+PQ CEREJEIRA,Parque das Cerejeiras,1092
+PR AZUL,Praia Azul,1093
+PR LAGOA,Praia da Lagoa,1094
+PR LEBLON,Praia do Leblon,1095
+PR PAULISTAN,Praias Paulistanas,1096
+PR PAULISTIN,Praia Paulistinha,1097
+PRO LEO,Parque Leo,1098
+PROTENDIT,Protendit,1099
+PRQ A ALVIM,Parque Artur Alvim,1100
+PRQ A LIMA,Parque Alves de Lima,1101
+PRQ AMAZONAS,Parque Amazonas,1102
+PRQ AMELIA,Parque Amelia,1103
+PRQ AMERICA,Parque America,1104
+PRQ ANHANGUE,Parque Anhanguera,1105
+PRQ ANHEMBI,Parque Anhembi,1106
+PRQ ARARIBA,Parque Arariba,1107
+PRQ ARVORES,Parque das Arvores,1108
+PRQ AT R BON,Parque Alto do Rio Bonito,1109
+PRQ ATLANTIC,Parque Atlantico,1110
+PRQ B ESPERA,Parque Boa Esperanca,1111
+PRQ B MORUMB,Parque Bairro Morumbi,1112
+PRQ BANCARIO,Parque dos Bancarios,1113
+PRQ BELEM,Parque Belem,1114
+PRQ BOLOGNE,Parque Bologne,1115
+PRQ BOTURUSS,Parque Boturussu,1116
+PRQ BRASIL,Parque Brasil,1117
+PRQ BRISTOL,Parque Bristol,1118
+PRQ C PEDRA,Parque Casa de Pedra,1119
+PRQ C SUL,Parque Cruzeiro do Sul,1120
+PRQ CARMO,Parque do Carmo,1121
+PRQ CENTRAL,Parque Central,1122
+PRQ CISPER,Parque Cisper,1123
+PRQ CLAUDIA,Parque Claudia,1124
+PRQ COCAIA,Parque Cocaia,1125
+PRQ COLONIAL,Parque Colonial,1126
+PRQ CONTINEN,Parque Continental,1127
+PRQ CRISTINA,Parque Cristina,1128
+PRQ D J NERI,Parque Dom Joao Neri,1129
+PRQ DA VL PR,Parque da Vila Prudente,1130
+PRQ DAS PAIN,Parque das Paineiras,1131
+PRQ DEIZY,Parque Deizy,1132
+PRQ DO CAST,Parque do Castelo,1133
+PRQ DOROTEIA,Parque Doroteia,1134
+PRQ E CHAVES,Parque Edu Chaves,1135
+PRQ ENGENHO,Parque do Engenho,1136
+PRQ ESMERALD,Parque Esmeralda,1137
+PRQ ESPERANC,Parque Esperanca,1138
+PRQ ESTADO,Parque do Estado,1139
+PRQ FERNANDA,Parque Fernanda,1140
+PRQ FLAMENGO,Parque Flamengo,1141
+PRQ FLORESTA,Parque Florestal,1142
+PRQ FONGARO,Parque Fongaro,1143
+PRQ GRAJAU,Parque Grajau,1144
+PRQ GUAIANAZ,Parque Guaianazes,1145
+PRQ GUARANI,Parque Guarani,1146
+PRQ I T EDSO,Parque Industrial Tomas Edson,1147
+PRQ IBIRAPUE,Parque Ibirapuera,1148
+PRQ IMPERIAL,Parque Imperial,1149
+PRQ INDEPEND,Parque Independencia,1150
+PRQ INDUSTRI,Parque Industrial,1151
+PRQ IPE,Parque Ipe,1152
+PRQ ITABERAB,Parque Itaberaba,1153
+PRQ JABAQUAR,Parque Jabaquara,1154
+PRQ JD MIRAS,Parque Jardim Mirassol,1155
+PRQ L MUCCIO,Parque Luis Mucciolo,1156
+PRQ L RICA,Parque Lagoa Rica,1157
+PRQ LAGO,Parque do Lago,1158
+PRQ LAGOINHA,Parque Lagoinha,1159
+PRQ LIGIA,Parque Ligia,1160
+PRQ M ALICE,Parque Maria Alice,1161
+PRQ M DOMITI,Parque Maria Domitila,1162
+PRQ M HELENA,Parque Maria Helena,1163
+PRQ M LUIZA,Parque Maria Luiza,1164
+PRQ M SOARES,Parque Monteiro Soares,1165
+PRQ MALAGOLI,Parque Malagoli,1166
+PRQ MANDAQUI,Parque Mandaqui,1167
+PRQ MANDI,Parque Mandi,1168
+PRQ MOOCA,Parque da Mooca,1169
+PRQ MORUMBI,Parque do Morumbi,1170
+PRQ MRO DOCE,Parque Morro Doce,1171
+PRQ MUCIOLO,Parque Muciolo,1172
+PRQ MUNHOZ,Parque Munhoz,1173
+PRQ N GRAJAU,Parque Novo Grajau,1174
+PRQ N LAR,Parque Novo Lar,1175
+PRQ N MUNDO,Parque Novo Mundo,1176
+PRQ N S AMAR,Parque Novo Santo Amaro,1177
+PRQ N UNIDAS,Parque Nacoes Unidas,1178
+PRQ OTERO,Parque do Otero,1179
+PRQ P AMERIC,Parque Pan Americano,1180
+PRQ PAINEIRA,Parque Paineiras,1181
+PRQ PAIOLZIN,Parque Paiolzinho,1182
+PRQ PAULISTA,Parque Paulistano,1183
+PRQ PENHA,Parque Penha,1184
+PRQ PEREIRA,Parque Pereira,1185
+PRQ PERUCHE,Parque Peruche,1186
+PRQ PETROPOL,Parque Petropolis,1187
+PRQ PLANALTO,Parque Planalto,1188
+PRQ PRIMAVER,Parque Primavera,1189
+PRQ PRINCIPE,Parque dos Principes,1190
+PRQ R ALVES,Parque Rodrigues Alves,1191
+PRQ R FREITA,Parque Ramos Freitas,1192
+PRQ REBOUCAS,Parque Reboucas,1193
+PRQ RECREIO,Parque Recreio,1194
+PRQ REGINA,Parque Regina,1195
+PRQ RES COCA,Parque Residencial Cocaia,1196
+PRQ RES D'AB,Parque Residencial D'abril,1197
+PRQ RES JULI,Parque Residencial Julia,1198
+PRQ RES LAGO,Parque Residencial dos Lagos,1199
+PRQ RES LAPA,Parque Residencial da Lapa,1200
+PRQ RES ORAT,Parque Residencial Oratorio,1201
+PRQ RES R BO,Parque Residencial Rio Bonito,1202
+PRQ S AMARO,Parque Santo Amaro,1203
+PRQ S AMELIA,Parque Santa Amelia,1204
+PRQ S ANTONI,Parque Santo Antonio,1205
+PRQ S BARBAR,Parque Santa Barbara,1206
+PRQ S CECI I,Parque Santa Cecilia (Cod Bai - 1,1207
+PRQ S CECILI,Parque Santa Cecilia,1208
+PRQ S CITY,Parque Savoi City,1209
+PRQ S DOMING,Parque São Domingos,1210
+PRQ S EDUARD,Parque Santo Eduardo,1211
+PRQ S JOAQUI,Parque São Joaquim,1212
+PRQ S JORGE,Parque São Jorge,1213
+PRQ S JOSE,Parque São Jose,1214
+PRQ S LOUREN,Parque São Lourenco,1215
+PRQ S LUCAS,Parque São Lucas,1216
+PRQ S LUIS,Parque São Luis,1217
+PRQ S MADALE,Parque Santa Madalena,1218
+PRQ S MIGUEL,Parque São Miguel,1219
+PRQ S PAULO,Parque São Paulo,1220
+PRQ S RAFAEL,Parque São Rafael,1221
+PRQ S RITA,Parque Santa Rita,1222
+PRQ SABARA,Parque Sabara,1223
+PRQ SANTANA,Parque Santana,1224
+PRQ SEVILHA,Parque Sevilha,1225
+PRQ SONIA,Parque Sonia,1226
+PRQ T LAGO,Parque do Terceiro Lago,1227
+PRQ T SARAIV,Parque Tomas Saraiva,1228
+PRQ TAIPAS,Parque Taipas,1229
+PRQ TAMARI,Parque Tamari,1230
+PRQ TIETE,Parque Tiete,1231
+PRQ U ESPIRI,Parque Universitario Espirita,1232
+PRQ VELOSO,Parque Veloso,1233
+PRQ VEREDAS,Parque Veredas,1234
+PRQ VITORIA,Parque Vitoria,1235
+PRQ VL MARIA,Parque Vila Maria,1236
+PRQ VL PRUDE,Parque Vila Prudente,1237
+PTE PEQUENA,Ponte Pequena,1238
+PTE RASA,Ponte Rasa,1239
+Q PARADA,Quarta Parada,1240
+QTA PAINEIRA,Quinta da Paineira,1241
+R BONITO,Rio Bonito,1242
+R PARQUE,Real Parque,1243
+R PAULISTA,Riviera Paulista,1244
+R PEQUENO,Rio Pequeno,1245
+R TAVARES,Raposo Tavares,1246
+RCH ABILIO,Rancho do Abilio,1247
+RCH GERALDO,Rancho Geraldo,1248
+REC A MARIA,Recanto Ana Maria,1249
+REC CPO BELO,Recanto Campo Belo,1250
+REC MARISA,Recanto Marisa,1251
+REC MTE ALEG,Recanto Monte Alegre,1252
+REC PARAISO,Recanto Paraiso,1253
+REC S ANTONI,Recanto Santo Antonio,1254
+REC SONHOS,Recanto dos Sonhos,1255
+REC V SOL,Recanto Verde do Sol,1256
+REPUBLICA,Republica,1257
+RER MORUMBI,Retiro Morumbi,1258
+RES BORORE,Residencial Borore,1259
+RES MORUMBI,Residencial Morumbi,1260
+RES S NASCEN,Residencial Sol Nascente,1261
+RES TAIPAS,Residencial Taipas,1262
+ROLINOPOLIS,Rolinopolis,1263
+S AMARO,Santo Amaro,1264
+S AMELIA,Santa Amelia,1265
+S CECILIA,Santa Cecilia,1266
+S DOMINGOS,São Domingos,1267
+S EFIGENIA,Santa Efigenia,1268
+S ETELVINA,Santa Etelvina,1269
+S INES,Santa Ines,1270
+S J CLIMARO,São Joao Climaro,1271
+S JUDAS,São Judas,1272
+S LUCAS,São Lucas,1273
+S M PAULISTA,São Miguel Paulista,1274
+S MARIA,Santa Maria,1275
+S MATEUS,São Mateus,1276
+S PRAIAS,Sete Praias,1277
+S Q MORUMBI,Super Quadra Morumbi,1278
+S SALVADOR,São Salvador,1279
+S TERESINHA,Santa Teresinha,1280
+SACOMA,Sacoma,1281
+SANTANA,Santana,1282
+SAPOPEMBA,Sapopemba,1283
+SAUDE,Saude,1284
+SE,SE,1285
+SICILIANO,Siciliano,1286
+SIT AREIAO,Sítio Areiao,1287
+SIT B VISTA,Sítio Boa Vista,1288
+SIT BARROCAD,Sítio Barrocada,1289
+SIT BOTUQUAR,Sítio Botuquara,1290
+SIT BUFALO,Sítio Bufalo,1291
+SIT C BRANCA,Sítio Canela Branca,1292
+SIT CARAGUAT,Sítio Caraguata,1293
+SIT COCAIA,Sítio Cocaia,1294
+SIT FIGUEIRA,Sítio da Figueira,1295
+SIT ITABERAB,Sítio Itaberaba I,1296
+SIT LAREDO,Sítio Laredo,1297
+SIT MANDAQUI,Sítio do Mandaqui,1298
+SIT MATSUMUR,Sítio Matsumura,1299
+SIT MORRO,Sítio do Morro,1300
+SIT MRO GRAN,Sítio Morro Grande,1301
+SIT PINHEIRI,Sítio Pinheirinho,1302
+SIT PIQUERI,Sítio do Piqueri,1303
+SIT PONDEROS,Sítio Ponderosa,1304
+SIT REPRESA,Sítio Represa,1305
+SIT TAPERA,Sítio Tapera,1306
+SIT VLE VERD,Sítio Vale Verde,1307
+SOCORRO,Socorro,1308
+SUMARE,Sumare,1309
+SUMAREZINHO,Sumarezinho,1310
+T CRUZES,Tres Cruzes,1311
+T D INTERLAG,Terceira DiviSão de Interlagos,1312
+T DIVISão,Terceira DiviSão,1313
+TAIPAS,Taipas,1314
+TAMBORE (BAR,Tambore (Barueri),1315
+TATUAPE,Tatuape,1316
+TREMEMBE,Tremembe,1317
+TUCURUVI,Tucuruvi,1318
+TUPARACOERA,Tuparacoera,1319
+U PIRATINING,Usina Piratininga,1320
+U VL NOVA,Uniao da Vila Nova,1321
+UMARIZAL,Umarizal,1322
+V ALEGRE,Vista Alegre,1323
+V VELHO,Valo Velho,1324
+VAR B FUNDA,Várzea da Barra Funda,1325
+VAR BAIXO,Várzea de Baixo,1326
+VELEIROS,Veleiros,1327
+VL A BRASILE,Vila Anglo Brasileira,1328
+VL A CLAUDIA,Vila Ana Claudia,1329
+VL A FRANCO,Vila Analia Franco,1330
+VL A FUNDA,Vila Agua Funda,1331
+VL A IVONE,Vila Aparecida Ivone,1332
+VL A ROSA,Vila Ana Rosa,1333
+VL A SANTOS,Vila Antonio dos Santos,1334
+VL ABC,Vila Abc,1335
+VL ACRE,Vila Acre,1336
+VL ADALGISA,Vila Adalgisa,1337
+VL ADEMAR,Vila Ademar,1338
+VL AGUEDA,Vila Agueda,1339
+VL AIMORE,Vila Aimore,1340
+VL ALABAMA,Vila Alabama,1341
+VL ALBA,Vila Alba,1342
+VL ALBANO,Vila Albano,1343
+VL ALBERTINA,Vila Albertina,1344
+VL ALEXANDRI,Vila Alexandria,1345
+VL ALMEIDA,Vila Almeida,1346
+VL ALPINA,Vila Alpina,1347
+VL ALTEZA,Vila Alteza,1348
+VL ALZIRA,Vila Alzira,1349
+VL AMALIA,Vila Amalia,1350
+VL AMELIA,Vila Amelia,1351
+VL AMERICA,Vila America,1352
+VL AMERICANA,Vila Americana,1353
+VL ANADIR,Vila Anadir,1354
+VL ANALIA,Vila Analia,1355
+VL ANASTACIO,Vila Anastacio,1356
+VL ANDES,Vila Andes,1357
+VL ANDRADAS,Vila dos Andradas,1358
+VL ANDRADE,Vila Andrade,1359
+VL ANDRADES,Vila dos Andrades,1360
+VL ANGELICA,Vila Angelica,1361
+VL ANGELINA,Vila Angelina,1362
+VL ANHANGUER,Vila Anhanguera,1363
+VL ANTONIETA,Vila Antonieta,1364
+VL ANTONINA,Vila Antonina,1365
+VL ANTONIO,Vila Antonio,1366
+VL APARECIDA,Vila Aparecida,1367
+VL APOENA,Vila Apoena,1368
+VL ARAGUAIA,Vila Araguaia,1369
+VL ARAPUA,Vila Arapua,1370
+VL ARCADIA,Vila Arcadia,1371
+VL ARICANDUV,Vila Aricanduva,1372
+VL ARIETE,Vila Ariete,1373
+VL ARRUDA,Vila Arruda,1374
+VL AUGUSTO,Vila Augusto,1375
+VL AUREA,Vila Aurea,1376
+VL AURORA,Vila Aurora,1377
+VL AZEVEDO,Vila Azevedo,1378
+VL B AIRES,Vila Buenos Aires,1379
+VL B ALIANCA,Vila Bela Alianca,1380
+VL B HORIZON,Vila Belo Horizonte,1381
+VL B JARDIM,Vila Bom Jardim,1382
+VL B MACHADO,Vila Brasilio Machado,1383
+VL B MUNHOZ,Vila Bancaria Munhoz,1384
+VL B NOVA,Vila Bonilha Nova,1385
+VL B SAPOPEM,Vila Bela do Sapopemba,1386
+VL B VISTA,Vila Bela Vista,1387
+VL BABILONIA,Vila Babilonia,1388
+VL BABY,Vila Baby,1389
+VL BANCARIA,Vila Bancaria,1390
+VL BANDEIRAN,Vila Bandeirantes,1391
+VL BARBARA,Vila Barbara,1392
+VL BARBOSA,Vila Barbosa,1393
+VL BARRETO,Vila Barreto,1394
+VL BARUEL,Vila Baruel,1395
+VL BASILEIA,Vila Basileia,1396
+VL BAUAB,Vila Bauab,1397
+VL BEATRIZ,Vila Beatriz,1398
+VL BELA,Vila Bela,1399
+VL BELEZAS,Vila das Belezas,1400
+VL BERTIOGA,Vila Bertioga,1401
+VL BIANCA,Vila Bianca,1402
+VL BOACAVA,Vila Boacava,1403
+VL BONILHA,Vila Bonilha,1404
+VL BORGES,Vila Borges,1405
+VL BOSQUE,Vila do Bosque,1406
+VL BOTONI,Vila Botoni,1407
+VL BOZZINI,Vila Bozzini,1408
+VL BRASIL,Vila Brasil,1409
+VL BRASILAND,Vila Brasilandia,1410
+VL BRASILIA,Vila Brasilia,1411
+VL BRASILINA,Vila Brasilina,1412
+VL BUARQUE,Vila Buarque,1413
+VL BURITI,Vila Buriti,1414
+VL BUTANTA,Vila Butanta,1415
+VL C ALMAS,Vila Cruz das Almas,1416
+VL C BUENO,Vila Cunha Bueno,1417
+VL C CAMPOS,Vila Carlos de Campos,1418
+VL C FRANCO,Vila Cardoso Franco,1419
+VL C LUISA,Vila Chica Luisa,1420
+VL C MELO,Vila Costa Melo,1421
+VL C NOVO,Vila Cruzeiro Novo,1422
+VL C PINHAL,Vila Conde do Pinhal,1423
+VL C VELHA,Vila Curuca Velha,1424
+VL CACHOEIRA,Vila Cachoeira,1425
+VL CACHOEIRI,Vila Cachoeirinha,1426
+VL CAICARA,Vila Caicara,1427
+VL CAIUBA,Vila Caiuba,1428
+VL CAJU,Vila Caju,1429
+VL CALIFORNI,Vila California,1430
+VL CALU,Vila Calu,1431
+VL CAMPANELA,Vila Campanela,1432
+VL CAMPESTRE,Vila Campestre,1433
+VL CANERO,Vila Canero,1434
+VL CAPELA,Vila Capela,1435
+VL CARAGUATA,Vila Caraguata,1436
+VL CARBONE,Vila Carbone,1437
+VL CARDOSO,Vila Cardoso,1438
+VL CARIOCA,Vila Carioca,1439
+VL CARMEM,Vila Carmem,1440
+VL CARMOSINA,Vila Carmosina,1441
+VL CAROLINA,Vila Carolina,1442
+VL CARRAO,Vila Carrao,1443
+VL CASTELO,Vila Castelo,1444
+VL CASTRO,Vila Castro,1445
+VL CATUPIA,Vila Catupia,1446
+VL CAVATON,Vila Cavaton,1447
+VL CAXAMBU,Vila Caxambu,1448
+VL CELESTE,Vila Celeste,1449
+VL CENTENARI,Vila Centenario,1450
+VL CENTRAL,Vila Central,1451
+VL CHABILAND,Vila Chabilandia,1452
+VL CHALOT,Vila Chalot,1453
+VL CHARLOTE,Vila Charlote,1454
+VL CHAVANTES,Vila Chavantes,1455
+VL CHUCA,Vila Chuca,1456
+VL CISPER,Vila Cisper,1457
+VL CLARA,Vila Clara,1458
+VL CLARICE,Vila Clarice,1459
+VL CLAUDIA,Vila Claudia,1460
+VL CLELIA,Vila Clelia,1461
+VL CLEMENTIN,Vila Clementino,1462
+VL CLEONICE,Vila Cleonice,1463
+VL COMERCIAL,Vila Comercial,1464
+VL CONCEICAO,Vila Conceicao,1465
+VL CONGONHAS,Vila Congonhas,1466
+VL CONSTANCI,Vila Constancia,1467
+VL CONTINENT,Vila Continental,1468
+VL CORBERI,Vila Corberi,1469
+VL CORDEIRO,Vila Cordeiro,1470
+VL COSMOPOLI,Vila Cosmopolita,1471
+VL CPO GRAND,Vila Campo Grande,1472
+VL CRISTALIA,Vila Cristalia,1473
+VL CRUZEIRO,Vila Cruzeiro,1474
+VL CURUCA,Vila Curuca,1475
+VL D AUGUSTA,Vila Dona Augusta,1476
+VL D AZUL,Vila Danubio Azul,1477
+VL D EIRAS,Vila Doutor Eiras,1478
+VL D JOSE,Vila Dom Jose,1479
+VL D META,Vila Dona Meta,1480
+VL D PASTORA,Vila Divina Pastora,1481
+VL D PED I,Vila Dom Pedro I,1482
+VL D PED II,Vila Dom Pedro II,1483
+VL D SARA,Vila Dona Sara,1484
+VL DALILA,Vila Dalila,1485
+VL DALVA,Vila Dalva,1486
+VL DAMACENO,Vila Damaceno,1487
+VL DARLI,Vila Darli,1488
+VL DEODORO,Vila Deodoro,1489
+VL DINORAH,Vila Dinorah,1490
+VL DIONISIA,Vila Dionisia,1491
+VL DIVA,Vila Diva,1492
+VL DO CASTEL,Vila do Castelo,1493
+VL DOMITILA,Vila Domitila,1494
+VL DORNA,Vila Dorna,1495
+VL DUARTE,Vila Duarte,1496
+VL E NIGRI,Vila Elias Nigri,1497
+VL EDE,Vila Ede,1498
+VL ELBA,Vila Elba,1499
+VL ELIANA,Vila Eliana,1500
+VL ELIDA,Vila Elida,1501
+VL ELIETE,Vila Eliete,1502
+VL ELISIO,Vila Elisio,1503
+VL ELVIRA,Vila Elvira,1504
+VL ELZE,Vila Elze,1505
+VL EMA,Vila Ema,1506
+VL EMIR,Vila Emir,1507
+VL ENCONTRO,Vila do Encontro,1508
+VL ERNA,Vila Erna,1509
+VL ERNESTO,Vila Ernesto,1510
+VL ESCOLAR,Vila Escolar,1511
+VL ESMERALDA,Vila Esmeralda,1512
+VL ESPANHOLA,Vila Espanhola,1513
+VL ESPERANCA,Vila Esperanca,1514
+VL ESTER,Vila Ester,1515
+VL EUTHALIA,Vila Euthalia,1516
+VL F LUX,Vila Fiat Lux,1517
+VL F PINTO,Vila Firmiano Pinto,1518
+VL F RIBEIRO,Vila Fidelis Ribeiro,1519
+VL FACHINI,Vila Fachini,1520
+VL FANTON,Vila Fanton,1521
+VL FATIMA,Vila Fatima,1522
+VL FAZZEONI,Vila Fazzeoni,1523
+VL FELIZ,Vila Feliz,1524
+VL FERNANDES,Vila Fernandes,1525
+VL FIDALGO,Vila Fidalgo,1526
+VL FLAVIA,Vila Flavia,1527
+VL FORMOSA,Vila Formosa,1528
+VL FRANCA,Vila Franca,1529
+VL FRANCI,Vila Franci,1530
+VL FRANCOS,Vila Francos,1531
+VL FRIBURGO,Vila Friburgo,1532
+VL FRUGOLI,Vila Frugoli,1533
+VL FUKUYA,Vila Fukuya,1534
+VL G CARDIM,Vila Gomes Cardim,1535
+VL GABRIEL,Vila Gabriel,1536
+VL GEA,Vila Gea,1537
+VL GERMAINE,Vila Germaine,1538
+VL GERMINAL,Vila Germinal,1539
+VL GERTRUDES,Vila Gertrudes,1540
+VL GIL,Vila Gil,1541
+VL GILDA,Vila Gilda,1542
+VL GIORDANO,Vila Giordano,1543
+VL GOMES,Vila Gomes,1544
+VL GOUVEIA,Vila Gouveia,1545
+VL GRACIOSA,Vila Graciosa,1546
+VL GRANADA,Vila Granada,1547
+VL GRAZIELA,Vila Graziela,1548
+VL GUACA,Vila Guaca,1549
+VL GUACURI,Vila Guacuri,1550
+VL GUARACIAB,Vila Guaraciaba,1551
+VL GUARANI,Vila Guarani,1552
+VL GUEDES,Vila Guedes,1553
+VL GUILHERME,Vila Guilherme,1554
+VL GUILHERMI,Vila Guilhermina,1555
+VL GUMERCIND,Vila Gumercindo,1556
+VL GUSTAVO,Vila Gustavo,1557
+VL HADAD,Vila Hadad,1558
+VL HAMBURGUE,Vila Hamburguesa,1559
+VL HEBE,Vila Hebe,1560
+VL HELENA,Vila Helena,1561
+VL HELIOPOLI,Vila Heliopolis,1562
+VL HERMINIA,Vila Herminia,1563
+VL HOMERO,Vila Homero,1564
+VL HUNGARESA,Vila Hungaresa,1565
+VL I ARNONI,Vila Irmaos Arnoni,1566
+VL I MAZZEI,Vila Isolina Mazzei,1567
+VL ICARAI,Vila Icarai,1568
+VL IDA,Vila Ida,1569
+VL IGUACU,Vila Iguacu,1570
+VL IMPERIO,Vila Imperio,1571
+VL INACIO,Vila Inacio,1572
+VL INAH,Vila Inah,1573
+VL INDEPENDE,Vila Independencia,1574
+VL INDIANA,Vila Indiana,1575
+VL INDUSTRIA,Vila Industrial,1576
+VL INGLESA,Vila Inglesa,1577
+VL INVERNADA,Vila Invernada,1578
+VL IORIO,Vila Iorio,1579
+VL IPOJUCA,Vila Ipojuca,1580
+VL IRACEMA,Vila Iracema,1581
+VL IRENE,Vila Irene,1582
+VL ISA,Vila Isa,1583
+VL ISABEL,Vila Isabel,1584
+VL ISOLINA,Vila Isolina,1585
+VL ITABERABA,Vila Itaberaba,1586
+VL ITAIM,Vila Itaim,1587
+VL IVG,Vila Ivg,1588
+VL IVONE,Vila Ivone,1589
+VL J BATISTA,Vila Joao Batista,1590
+VL J CESAR,Vila Julio Cesar,1591
+VL JACUI,Vila Jacui,1592
+VL JAGUARA,Vila Jaguara,1593
+VL JAGUARI,Vila Jaguari,1594
+VL JARAGUA,Vila Jaragua,1595
+VL JD ZOOLOG,Vila Jardim Zoologico,1596
+VL JOANIZA,Vila Joaniza,1597
+VL JUDITH,Vila Judith,1598
+VL JULIO,Vila Julio,1599
+VL JUREMA,Vila Jurema,1600
+VL JUSSARA,Vila Jussara,1601
+VL KLAUNIG,Vila Klaunig,1602
+VL L ELVIRA,Vila Lucia Elvira,1603
+VL L NACIONA,Vila Lar Nacional,1604
+VL LAGEADO,Vila Lageado,1605
+VL LAIS,Vila Lais,1606
+VL LEME,Vila Leme,1607
+VL LEONOR,Vila Leonor,1608
+VL LEOPOLDIN,Vila Leopoldina,1609
+VL LIBANESA,Vila Libanesa,1610
+VL LISBOA,Vila Lisboa,1611
+VL LIVIERO,Vila Liviero,1612
+VL LONDRINA,Vila Londrina,1613
+VL LOURDES,Vila Lourdes,1614
+VL LUCIA,Vila Lucia,1615
+VL M ALTA,Vila Maria Alta,1616
+VL M AUGUSTA,Vila Maria Augusta,1617
+VL M BAIXA,Vila Maria Baixa,1618
+VL M EUGENIA,Vila Maria Eugenia,1619
+VL M LUISA,Vila Maria Luisa,1620
+VL M MAZZEI,Vila Mariza Mazzei,1621
+VL M TRINDAD,Vila Maria Trindade,1622
+VL M VELHO,Vila Moinho Velho,1623
+VL M ZELIA,Vila Maria Zelia,1624
+VL MACEDOPOL,Vila Macedopolis,1625
+VL MADALENA,Vila Madalena,1626
+VL MAFRA,Vila Mafra,1627
+VL MALVINA,Vila Malvina,1628
+VL MANGALOT,Vila Mangalot,1629
+VL MARA,Vila Mara,1630
+VL MARACANA,Vila Maracana,1631
+VL MARARI,Vila Marari,1632
+VL MARCELO,Vila Marcelo,1633
+VL MARCONI,Vila Marconi,1634
+VL MARGARETH,Vila Margareth,1635
+VL MARGARIDA,Vila Margarida,1636
+VL MARIA,Vila Maria,1637
+VL MARIANA,Vila Mariana,1638
+VL MARIETA,Vila Marieta,1639
+VL MARILENA,Vila Marilena,1640
+VL MARINA,Vila Marina,1641
+VL MARINGA,Vila Maringa,1642
+VL MARTE,Vila Marte,1643
+VL MASCOTE,Vila Mascote,1644
+VL MATIAS,Vila Matias,1645
+VL MATILDE,Vila Matilde,1646
+VL MAZZEI,Vila Mazzei,1647
+VL MEDEIROS,Vila Medeiros,1648
+VL MENDES,Vila Mendes,1649
+VL MERCEDES,Vila Mercedes,1650
+VL MERCES,Vila das Merces,1651
+VL MESQUITA,Vila Mesquita,1652
+VL MIAMI,Vila Miami,1653
+VL MICHELINA,Vila Michelina,1654
+VL MINERIOS,Vila dos Minerios,1655
+VL MINERVA,Vila Minerva,1656
+VL MIRA,Vila Mira,1657
+VL MIRANTE,Vila Mirante,1658
+VL MIRIAM,Vila Miriam,1659
+VL MIRIM,Vila Mirim,1660
+VL MISSIONAR,Vila Missionaria,1661
+VL MODERNA,Vila Moderna,1662
+VL MONUMENTO,Vila Monumento,1663
+VL MORAES,Vila Moraes,1664
+VL MOREIRA,Vila Moreira,1665
+VL MORGADOUR,Vila Morgadouro,1666
+VL MORSE,Vila Morse,1667
+VL MORUMBI,Vila Morumbi,1668
+VL MRO GRAND,Vila Morro Grande,1669
+VL MTE ALEGR,Vila Monte Alegre,1670
+VL MTE SANTO,Vila Monte Santo,1671
+VL N ALBA,Vila Nova Alba,1672
+VL N BELEZAS,Vila Nova das Belezas,1673
+VL N CACHOEI,Vila Nova Cachoeirinha,1674
+VL N CALEDON,Vila Nova Caledonia,1675
+VL N CAROLIN,Vila Nova Carolina,1676
+VL N CONCEIC,Vila Nova Conceicao,1677
+VL N CURUCA,Vila Nova Curuca,1678
+VL N GALVAO,Vila Nova Galvao,1679
+VL N JARAGUA,Vila Nova Jaragua,1680
+VL N MANCHES,Vila Nova Manchester,1681
+VL N MAZZEI,Vila Nova Mazzei,1682
+VL N OPERARI,Vila Nitro Operaria,1683
+VL N PAULICE,Vila Nova Pauliceia,1684
+VL N PERUS,Vila Nova Perus,1685
+VL N PIRAJUS,Vila Nova Pirajussara,1686
+VL N QUIMICA,Vila Nitro Quimica,1687
+VL N S APARE,Vila Nossa Senhora Aparecida,1688
+VL N S CONCE,Vila Nossa Senhora da Conceicao,1689
+VL N S LIBAN,Vila Nossa Senhora do Libano,1690
+VL N S MIGUE,Vila Nova São Miguel,1691
+VL N S RETIR,Vila Nossa Senhora do Retiro,1692
+VL N SAVOIA,Vila Nova Savoia,1693
+VL N TERESA,Vila Nova Teresa,1694
+VL N UNIAO,Vila Nova Uniao,1695
+VL N UTINGA,Vila Nova Utinga,1696
+VL N YORK,Vila Nova York,1697
+VL NAIR,Vila Nair,1698
+VL NANCY,Vila Nancy,1699
+VL NASCENTE,Vila Nascente,1700
+VL NATAL,Vila Natal,1701
+VL NATALIA,Vila Natalia,1702
+VL NEILA,Vila Neila,1703
+VL NELSON,Vila Nelson,1704
+VL NHOCUNE,Vila Nhocune,1705
+VL NILO,Vila Nilo,1706
+VL NILVA,Vila Nilva,1707
+VL NINA,Vila Nina,1708
+VL NIVI,Vila Nivi,1709
+VL NOCA,Vila Noca,1710
+VL NOGUEIRA,Vila Nogueira,1711
+VL NORMA,Vila Norma,1712
+VL NOVA,Vila Nova,1713
+VL ODETE,Vila Odete,1714
+VL OLGA,Vila Olga,1715
+VL OLIMPIA,Vila Olimpia,1716
+VL OLINDA,Vila Olinda,1717
+VL ORATORIO,Vila Oratorio,1718
+VL P BARRETO,Vila Pereira Barreto,1719
+VL P BRANCA,Vila Pedra Branca,1720
+VL P CERCA,Vila Pereira Cerca,1721
+VL P ISABEL,Vila Princesa Isabel,1722
+VL P OUTUBRO,Vila Primeiro de Outubro,1723
+VL P SILAS,Vila Paulo Silas,1724
+VL PAIVA,Vila Paiva,1725
+VL PALMARES,Vila dos Palmares,1726
+VL PALMEIRAS,Vila Palmeiras,1727
+VL PARANAGUA,Vila Paranagua,1728
+VL PATRIMONI,Vila Patrimonial,1729
+VL PAULICEIA,Vila Pauliceia,1730
+VL PAULINA,Vila Paulina,1731
+VL PAULISTA,Vila Paulista,1732
+VL PAZ,Vila da Paz,1733
+VL PEDROSO,Vila Pedroso,1734
+VL PENTEADO,Vila Penteado,1735
+VL PERUS,Vila Perus,1736
+VL PIAUI,Vila Piaui,1737
+VL PICININ,Vila Picinin,1738
+VL PIERINA,Vila Pierina,1739
+VL PIRACICAB,Vila Piracicaba,1740
+VL PIRAJUSSA,Vila Pirajussara,1741
+VL PIRITUBA,Vila Pirituba,1742
+VL PITA,Vila Pita,1743
+VL PLANA,Vila Plana,1744
+VL PLSTANA,Vila Paulistana,1745
+VL PLSTANIA,Vila Paulistania,1746
+VL POLOPOLI,Vila Polopoli,1747
+VL POMPEIA,Vila Pompeia,1748
+VL POPULAR,Vila Popular,1749
+VL PORTUGAL,Vila Portugal,1750
+VL PORTUGUES,Vila Portuguesa,1751
+VL PRADO,Vila Prado,1752
+VL PRAIA,Vila Praia,1753
+VL PREL,Vila Prel,1754
+VL PRIMAVERA,Vila Primavera,1755
+VL PROGREDIO,Vila Progredior,1756
+VL PROGRESSO,Vila Progresso,1757
+VL PRQ JABAQ,Vila Parque Jabaquara,1758
+VL PRUDENTE,Vila Prudente,1759
+VL PTE RASA,Vila Ponte Rasa,1760
+VL Q CENTENA,Vila Quarto Centenario,1761
+VL QUINTANA,Vila Quintana,1762
+VL R ALEGRE,Vila Rancho Alegre,1763
+VL R BARBOSA,Vila Rui Barbosa,1764
+VL R BARROS,Vila Ribeiro de Barros,1765
+VL R BRANCO,Vila Rio Branco,1766
+VL R FEIJO,Vila Regente Feijo,1767
+VL R MOLLA,Vila Rosa Molla,1768
+VL RAMOS,Vila Ramos,1769
+VL RAQUEL,Vila Raquel,1770
+VL RE,Vila Re,1771
+VL REGINA,Vila Regina,1772
+VL REIS,Vila Reis,1773
+VL REMEDIOS,Vila dos Remedios,1774
+VL REMO,Vila Remo,1775
+VL RENATO,Vila Renato,1776
+VL REPRESA,Vila Represa,1777
+VL RICA,Vila Rica,1778
+VL ROBERTINA,Vila Robertina,1779
+VL RODRIGUES,Vila Rodrigues,1780
+VL ROMANA,Vila Romana,1781
+VL ROMANO,Vila Romano,1782
+VL ROMERO,Vila Romero,1783
+VL ROQUE,Vila Roque,1784
+VL ROSARIA,Vila Rosaria,1785
+VL ROSCHEL,Vila Roschel,1786
+VL ROSINA,Vila Rosina,1787
+VL RUBI,Vila Rubi,1788
+VL S ANTONIO,Vila Santo Antonio,1789
+VL S CAMILO,Vila São Camilo,1790
+VL S CATARIN,Vila Santa Catarina,1791
+VL S CLARA,Vila Santa Clara,1792
+VL S CRUZ,Vila Santa Cruz,1793
+VL S DELFINA,Vila Santa Delfina,1794
+VL S DOMINGO,Vila São Domingos,1795
+VL S E REIS,Vila Santo Estevam Reis,1796
+VL S EDWIGES,Vila Santa Edwiges,1797
+VL S ESTEFAN,Vila Santo Estefano,1798
+VL S ESTEVAO,Vila Santo Estevao,1799
+VL S EULALIA,Vila Santa Eulalia,1800
+VL S FRANCIS,Vila São Francisco,1801
+VL S GERALDO,Vila São Geraldo,1802
+VL S HENRIQU,Vila Santo Henrique,1803
+VL S INES,Vila Santa Ines,1804
+VL S ISABEL,Vila Santa Isabel,1805
+VL S JOSE,Vila São Jose,1806
+VL S JUDAS,Vila São Judas,1807
+VL S LUCIA,Vila Santa Lucia,1808
+VL S LUIS,Vila São Luis,1809
+VL S MARIA,Vila Santa Maria,1810
+VL S NICOLAU,Vila São Nicolau,1811
+VL S PAULO,Vila São Paulo,1812
+VL S PEDRO,Vila São Pedro,1813
+VL S SEBASTI,Vila São Sebastiao,1814
+VL S SILVEST,Vila São Silvestre,1815
+VL S TELES,Vila Silva Teles,1816
+VL S TERESA,Vila Santa Teresa,1817
+VL S TERESIN,Vila Santa Teresinha,1818
+VL S TEREZIN,Vila Santa Terezinha,1819
+VL S VICENTE,Vila São Vicente,1820
+VL S VIRGINI,Vila Santa Virginia,1821
+VL SABRINA,Vila Sabrina,1822
+VL SALETE,Vila Salete,1823
+VL SAMPAIO,Vila Sampaio,1824
+VL SANTANA,Vila Santana,1825
+VL SANTISTA,Vila Santista,1826
+VL SANTOS,Vila Santos,1827
+VL SAPOPEMBA,Vila Sapopemba,1828
+VL SARA,Vila Sara,1829
+VL SAUDE,Vila da Saude,1830
+VL SAVOY,Vila Savoy,1831
+VL SEABRA,Vila Seabra,1832
+VL SERGIO,Vila Sergio,1833
+VL SERRALHEI,Vila Serralheiro,1834
+VL SILVEIRA,Vila Silveira,1835
+VL SILVIA,Vila Silvia,1836
+VL SIMONE,Vila Simone,1837
+VL SINHA,Vila Sinha,1838
+VL SIQUEIRA,Vila Siqueira,1839
+VL SIRENE,Vila Sirene,1840
+VL SIRIA,Vila Siria,1841
+VL SOCORRO,Vila Socorro,1842
+VL SOFIA,Vila Sofia,1843
+VL SOL,Vila Sol,1844
+VL SOLANGE,Vila Solange,1845
+VL SONIA,Vila Sonia,1846
+VL SOUZA,Vila Souza,1847
+VL STELA,Vila Stela,1848
+VL SUICA,Vila Suica,1849
+VL SULINA,Vila Sulina,1850
+VL SUZANA,Vila Suzana,1851
+VL TAIAU,Vila Taiau,1852
+VL TALARICO,Vila Talarico,1853
+VL TAQUARI,Vila Taquari,1854
+VL TERESINHA,Vila Teresinha,1855
+VL TIRADENTE,Vila Tiradentes,1856
+VL TOLSTOI,Vila Tolstoi,1857
+VL TRAMONTAN,Vila Tramontano,1858
+VL UBERABINH,Vila Uberabinha,1859
+VL UNIAO,Vila Uniao,1860
+VL UNIVERSIT,Vila Universitaria,1861
+VL URSULINA,Vila Ursulina,1862
+VL V MAZZEI,Vila Vitorio Mazzei,1863
+VL VALDEMAR,Vila Valdemar,1864
+VL VASCONCEL,Vila Vasconcelos,1865
+VL VERA,Vila Vera,1866
+VL VERDE,Vila Verde,1867
+VL VERMELHA,Vila Vermelha,1868
+VL VESSONI,Vila Vessoni,1869
+VL VIRGINIA,Vila Virginia,1870
+VL VITORIA,Vila Vitoria,1871
+VL YARA,Vila Yara,1872
+VL YOLANDA,Vila Yolanda,1873
+VL ZAT,Vila Zat,1874
+VL ZEFIRA,Vila Zefira,1875
+VL ZELINA,Vila Zelina,1876
+VL ZILDA,Vila Zilda,1877
+VL ZULMIRA,Vila Zulmira,1878
+OUTROS SP,Outros Municípios de São Paulo,9999
+FORA DE SP,Fora do Estado de São Paulo,0
+IGNORADO,Ignorado,-1
